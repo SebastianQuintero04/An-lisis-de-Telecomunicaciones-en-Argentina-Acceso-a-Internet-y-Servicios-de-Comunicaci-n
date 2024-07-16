@@ -1,0 +1,1054 @@
+,Provincia,Partido,Localidad,Población,ADSL,Cablemódem,Dial Up,Fibra óptica,Satelital,Wireless,Telefonía Fija,3G,4G,Link,Latitud,Longitud,Total_Servicios_Disponibles,Categoria_Poblacion
+0,BUENOS AIRES,9 de Julio,Alfredo Demarchi (Est. Facundo Quiroga),1853,True,False,False,False,False,False,True,True,True,6588010.0,-35.2929819536873,-61.4072542128,4,Pequeña
+1,BUENOS AIRES,9 de Julio,Carlos María Naón,497,False,False,False,False,False,False,True,True,True,6588020.0,-35.239499381663,-60.8251358750153,3,Muy pequeña
+2,BUENOS AIRES,9 de Julio,Dudignac,2670,False,False,True,False,False,True,True,True,True,6588040.0,-35.6511928511123,-60.7098962799094,5,Mediana
+3,BUENOS AIRES,9 de Julio,La Aurora (Est. La Niña),531,False,False,False,False,False,False,False,False,True,6588050.0,-35.4079467934432,-61.2105668204871,1,Pequeña
+4,BUENOS AIRES,9 de Julio,Manuel B. Gonnet (Est. French),748,True,False,False,True,False,False,True,True,True,6588060.0,-35.5201414507378,-60.9989487976537,5,Pequeña
+5,BUENOS AIRES,9 de Julio,Marcelino Ugarte (Est. Dennehy),76,False,False,False,False,False,False,True,False,True,6588070.0,-35.3462662593318,-60.7453446826815,2,Muy pequeña
+6,BUENOS AIRES,9 de Julio,Morea,347,False,False,False,False,False,True,True,False,False,6588080.0,-35.5563880098445,-60.5605940553161,2,Muy pequeña
+7,BUENOS AIRES,9 de Julio,Norumbega,57,False,False,False,False,False,False,True,False,False,6588090.0,-35.5357392707567,-60.7928143632315,1,Muy pequeña
+8,BUENOS AIRES,9 de Julio,Patricios,745,True,False,False,False,False,True,True,True,False,6588110.0,-35.4395526972374,-60.7174384712323,4,Pequeña
+9,BUENOS AIRES,9 de Julio,Villa General Fournier (Est. 9 de Julio Sud),566,False,False,False,True,False,True,True,True,True,6588120.0,-35.4989239490928,-60.8647207106461,5,Pequeña
+10,BUENOS AIRES,Adolfo Alsina,Carhué,9660,True,False,True,True,False,True,True,True,True,6007010.0,-37.1774801030509,-62.7578962604015,7,Mediana
+11,BUENOS AIRES,Adolfo Alsina,Espartillar,21,False,False,False,False,False,False,False,False,True,6007040.0,-37.3563345638716,-62.4387637810214,1,Muy pequeña
+12,BUENOS AIRES,Alberti,Villa María,24,False,False,False,False,False,False,False,False,False,6021060.0,-34.8881255447686,-60.3469385614883,0,Muy pequeña
+13,BUENOS AIRES,Alberti,Villa Ortiz (Est. Coronel Mom),815,False,False,False,False,False,True,True,True,True,6021070.0,-34.8435329449862,-60.3048498633642,4,Pequeña
+14,BUENOS AIRES,Almirante Brown,Adrogué,30271,True,True,True,True,True,True,True,True,True,6028010.0,-34.8015580737331,-58.3914677191541,9,Grande
+15,BUENOS AIRES,Almirante Brown,Burzaco,92223,True,True,True,True,True,True,True,True,True,6028010.0,-34.8315415891783,-58.3986874871405,9,Grande
+16,BUENOS AIRES,Almirante Brown,Claypole,44098,True,True,True,True,False,True,True,True,True,6028010.0,-34.8044759080477,-58.3447825531042,8,Grande
+17,BUENOS AIRES,Almirante Brown,Don Orione,46366,False,True,False,False,False,True,False,True,True,6028010.0,-34.8210751643113,-58.3447457989957,4,Grande
+18,BUENOS AIRES,Almirante Brown,Glew,61985,True,True,True,True,False,True,True,True,True,6028010.0,-34.8860114180413,-58.3818301842512,8,Grande
+19,BUENOS AIRES,Almirante Brown,Jose Mármol,43494,False,True,True,True,False,True,True,True,True,6028010.0,-34.7851442510713,-58.3681475603787,7,Grande
+20,BUENOS AIRES,La Matanza,Ciudad Evita,97087,True,True,True,True,False,True,True,True,True,6427010.0,-34.7245358500775,-58.5370063768546,8,Grande
+21,BUENOS AIRES,La Matanza,Gonzalez Catán,233988,True,True,True,True,True,True,True,True,True,6427010.0,-34.7724652485211,-58.6404861634561,9,Grande
+22,BUENOS AIRES,La Matanza,Gregorio De Laferrere,248439,True,True,True,True,False,True,True,True,True,6427010.0,-34.7468379962284,-58.5925328858169,8,Grande
+23,BUENOS AIRES,La Matanza,Isidro Casanova,192465,True,True,True,True,False,True,True,True,True,6427010.0,-34.7184291570686,-58.577751528605,8,Grande
+24,BUENOS AIRES,La Matanza,La Tablada,113689,True,True,True,True,False,True,True,True,True,6427010.0,-34.6870536689657,-58.5256123986254,8,Grande
+25,BUENOS AIRES,La Matanza,Lomas Del Mirador,74065,True,True,True,True,False,True,True,True,True,6427010.0,-34.6656949723622,-58.5331553311677,8,Grande
+26,BUENOS AIRES,Lomas De Zamora,Lomas De Zamora,116615,True,True,True,True,True,True,True,True,True,6490010.0,-34.7627676410061,-58.4267903899666,9,Grande
+27,BUENOS AIRES,Lomas De Zamora,Temperley,116368,True,True,True,True,True,False,True,True,True,6490010.0,-34.767486625425,-58.3780461337408,8,Grande
+28,BUENOS AIRES,Lomas De Zamora,Turdera,10199,True,True,True,True,False,False,True,True,True,6490010.0,-34.789560716095,-58.4041056486523,7,Grande
+29,BUENOS AIRES,Lomas De Zamora,Villa Centenario,51834,False,True,False,False,False,True,False,True,True,6490010.0,-34.7289932955803,-58.4283436419093,4,Grande
+30,BUENOS AIRES,Lomas De Zamora,Villa Fiorito,44713,False,True,False,True,False,True,True,True,True,6490010.0,-34.7067104032516,-58.4451304500011,6,Grande
+31,BUENOS AIRES,Luján,Barrio Las Casuarinas,0,False,False,False,True,False,True,True,True,True,6497060.0,-34.5607457195455,-59.1700837097016,5,Muy pequeña
+32,BUENOS AIRES,Luján,Carlos Keen,557,False,False,False,False,False,True,True,True,True,6497020.0,-34.4862819813638,-59.2180861330698,4,Pequeña
+33,BUENOS AIRES,Luján,Club de Campo Los Puentes,302,False,False,False,False,False,False,False,True,True,6497025.0,-34.5760126891975,-59.0214105976263,2,Muy pequeña
+34,BUENOS AIRES,San Vicente,Domselaar,0,False,True,False,False,False,True,True,True,True,6778020.0,-35.048692550243,-58.3145745868708,5,Muy pequeña
+35,BUENOS AIRES,San Vicente,San Vicente,23405,True,True,True,True,False,True,True,True,True,6778020.0,-35.010404143813,-58.4699705982043,8,Grande
+36,BUENOS AIRES,Suipacha,General Rivas,478,True,False,False,False,False,True,True,False,True,6784010.0,-34.6100370680434,-59.7504234207746,4,Muy pequeña
+37,BUENOS AIRES,Suipacha,Suipacha,8403,True,False,True,True,False,True,True,True,True,6784020.0,-34.7712617839883,-59.6879181821818,7,Mediana
+38,BUENOS AIRES,Tandil,De la Canal,57,False,False,False,False,False,True,False,False,False,6791010.0,-37.1293125663244,-59.105380206456,1,Muy pequeña
+39,BUENOS AIRES,Tandil,Desvío Aguirre,0,False,False,False,True,False,True,False,True,True,6791050.0,-37.35,-59.0,4,Muy pequeña
+40,BUENOS AIRES,Tandil,Gardey,532,False,False,False,True,False,True,True,True,True,6791030.0,-37.2823323375205,-59.3630004748452,5,Pequeña
+41,BUENOS AIRES,Tandil,María Ignacia (Est. Vela),1948,True,False,False,False,False,True,True,False,True,6791040.0,-37.4029073074266,-59.5093354449092,4,Pequeña
+42,BUENOS AIRES,Tandil,Tandil,116916,True,True,True,True,True,True,True,True,True,6791050.0,-37.3238849060878,-59.1310691770429,9,Grande
+43,BUENOS AIRES,Tapalqué,Crotto,247,False,False,False,False,False,False,False,False,False,6798010.0,-36.5774103919485,-60.1711185359919,0,Muy pequeña
+44,CABA,COMUNA 01,MONSERRAT,39914,True,True,True,True,True,True,True,True,True,2000010.0,-34.6126880821742,-58.379652044818,9,Grande
+45,CABA,COMUNA 11,VILLA SANTA RITA,33325,True,True,True,True,True,True,True,True,True,2000010.0,-34.6161936201559,-58.4829573518477,9,Grande
+46,BUENOS AIRES,Adolfo Gonzales Chaves,Adolfo Gonzales Chaves (Est. Chaves),9066,True,False,True,True,False,True,True,True,True,6014010.0,-38.0333995087596,-60.1003341740637,7,Mediana
+47,BUENOS AIRES,Adolfo Gonzales Chaves,De la Garma,1625,False,False,False,True,False,True,True,True,True,6014020.0,-37.9635021758562,-60.415659383962,5,Pequeña
+48,BUENOS AIRES,Adolfo Gonzales Chaves,Juan E. Barra,212,False,False,False,False,False,True,True,False,False,6014030.0,-37.8233871716044,-60.484639770555,2,Muy pequeña
+49,BUENOS AIRES,Adolfo Gonzales Chaves,Vásquez,43,False,False,False,False,False,True,True,True,True,6014040.0,-38.1766861391835,-60.1708487303777,4,Muy pequeña
+50,BUENOS AIRES,Alberti,Alberti (Est. Andrés Vaccarezza),8260,True,False,True,True,False,True,True,True,True,6021010.0,-35.0330734347841,-60.2806197287099,7,Mediana
+51,BUENOS AIRES,Alberti,Coronel Seguí,146,False,False,False,False,False,True,False,False,False,6021020.0,-34.8681189984321,-60.3939708823404,1,Muy pequeña
+52,BUENOS AIRES,Alberti,Mechita,412,True,False,False,False,False,False,False,True,True,6021030.0,-35.068013673391,-60.4025971632697,3,Muy pequeña
+53,BUENOS AIRES,Alberti,Pla,192,False,False,False,False,False,False,True,False,False,6021040.0,-35.1243819752343,-60.2200612615259,1,Muy pequeña
+54,BUENOS AIRES,Alberti,Villa Grisolía (Est. Achupallas),112,False,False,False,False,False,False,False,True,True,6021050.0,-35.1096178332808,-60.070551324606,2,Muy pequeña
+55,BUENOS AIRES,Carlos Casares,Cadret,214,False,False,False,False,False,True,True,False,False,6147020.0,-35.7727531397053,-61.3353879836968,2,Muy pequeña
+56,BUENOS AIRES,Carlos Casares,Carlos Casares,18347,True,True,True,True,False,True,True,True,True,6147030.0,-35.623543502046,-61.3653159121918,8,Grande
+57,BUENOS AIRES,Carlos Casares,Colonia Mauricio,8,False,False,False,False,False,False,False,False,False,6147040.0,-35.5249595511909,-61.4378670824782,0,Muy pequeña
+58,BUENOS AIRES,Carlos Casares,Hortensia,224,False,False,False,False,False,False,False,False,False,6147050.0,-35.9277092575349,-61.262290153739,0,Muy pequeña
+59,BUENOS AIRES,Carlos Casares,La Sofía,12,False,False,False,False,False,True,False,True,True,6147060.0,-35.7003907357414,-61.1702865161871,3,Muy pequeña
+60,BUENOS AIRES,Carlos Casares,Mauricio Hirsch,76,False,False,False,False,False,True,True,False,False,6147070.0,-35.583017649873,-61.5244457086778,2,Muy pequeña
+61,BUENOS AIRES,Carlos Casares,Moctezuma,471,False,False,False,False,False,True,True,False,True,6147080.0,-35.4774725641963,-61.4930734927677,3,Muy pequeña
+62,BUENOS AIRES,Carlos Casares,Ordoqui,174,False,False,False,False,False,False,False,False,False,6147090.0,-35.8831262095535,-61.1594280439031,0,Muy pequeña
+63,BUENOS AIRES,Carlos Casares,Santo Tomás,27,False,False,False,False,False,False,False,False,False,6147095.0,-35.6740915009624,-61.5066664301675,0,Muy pequeña
+64,BUENOS AIRES,Carlos Casares,Smith,465,False,False,False,False,False,True,True,False,False,6147100.0,-35.4946290260766,-61.5937811081594,2,Muy pequeña
+65,BUENOS AIRES,Carlos Tejedor,Carlos Tejedor,5178,True,True,True,True,False,True,True,True,True,6154010.0,-35.3925733302196,-62.4193023144118,8,Mediana
+66,BUENOS AIRES,Carlos Tejedor,Colonia Seré,726,False,False,False,False,False,True,True,False,False,6154020.0,-35.4388157700903,-62.7252382146864,2,Pequeña
+67,BUENOS AIRES,Carlos Tejedor,Curarú,422,False,False,False,False,False,True,True,False,False,6154030.0,-35.6403503028113,-62.1924372294866,2,Muy pequeña
+68,BUENOS AIRES,Carlos Tejedor,Timote,526,False,False,False,False,False,True,True,False,False,6154040.0,-35.3477615165229,-62.2246532791856,2,Pequeña
+69,BUENOS AIRES,Carlos Tejedor,Tres Algarrobos (Est. Cuenca),3201,False,False,False,False,True,True,True,True,True,6154050.0,-35.1979815144911,-62.7730814064669,5,Mediana
+70,BUENOS AIRES,La Matanza,Rafael Castillo,147069,True,True,True,True,False,True,True,True,True,6427010.0,-34.7132054583486,-58.6258365121679,8,Grande
+71,BUENOS AIRES,La Matanza,Ramos Mejía,139369,True,True,True,True,True,True,True,True,True,6427010.0,-34.6523081823718,-58.5592114732944,9,Grande
+72,BUENOS AIRES,La Matanza,San Justo,148882,True,True,True,True,True,True,True,True,True,6427010.0,-34.6881604248706,-58.5626785715398,9,Grande
+73,BUENOS AIRES,La Matanza,Tapiales,21437,True,True,True,True,True,True,True,True,True,6427010.0,-34.7108317770604,-58.495008488146,9,Grande
+74,BUENOS AIRES,La Matanza,Villa Eduardo Madero,106891,True,True,True,True,False,True,True,True,True,6427010.0,-34.6981156880684,-58.4877575961419,8,Grande
+75,BUENOS AIRES,La Matanza,Villa Luzuriaga,104585,True,True,True,True,False,True,True,True,True,6427010.0,-34.6730866446433,-58.5938792359541,8,Grande
+76,BUENOS AIRES,Tapalqué,Tapalqué,7444,False,False,False,False,True,False,True,True,True,6798020.0,-36.3573669882462,-60.0247443487218,4,Mediana
+77,BUENOS AIRES,Tapalqué,Velloso,127,False,False,False,False,False,False,False,False,False,6798030.0,-36.1215309084723,-59.6527146246682,0,Muy pequeña
+78,BUENOS AIRES,Tigre,Benavídez,42781,True,True,False,True,True,True,True,True,True,6805010.0,-34.4104347356392,-58.6887919689512,8,Grande
+79,BUENOS AIRES,Tigre,Dique Luján,3351,True,True,False,True,False,True,True,True,True,6805010.0,-34.3717750147952,-58.6917925096496,7,Mediana
+80,BUENOS AIRES,Tigre,Don Torcuato Este,38359,True,True,True,True,False,True,True,True,True,6805010.0,-34.4869370480479,-58.6159410299812,8,Grande
+81,BUENOS AIRES,Tigre,Don Torcuato Oeste,42873,False,False,False,False,False,True,False,True,True,6805010.0,-34.5035354582885,-58.6275286549289,3,Grande
+82,BUENOS AIRES,Tigre,El Talar,54374,True,True,False,True,True,True,True,True,True,6805010.0,-34.4713213368481,-58.6570301927479,8,Grande
+83,BUENOS AIRES,Tigre,General Pacheco,54208,True,True,False,True,True,True,True,True,True,6805010.0,-34.4523088119909,-58.6448936162046,8,Grande
+84,BUENOS AIRES,Tigre,Los Troncos Del Talar,37016,True,True,False,True,True,False,True,True,True,6805010.0,-34.4425672031974,-58.6174364127772,7,Grande
+85,BUENOS AIRES,Tigre,Nordelta,0,False,True,False,True,False,False,True,True,True,6805010.0,-34.4065916,-58.6712671,5,Muy pequeña
+86,BUENOS AIRES,Tigre,Ricardo Rojas,24410,True,True,False,True,False,False,True,True,True,6805010.0,-34.4563339674448,-58.6806670320976,6,Grande
+87,BUENOS AIRES,Tigre,Rincón de Milberg,34588,True,True,False,True,False,True,True,True,True,6805010.0,-34.4097532043357,-58.6304827023614,7,Grande
+88,BUENOS AIRES,Tigre,Tigre,38954,True,True,False,True,True,True,True,True,True,6805010.0,-34.4266925110065,-58.5779717541318,8,Grande
+89,CABA,COMUNA 01,PUERTO MADERO,6726,True,True,True,True,True,True,True,True,True,2000010.0,-34.6092161933037,-58.3563809151849,9,Mediana
+90,CABA,COMUNA 12,COGHLAN,18604,True,True,True,True,True,True,True,True,True,2000010.0,-34.5606251344745,-58.4749447458843,9,Grande
+91,BUENOS AIRES,Almirante Brown,Longchamps,51001,True,True,True,True,False,True,True,True,True,6028010.0,-34.8609450255718,-58.3891476922426,8,Grande
+92,BUENOS AIRES,Almirante Brown,Malvinas Argentinas,25844,True,True,True,True,False,True,True,True,True,6028010.0,-34.8189583169642,-58.4235610606239,8,Grande
+93,BUENOS AIRES,Almirante Brown,Ministro Rivadavia,17928,True,True,True,True,False,True,True,True,True,6028010.0,-34.8556895005541,-58.3616465427911,8,Grande
+94,BUENOS AIRES,Almirante Brown,Rafael Calzada,60422,True,True,True,True,False,True,True,True,True,6028010.0,-34.7911367513318,-58.350598184222,8,Grande
+95,BUENOS AIRES,Almirante Brown,San Francisco Solano,30355,True,True,True,True,False,True,True,True,True,6028010.0,-34.7866743578473,-58.3219363521574,8,Grande
+96,BUENOS AIRES,Almirante Brown,San Jose,48151,True,True,True,True,True,True,True,True,True,6028010.0,-34.7673771924196,-58.3432771404358,9,Grande
+97,BUENOS AIRES,Exaltación de la Cruz,Diego Gaynor,236,False,False,False,False,False,False,False,False,False,6266030.0,-34.288973975279,-59.222781222713,0,Muy pequeña
+98,BUENOS AIRES,La Matanza,Virrey Del Pino,127171,True,True,False,True,False,True,True,True,True,6427010.0,-34.8475213469043,-58.686067635918,7,Grande
+99,BUENOS AIRES,La Plata,Abasto,0,True,True,False,True,False,True,True,True,True,6441030.0,-35.0103681960184,-58.1151848585184,7,Muy pequeña
+100,BUENOS AIRES,La Plata,Angel Etcheverry,0,False,True,False,False,False,True,False,True,True,6441030.0,-35.0261580911328,-58.0959060056615,4,Muy pequeña
+101,BUENOS AIRES,La Plata,Arana,0,False,False,False,False,False,True,False,False,False,6441030.0,-35.0300556104917,-57.8865250010855,1,Muy pequeña
+102,BUENOS AIRES,La Plata,Arturo Segui,0,False,True,False,False,False,False,True,True,True,6441030.0,-34.8907397135389,-58.132711650613,4,Muy pequeña
+103,BUENOS AIRES,La Plata,Barrio El Carmen Oeste,0,False,False,False,False,False,True,False,False,False,6441030.0,-34.9707544223488,-57.8108950283044,1,Muy pequeña
+104,BUENOS AIRES,La Plata,Barrio El Peligro,0,True,False,False,True,False,False,True,True,True,6441030.0,-34.933333,-58.166667,5,Muy pequeña
+105,BUENOS AIRES,La Plata,Barrio Gambier,0,False,False,False,False,False,True,False,True,True,6441030.0,-34.9359594527479,-57.9837630521994,3,Muy pequeña
+106,BUENOS AIRES,La Plata,Barrio Las Malvinas,0,False,False,False,False,False,False,False,True,True,6441030.0,-34.9374880163466,-58.0093954169858,2,Muy pequeña
+107,BUENOS AIRES,La Plata,Barrio Las Quintas,0,False,False,False,False,False,False,False,False,True,6441030.0,-34.9257210987549,-58.0393403036748,1,Muy pequeña
+108,BUENOS AIRES,La Plata,City Bell,0,False,True,False,True,False,True,True,True,True,6441030.0,-34.8879382744371,-58.0582328038691,6,Muy pequeña
+109,BUENOS AIRES,La Plata,Country Club El Rodeo,262,False,False,False,True,False,False,False,True,True,6441010.0,-35.0794688053886,-58.1393275732941,3,Muy pequeña
+110,BUENOS AIRES,Exaltación de la Cruz,El Remanso,0,True,False,False,True,False,True,True,True,True,6266030.0,-34.4149477393736,-59.086281182388,6,Muy pequeña
+111,BUENOS AIRES,Exaltación de la Cruz,Los Cardales,7174,True,True,True,False,True,True,True,True,True,6266040.0,-34.3300736993853,-58.9885651588167,8,Mediana
+112,BUENOS AIRES,Exaltación de la Cruz,Parada Orlando,1207,False,False,False,False,False,True,False,False,False,6266050.0,-34.3273003551547,-59.0759905460338,1,Pequeña
+113,BUENOS AIRES,Exaltación de la Cruz,Parada Robles - Pavón,8008,True,False,False,True,False,True,True,True,True,6266060.0,-34.3581118951493,-59.0310010709452,6,Mediana
+114,BUENOS AIRES,Ezeiza,Aeropuerto Internacional Ezeiza,5651,True,False,True,True,True,False,True,True,True,6270010.0,-34.8128216283518,-58.5521650062885,7,Mediana
+115,BUENOS AIRES,Ezeiza,Canning,3444,True,True,True,True,False,True,True,True,True,6270010.0,-34.8962283957338,-58.5087006002723,8,Mediana
+116,BUENOS AIRES,Ezeiza,Carlos Spegazzini,25990,True,True,True,True,True,True,True,True,True,6270010.0,-34.9338489869515,-58.5780017334776,9,Grande
+117,BUENOS AIRES,Tordillo,General Conesa,1302,True,True,False,False,False,True,True,True,True,6812010.0,-36.5208587437818,-57.3249371025508,6,Pequeña
+118,BUENOS AIRES,Tordillo,Villa Roch,0,False,False,False,False,False,True,False,True,True,6812010.0,-36.4735206430311,-57.3384090004103,3,Muy pequeña
+119,BUENOS AIRES,Tornquist,Chasicó,203,False,False,False,False,False,False,True,False,False,6819010.0,-38.3352258409739,-62.6424099899733,1,Muy pequeña
+120,BUENOS AIRES,Tornquist,Saldungaray,1351,True,False,False,False,False,False,True,True,True,6819020.0,-38.2028131038038,-61.7678925154653,4,Pequeña
+121,BUENOS AIRES,Tornquist,Sierra de la Ventana,2165,False,True,False,True,False,False,True,True,True,6819030.0,-38.1366716139365,-61.7956860399239,5,Mediana
+122,BUENOS AIRES,Tornquist,Tornquist,6473,True,True,False,True,True,False,True,True,True,6819040.0,-38.0989983131157,-62.2218091270044,7,Mediana
+123,BUENOS AIRES,Tornquist,Tres Picos,82,False,False,False,False,False,False,False,False,True,6819050.0,-38.2867749310339,-62.2073117423093,1,Muy pequeña
+124,BUENOS AIRES,Tornquist,Villa Serrana La Gruta,52,False,True,False,False,False,False,False,False,False,6819060.0,-38.0568266332177,-62.0782618310425,1,Muy pequeña
+125,BUENOS AIRES,Tornquist,Villa Ventana,609,True,False,False,False,False,False,True,False,True,6819070.0,-38.0795765714478,-61.9311383483155,3,Pequeña
+126,BUENOS AIRES,Trenque Lauquen,30 de Agosto,4777,False,True,False,True,False,False,True,True,True,6826040.0,-36.2779720057322,-62.5453088654651,5,Mediana
+127,BUENOS AIRES,Trenque Lauquen,Berutti,1098,False,False,False,True,False,False,True,True,True,6826010.0,-35.8580311359835,-62.5126328995628,4,Pequeña
+128,BUENOS AIRES,Trenque Lauquen,Girodias,161,True,False,False,False,False,True,True,False,False,6826020.0,-36.367451804132,-62.3569660936558,3,Muy pequeña
+129,BUENOS AIRES,Trenque Lauquen,La Carreta,45,False,False,False,False,False,True,False,False,False,6826030.0,-36.207576751709,-62.2386894226074,1,Muy pequeña
+130,CABA,COMUNA 01,RETIRO,65413,True,True,True,True,True,True,True,True,True,2000010.0,-34.5884243429366,-58.3759359131827,9,Grande
+131,CABA,COMUNA 12,SAAVEDRA,50295,True,True,True,True,True,True,True,True,True,2000010.0,-34.553063289604,-58.4887266668384,9,Grande
+132,BUENOS AIRES,Arrecifes,Arrecifes,26400,True,True,True,True,True,True,True,True,True,6077010.0,-34.064591121211,-60.1025564443537,9,Grande
+133,BUENOS AIRES,Arrecifes,Todd,732,False,False,False,True,False,False,True,True,True,6077020.0,-34.0328240475348,-60.1562270065746,4,Pequeña
+134,BUENOS AIRES,Arrecifes,Viña,464,True,False,False,False,False,True,False,True,True,6077030.0,-33.9922765156087,-60.2263211205477,4,Muy pequeña
+135,BUENOS AIRES,Avellaneda,Area Reserva Cinturón Ecológico,3550,False,False,False,False,False,False,False,True,True,6035010.0,-34.6750056478487,-58.3105634248142,2,Mediana
+136,BUENOS AIRES,Avellaneda,Avellaneda,25325,True,True,True,True,True,True,True,True,True,6035010.0,-34.6626508059016,-58.3656990232718,9,Grande
+137,BUENOS AIRES,Avellaneda,Crucesita,22745,False,True,False,True,False,False,True,True,True,6035010.0,-34.66910587351,-58.3574544412345,5,Grande
+138,BUENOS AIRES,Avellaneda,Dock Sud,37392,True,True,False,True,False,True,True,True,True,6035010.0,-34.6491266928534,-58.3411774769137,7,Grande
+139,BUENOS AIRES,Avellaneda,Gerli,32384,False,True,False,True,False,False,True,True,True,6035010.0,-34.6847637540553,-58.3726025503412,5,Grande
+140,BUENOS AIRES,General La Madrid,La Colina,663,False,False,False,False,False,False,True,False,False,6322020.0,-37.3607690235166,-61.5348487870647,1,Pequeña
+141,BUENOS AIRES,General La Madrid,Las Martinetas,215,False,False,False,False,False,True,True,False,False,6322030.0,-37.1980813542863,-61.1220424031557,2,Muy pequeña
+142,BUENOS AIRES,General La Madrid,Líbano,292,False,False,False,False,False,False,True,False,False,6322040.0,-37.53362138441,-61.2865750087495,1,Muy pequeña
+143,BUENOS AIRES,General La Madrid,Pontaut,68,False,False,False,False,False,False,False,True,False,6322050.0,-37.731769903374,-61.3230957170244,1,Muy pequeña
+144,BUENOS AIRES,General Las Heras,General Hornos,194,False,False,False,False,False,False,False,False,True,6329010.0,-34.8937763345299,-58.9172215319327,1,Muy pequeña
+145,BUENOS AIRES,General Las Heras,General Las Heras (Est. Las Heras),11331,True,True,True,False,False,True,True,True,True,6329020.0,-34.9267739074255,-58.9453407851291,7,Grande
+146,BUENOS AIRES,General Las Heras,La Choza,41,False,False,False,False,False,False,False,False,False,6329030.0,-34.7829908276155,-59.1095647693247,0,Muy pequeña
+147,BUENOS AIRES,General Las Heras,Lozano,0,False,False,False,False,True,False,False,False,False,6329020.0,-34.8542796259808,-59.0533451317779,1,Muy pequeña
+148,BUENOS AIRES,General Las Heras,Plomer,198,False,False,False,False,False,False,True,False,False,6329050.0,-34.7941193667757,-59.0279756935744,1,Muy pequeña
+149,BUENOS AIRES,General Las Heras,Villars,1147,False,True,True,True,False,False,True,False,False,6329060.0,-34.8300241949658,-58.9422589402025,4,Pequeña
+150,BUENOS AIRES,General Lavalle,Chacras de San Clemente,0,False,False,False,False,False,True,False,False,False,6336020.0,-36.4080851872455,-56.9433553335054,1,Muy pequeña
+151,BUENOS AIRES,General Lavalle,General Lavalle,1827,False,True,False,True,True,True,True,True,True,6336020.0,-36.4080851872455,-56.9433553335054,7,Pequeña
+152,BUENOS AIRES,General Lavalle,Pavón,942,False,False,False,True,False,True,False,True,True,6336030.0,-36.7089537726649,-56.7598433617574,4,Pequeña
+153,BUENOS AIRES,General Paz,Barrio Río Salado,265,False,False,False,False,False,False,False,False,False,6343010.0,-35.6936377582584,-58.447313612508,0,Muy pequeña
+154,BUENOS AIRES,General Paz,Loma Verde,657,False,False,False,False,False,True,True,True,True,6343020.0,-35.2747490125694,-58.4041701894263,4,Pequeña
+155,BUENOS AIRES,General Paz,Ranchos,7916,True,False,True,True,False,True,True,True,True,6343030.0,-35.5173520233652,-58.3184247148653,7,Mediana
+156,BUENOS AIRES,La Plata,El Retiro,0,False,False,False,True,False,False,False,True,True,6441030.0,-34.9476175562489,-57.9957432212034,3,Muy pequeña
+157,BUENOS AIRES,La Plata,Esquina Negra,0,False,False,False,False,False,False,False,True,True,6441030.0,-35.038806066743,-58.0593061620077,2,Muy pequeña
+158,BUENOS AIRES,La Plata,Ignacio Correas,108,False,False,False,False,False,True,False,False,False,6441020.0,-35.0345600341406,-57.8440249586726,1,Muy pequeña
+159,BUENOS AIRES,La Plata,Joaquin Gorina,0,False,True,False,True,False,False,True,True,True,6441030.0,-34.9017817335757,-58.039185928571,5,Muy pequeña
+160,BUENOS AIRES,La Plata,Jose Hernandez,0,False,True,False,True,False,False,False,True,True,6441030.0,-34.8985896635727,-58.0143972026636,4,Muy pequeña
+161,BUENOS AIRES,La Plata,Jose Melchor Romero,0,False,True,False,False,False,True,False,True,True,6441030.0,-34.9455092438623,-58.0362904746611,4,Muy pequeña
+162,BUENOS AIRES,La Plata,La Cumbre,0,False,False,False,False,False,True,False,True,True,6441030.0,-34.9235917717359,-58.0019478733944,3,Muy pequeña
+163,BUENOS AIRES,La Plata,La Plata,207620,True,True,True,True,True,True,True,True,True,6441030.0,-34.920863104693,-57.9540560062469,9,Grande
+164,BUENOS AIRES,La Plata,La Providencia,0,False,False,False,False,False,False,False,False,False,6441030.0,-35.0232476,-58.2307028,0,Muy pequeña
+165,BUENOS AIRES,La Plata,Lisandro Olmos,0,False,True,False,True,False,True,False,True,True,6441030.0,-34.9976086009747,-58.043377425691,5,Muy pequeña
+166,BUENOS AIRES,La Plata,Lomas de Copello,420,False,False,False,False,False,False,False,False,False,6441040.0,-34.9520385659845,-57.8409385980167,0,Muy pequeña
+167,BUENOS AIRES,La Plata,Los Hornos,0,False,True,False,True,False,True,False,True,True,6441030.0,-34.973715513981,-57.9850539062724,5,Muy pequeña
+168,BUENOS AIRES,Trenque Lauquen,Trenque Lauquen,33442,True,False,True,True,True,True,True,True,True,6826050.0,-35.9746951559846,-62.7323099655579,8,Grande
+169,BUENOS AIRES,Trenque Lauquen,Trongé,23,False,False,False,False,False,True,False,False,False,6826060.0,-36.4603092402658,-62.4871229040303,1,Muy pequeña
+170,BUENOS AIRES,Tres Arroyos,Balneario Orense,77,False,False,False,False,False,False,False,True,True,6833010.0,-38.8079580951783,-59.7382989446997,2,Muy pequeña
+171,BUENOS AIRES,Tres Arroyos,Claromecó,2081,True,False,False,True,False,True,True,False,False,6833020.0,-38.7973744243016,-60.107623035402,4,Mediana
+172,BUENOS AIRES,Tres Arroyos,Copetonas,1017,False,False,False,True,False,True,True,True,True,6833030.0,-38.7227403438549,-60.4519655195991,5,Pequeña
+173,BUENOS AIRES,Tres Arroyos,Dunamar,0,False,False,False,False,False,False,False,True,True,6833110.0,-38.8586780962346,-60.0873319312173,2,Muy pequeña
+174,BUENOS AIRES,Tres Arroyos,Lin Calel,0,False,False,False,False,False,True,False,False,False,6833040.0,-38.7081778337076,-60.2417246463467,1,Muy pequeña
+175,BUENOS AIRES,Tres Arroyos,Micaela Cascallares (Est. Cascallares),567,False,False,False,True,False,True,True,True,True,6833050.0,-38.4926790060303,-60.4684232796744,5,Pequeña
+176,BUENOS AIRES,Tres Arroyos,Orense,2063,False,False,True,True,False,True,True,True,True,6833060.0,-38.6855169253543,-59.7764287092023,6,Mediana
+177,BUENOS AIRES,Tres Arroyos,Reta,495,False,False,False,False,False,True,True,True,True,6833070.0,-38.8970805514765,-60.343409791669,4,Muy pequeña
+178,BUENOS AIRES,Tres Arroyos,San Francisco de Bellocq,523,False,False,False,False,False,True,True,True,True,6833080.0,-38.6931705173547,-60.0141786926695,4,Pequeña
+179,BUENOS AIRES,Tres Arroyos,San Mayol,63,False,False,False,False,False,True,False,False,False,6833090.0,-38.3177365227324,-60.0258421214843,1,Muy pequeña
+180,CABA,COMUNA 01,SAN NICOLAS,29273,True,True,True,True,True,True,True,True,True,2000010.0,-34.6036683192305,-58.3805143256131,9,Grande
+181,CABA,COMUNA 12,VILLA PUEYRREDON,39654,True,True,True,True,True,True,True,True,True,2000010.0,-34.5821104495703,-58.5034848793052,9,Grande
+182,SANTA FE,San Lorenzo,Coronel Arnold,857,False,False,False,True,False,False,True,False,True,82119040.0,-33.1066175391399,-60.9665015588484,3,Pequeña
+183,SANTA FE,San Lorenzo,Fuentes,2791,False,False,False,True,False,True,True,True,True,82119060.0,-33.1744416497872,-61.0750536976089,5,Mediana
+184,SANTA FE,San Lorenzo,Pujato,3370,True,False,False,False,False,True,True,True,True,82119090.0,-33.0195733543103,-61.0438316490822,5,Mediana
+185,BUENOS AIRES,Avellaneda,Pineyro,28102,False,True,False,True,False,False,True,True,True,6035010.0,-34.6685497926645,-58.3886029123689,5,Grande
+186,BUENOS AIRES,Avellaneda,Sarandí,63281,True,True,True,True,True,True,True,True,True,6035010.0,-34.6843716640855,-58.348101313379,9,Grande
+187,BUENOS AIRES,Avellaneda,Villa Domínico,61273,True,True,False,True,False,True,True,True,True,6035010.0,-34.6986315148924,-58.3363602646664,7,Grande
+188,BUENOS AIRES,Avellaneda,Wilde,68624,True,True,True,True,False,True,True,True,True,6035010.0,-34.7061588356333,-58.3218349208501,8,Grande
+189,BUENOS AIRES,Ayacucho,Ayacucho,17364,True,False,True,False,False,True,True,True,True,6042010.0,-37.1536695670417,-58.4895476662462,6,Grande
+190,BUENOS AIRES,Ayacucho,La Constancia,49,False,False,False,False,False,True,False,False,False,6042020.0,-37.2286256057071,-58.7603890048806,1,Muy pequeña
+191,BUENOS AIRES,Ayacucho,Solanet,47,False,False,False,False,False,True,False,False,True,6042030.0,-36.8444984439739,-58.5071421689017,2,Muy pequeña
+192,BUENOS AIRES,Ayacucho,Udaquiola,91,False,False,False,False,True,True,False,False,False,6042040.0,-36.5637513540211,-58.5333344196536,2,Muy pequeña
+193,BUENOS AIRES,Azul,16 de Julio,111,False,False,False,False,False,False,False,True,True,6049050.0,-37.2020524773603,-60.1652139181813,2,Muy pequeña
+194,BUENOS AIRES,Azul,Ariel,16,False,False,False,False,False,False,False,False,True,6049010.0,-36.5312544192466,-59.9200651844348,1,Muy pequeña
+195,SANTA FE,San Lorenzo,Villa Mugueta,2139,False,True,False,False,True,True,True,False,True,82119160.0,-33.3139349307156,-61.0570695285482,5,Mediana
+196,BUENOS AIRES,General Paz,Villanueva (Ap. Río Salado),537,False,False,False,False,False,True,True,False,False,6343040.0,-35.6776271050909,-58.4350923167562,2,Pequeña
+197,BUENOS AIRES,General Pinto,Colonia San Ricardo (Est. Iriarte),811,True,False,False,True,False,True,True,True,True,6351010.0,-34.4162137301573,-61.9280141749282,6,Pequeña
+198,BUENOS AIRES,General Pinto,General Pinto,6557,False,False,True,False,True,False,True,True,True,6351020.0,-34.764155990724,-61.8900674920122,5,Mediana
+199,BUENOS AIRES,General Pinto,Germania (Est. Mayor José Orellano),1397,True,False,False,False,False,False,False,True,True,6351030.0,-34.576111833277,-62.0518306894073,3,Pequeña
+200,BUENOS AIRES,General Pinto,Gunther,23,False,False,False,False,False,False,False,True,False,6351035.0,-34.5994995308259,-61.9164989081536,1,Muy pequeña
+201,BUENOS AIRES,General Pinto,Villa Francia (Est. Coronel Granada),1176,False,False,False,True,True,False,True,False,True,6351040.0,-34.7913160212074,-62.2011090686366,4,Pequeña
+202,BUENOS AIRES,General Pinto,Villa Roth (Est. Ingeniero Balbín),38,False,False,False,False,False,False,False,False,False,6351050.0,-34.5798302278832,-62.1710489234118,0,Muy pequeña
+203,BUENOS AIRES,General Pueyrredón,Barrio Colinas Verdes,0,False,False,False,False,False,True,False,True,True,6351020.0,-37.8931024789245,-57.8261645643114,3,Muy pequeña
+204,BUENOS AIRES,General Pueyrredón,Barrio El Boquerón,509,False,False,False,False,False,True,False,False,True,6357020.0,-38.0297229162982,-57.7995485049706,2,Pequeña
+205,BUENOS AIRES,General Pueyrredón,Barrio El Casal,0,False,False,False,False,False,True,False,False,False,6357110.0,-37.8324145231571,-57.6311155465986,1,Muy pequeña
+206,BUENOS AIRES,General Pueyrredón,Barrio El Coyunco,0,False,False,False,True,False,True,False,True,True,6357110.0,-37.9050810135269,-57.7391824086455,4,Muy pequeña
+207,BUENOS AIRES,General Pueyrredón,Barrio La Gloria,415,False,False,False,False,False,True,False,True,True,6357050.0,-37.9068268303117,-57.7858860640391,3,Muy pequeña
+208,BUENOS AIRES,General Pueyrredón,Barrio Santa Paula,644,False,False,False,True,False,True,False,True,True,6357060.0,-37.9317157840639,-57.683162032898,4,Pequeña
+209,BUENOS AIRES,General Pueyrredón,Batán,10152,True,False,False,True,True,True,True,True,True,6357070.0,-38.0086211557001,-57.7085500402678,7,Grande
+210,BUENOS AIRES,La Plata,Manuel B Gonnet,0,False,True,False,True,False,False,True,True,True,6441030.0,-34.8819511933447,-58.0189915342036,5,Muy pequeña
+211,BUENOS AIRES,La Plata,Poblet,0,False,False,False,False,False,False,False,False,False,6441030.0,-35.0604581,-57.9547426,0,Muy pequeña
+212,BUENOS AIRES,La Plata,Ringuelet,0,False,True,False,True,False,False,True,True,True,6441030.0,-34.8910544941568,-57.9913781921596,5,Muy pequeña
+213,BUENOS AIRES,La Plata,Rufino De Elizalde,0,False,False,False,False,False,False,False,True,True,6441030.0,-34.9710900774179,-57.9524351288235,2,Muy pequeña
+214,BUENOS AIRES,La Plata,ruta del sol,0,True,False,False,True,False,False,True,True,True,6441050.0,-34.9437333541431,-58.1732652389706,5,Muy pequeña
+215,BUENOS AIRES,La Plata,ruta del sol,2312,True,False,False,True,False,False,True,True,True,6441050.0,-34.9437333541431,-58.1732652389706,5,Mediana
+216,BUENOS AIRES,La Plata,Tolosa,0,False,True,False,True,False,False,True,True,True,6441030.0,-34.9007699307169,-57.9821293495972,5,Muy pequeña
+217,BUENOS AIRES,La Plata,Transradio,0,False,False,False,False,True,False,False,True,True,6441030.0,-34.8790055541958,-58.081733864461,3,Muy pequeña
+218,BUENOS AIRES,La Plata,Villa Elisa,0,False,True,False,True,False,True,True,True,True,6441030.0,-34.8776205187118,-58.0907139194439,6,Muy pequeña
+219,BUENOS AIRES,La Plata,Villa Elvira,0,False,True,False,True,False,True,False,True,True,6441030.0,-34.9406437624757,-57.9214984675578,5,Muy pequeña
+220,BUENOS AIRES,La Plata,Villa Garibaldi,0,False,False,False,False,False,True,False,False,False,6441030.0,-34.9986517196678,-57.8404966243711,1,Muy pequeña
+221,BUENOS AIRES,La Plata,Villa Montoro,0,False,False,False,False,False,True,False,True,True,6441030.0,-34.9634490535296,-57.9025001308298,3,Muy pequeña
+222,BUENOS AIRES,La Plata,Villa Parque Sicardi,0,False,False,False,False,False,True,False,True,True,6441030.0,-34.9830288461923,-57.8674653074052,3,Muy pequeña
+223,BUENOS AIRES,Tres Arroyos,Tres Arroyos,46867,True,True,True,True,True,True,True,True,True,6833100.0,-38.3771785795114,-60.2755588939396,9,Grande
+224,BUENOS AIRES,Tres Arroyos,Villa Rodríguez (Est. Barrow),17,False,False,False,False,False,False,False,False,True,6833110.0,-38.3125817693893,-60.2324995777758,1,Muy pequeña
+225,BUENOS AIRES,Tres De Febrero,11 De Septiembre,4402,True,True,False,True,True,False,True,True,True,6840010.0,-34.566314345456,-58.6183600679169,7,Mediana
+226,BUENOS AIRES,Tres De Febrero,Caseros,91280,True,True,False,True,True,True,True,True,True,6840010.0,-34.608872950993,-58.5636644572416,8,Grande
+227,BUENOS AIRES,Tres De Febrero,Churruca,5846,True,True,False,True,False,False,True,True,True,6840010.0,-34.5589664800215,-58.6228016204112,6,Mediana
+228,BUENOS AIRES,Tres De Febrero,Ciudad Jardín Lomas del Palomar,17794,True,True,False,True,False,False,True,True,True,6840010.0,-34.5961197253917,-58.5965998962097,6,Grande
+229,BUENOS AIRES,Tres De Febrero,Ciudadela,73939,True,True,True,True,True,True,True,True,True,6840010.0,-34.6326965166188,-58.5424067827037,9,Grande
+230,CABA,COMUNA 01,SAN TELMO,20453,True,True,True,True,True,True,True,True,True,2000010.0,-34.6215200115838,-58.3715453876304,9,Grande
+231,BUENOS AIRES,Azul,Azul,55728,True,True,True,True,True,True,True,True,True,6049020.0,-36.7795144970313,-59.8586331707414,9,Grande
+232,BUENOS AIRES,Azul,Cacharí,2960,False,False,True,False,False,True,True,True,True,6049030.0,-36.3805626332947,-59.5030645507265,5,Mediana
+233,BUENOS AIRES,Azul,Chillar,3083,False,False,False,False,True,True,True,True,True,6049040.0,-37.3150113247344,-59.9853181679139,5,Mediana
+234,BUENOS AIRES,Bahía Blanca,Bahía Blanca,291327,True,True,True,True,True,True,True,True,True,6056010.0,-38.7114037284555,-62.2569089501864,9,Grande
+235,BUENOS AIRES,Bahía Blanca,Cabildo,2046,False,True,True,True,False,True,True,True,True,6056020.0,-38.4838572081944,-61.8926015349487,7,Mediana
+236,BUENOS AIRES,Bahía Blanca,General Daniel Cerri (Est. General Cerri),6745,True,True,True,True,False,True,True,True,True,6056030.0,-38.7136524854986,-62.3924221653991,8,Mediana
+237,BUENOS AIRES,Bahía Blanca,Grunbein,0,False,False,False,False,False,False,False,True,True,6056020.0,-38.7471079502848,-62.1891166907456,2,Muy pequeña
+238,BUENOS AIRES,Bahía Blanca,Ingeniero White,0,False,False,False,True,True,False,False,True,True,6056020.0,-38.7794670416666,-62.262951248824,4,Muy pequeña
+239,BUENOS AIRES,Lanús,Gerli,33704,True,True,True,True,False,False,True,True,True,6434010.0,-34.6909571502715,-58.3838628492162,7,Grande
+240,BUENOS AIRES,Lanús,Lanús Este,55952,True,True,True,True,True,True,True,True,True,6434010.0,-34.7108609216651,-58.3725047463731,9,Grande
+241,BUENOS AIRES,Lanús,Lanús Oeste,159094,False,True,True,True,False,True,True,True,True,6434010.0,-34.6957815314992,-58.416253274019,7,Grande
+242,BUENOS AIRES,Lanús,Monte Chingolo,86220,True,True,True,True,False,False,True,True,True,6434010.0,-34.7302098940207,-58.3561741850066,7,Grande
+243,BUENOS AIRES,Lanús,Remedios Escalada De San Martin,82576,True,True,True,True,False,True,True,True,True,6434010.0,-34.723808815713,-58.397669711018,8,Grande
+244,BUENOS AIRES,Lanús,Valentín Alsina,41716,True,True,True,True,False,True,True,True,True,6434010.0,-34.672035526127,-58.4134851675076,8,Grande
+245,BUENOS AIRES,Mercedes,Goldney,85,False,False,False,False,False,False,False,False,False,6532005.0,-34.6029546709308,-59.288213732192,0,Muy pequeña
+246,BUENOS AIRES,Mercedes,Gowland,1738,False,False,False,True,False,True,False,True,True,6532010.0,-34.652429281715,-59.3523186300108,4,Pequeña
+247,BUENOS AIRES,Mercedes,Jorge Born,191,False,False,False,False,False,True,False,False,False,6532030.0,-34.69896,-59.31944,1,Muy pequeña
+248,BUENOS AIRES,Mercedes,Mercedes,56116,True,True,True,True,True,True,True,True,True,6532020.0,-34.6521715354886,-59.4295981722689,9,Grande
+249,BUENOS AIRES,Mercedes,Tomás Jofré,0,False,False,False,False,False,False,False,False,False,6532020.0,-34.698955554941,-59.3194428313109,0,Muy pequeña
+250,BUENOS AIRES,Merlo,Libertad,112806,True,True,True,True,True,True,True,True,True,6539010.0,-34.7085422423529,-58.6795867252566,9,Grande
+251,BUENOS AIRES,Merlo,Mariano Acosta,60717,True,True,False,True,False,True,True,True,True,6539010.0,-34.7154808073462,-58.7976740413845,7,Grande
+252,BUENOS AIRES,Merlo,Merlo,274130,True,True,True,True,True,True,True,True,True,6539010.0,-34.6823277014068,-58.7436432079669,9,Grande
+253,BUENOS AIRES,Merlo,Pontevedra,37628,True,True,True,True,False,True,True,True,True,6539010.0,-34.7467959489481,-58.7060431536772,8,Grande
+254,BUENOS AIRES,Tres De Febrero,El Libertador,15270,True,True,False,True,False,False,True,True,True,6840010.0,-34.5564986200599,-58.622337837699,6,Grande
+255,BUENOS AIRES,Tres De Febrero,Jose Ingenieros,7300,True,True,False,True,False,True,True,True,True,6840010.0,-34.6171528691842,-58.5342186326877,7,Mediana
+256,BUENOS AIRES,Tres De Febrero,Loma Hermosa,18152,True,True,False,True,False,False,True,True,True,6840010.0,-34.5684066633166,-58.603081885803,6,Grande
+257,BUENOS AIRES,Tres De Febrero,Martín Coronado,19326,True,True,False,True,False,False,True,True,True,6840010.0,-34.5852038063892,-58.5918755543704,6,Grande
+258,BUENOS AIRES,Tres De Febrero,Pablo Podestá,12990,True,True,False,True,False,True,True,True,True,6840010.0,-34.5758246152249,-58.6202497472316,7,Grande
+259,BUENOS AIRES,Tres De Febrero,Remedios De Escalada,11987,True,True,False,True,False,False,True,True,True,6840010.0,-34.5705752444729,-58.620118067161,6,Grande
+260,BUENOS AIRES,Tres De Febrero,Saenz Peña,11666,True,True,False,True,True,True,True,True,True,6840010.0,-34.5992886088748,-58.5320796402641,8,Grande
+261,BUENOS AIRES,Tres De Febrero,Santos Lugares,17205,True,True,False,True,False,True,True,True,True,6840010.0,-34.5991533496562,-58.5478835120962,7,Grande
+262,CABA,COMUNA 02,RECOLETA,157932,True,True,True,True,True,True,True,True,True,2000010.0,-34.5858760078165,-58.3949961802632,9,Grande
+263,CABA,COMUNA 12,VILLA URQUIZA,91563,True,True,True,True,True,True,True,True,True,2000010.0,-34.5715411303449,-58.4878560596649,9,Grande
+264,BUENOS AIRES,Bahía Blanca,Villa Bordeau,0,False,False,False,False,False,False,False,True,True,6056020.0,-38.6472605094596,-62.3200223419024,2,Muy pequeña
+265,BUENOS AIRES,Bahía Blanca,Villa Espora,0,False,False,False,False,False,False,False,False,False,6056020.0,-38.7765069529222,-62.1851833537179,0,Muy pequeña
+266,BUENOS AIRES,Balcarce,Balcarce,38376,True,True,True,True,False,True,True,True,True,6063010.0,-37.8482779294345,-58.2551665841248,8,Grande
+267,BUENOS AIRES,Balcarce,Los Pinos,337,False,False,False,False,False,True,True,False,False,6063020.0,-37.9412057603,-58.3225920150442,2,Muy pequeña
+268,BUENOS AIRES,Balcarce,Napaleofú,374,False,False,False,True,False,True,True,True,True,6063030.0,-37.6254980210026,-58.7461862359423,5,Muy pequeña
+269,BUENOS AIRES,Balcarce,Ramos Otero,95,False,False,False,False,False,True,False,False,True,6063040.0,-37.5426353712017,-58.3407185507274,2,Muy pequeña
+270,BUENOS AIRES,Balcarce,San Agustín,498,False,False,False,False,False,True,True,False,False,6063050.0,-38.0122838564587,-58.355377761682,2,Muy pequeña
+271,BUENOS AIRES,Balcarce,Villa Laguna La Brava,115,False,False,False,False,False,True,True,True,True,6063060.0,-37.8596285282151,-57.9806008736401,4,Muy pequeña
+272,BUENOS AIRES,Baradero,Baradero,28537,True,True,False,True,True,True,True,True,True,6070010.0,-33.8128781547156,-59.5043068852807,8,Grande
+273,BUENOS AIRES,Baradero,Irineo Portela,379,False,False,False,True,True,True,True,False,False,6070020.0,-33.9810489198561,-59.6715601606315,4,Muy pequeña
+274,BUENOS AIRES,Baradero,Santa Coloma,203,False,False,False,False,False,True,False,False,True,6070030.0,-34.062154134736,-59.5585420642846,2,Muy pequeña
+275,BUENOS AIRES,Baradero,Villa Alsina (Est. Alsina),1488,True,False,False,False,False,True,True,True,True,6070040.0,-33.9096038045591,-59.3882017132282,5,Pequeña
+276,BUENOS AIRES,Benito Juárez,Barker,1241,False,False,True,True,True,True,True,True,True,6084010.0,-37.6424111302365,-59.3889380312927,7,Pequeña
+277,BUENOS AIRES,Laprida,Laprida,8840,False,True,False,True,False,False,True,True,True,6448010.0,-37.5467976434903,-60.7970535965801,5,Mediana
+278,BUENOS AIRES,Laprida,Pueblo Nuevo,36,False,False,False,False,False,True,False,False,False,6448020.0,-37.3263227,-60.9098409,1,Muy pequeña
+279,BUENOS AIRES,Laprida,Pueblo San Jorge,248,False,False,False,False,False,True,True,False,False,6448030.0,-37.2298626892886,-60.9621658450441,2,Muy pequeña
+280,BUENOS AIRES,Las Flores,Coronel Boerr,15,False,False,False,False,False,True,False,False,False,6455010.0,-35.9414440334215,-59.0693547287839,1,Muy pequeña
+281,BUENOS AIRES,Las Flores,El Trigo,43,False,False,False,True,False,True,False,False,False,6455020.0,-35.8815483511482,-59.4063369903389,2,Muy pequeña
+282,BUENOS AIRES,Las Flores,Las Flores,21455,True,False,False,True,False,True,True,True,True,6455030.0,-36.0154969145348,-59.1004659218434,6,Grande
+283,BUENOS AIRES,Las Flores,Pardo,159,False,False,False,False,False,True,False,True,True,6455040.0,-36.2437580460508,-59.3662916338311,3,Muy pequeña
+284,BUENOS AIRES,Leandro N. Alem,Alberdi Viejo,318,True,False,False,False,False,True,False,True,True,6462010.0,-34.4418003349,-61.8448787838164,4,Muy pequeña
+285,BUENOS AIRES,Leandro N. Alem,El Dorado,318,False,False,False,False,True,True,True,False,False,6462020.0,-34.6528608747523,-61.5829085058874,3,Muy pequeña
+286,BUENOS AIRES,Leandro N. Alem,Fortín Acha,103,False,False,False,False,False,True,False,False,False,6462030.0,-34.3430420274499,-61.5156655267073,1,Muy pequeña
+287,BUENOS AIRES,Leandro N. Alem,Juan Bautista Alberdi (Est. Alberdi),3404,True,True,False,True,False,True,True,True,True,6462040.0,-34.4387919326349,-61.8121893821736,7,Mediana
+288,BUENOS AIRES,Leandro N. Alem,Leandro N. Alem,2468,False,True,False,False,False,True,False,True,True,6462050.0,-34.5217246234597,-61.391182899484,4,Mediana
+289,BUENOS AIRES,Leandro N. Alem,Vedia,8827,True,False,False,True,True,True,True,True,True,6462060.0,-34.4973984349932,-61.5453447631479,7,Mediana
+290,BUENOS AIRES,Necochea,Energía,63,False,False,False,False,False,True,False,False,False,6581025.0,-38.5580125335608,-59.3364566671065,1,Muy pequeña
+291,BUENOS AIRES,Necochea,Juan N. Fernández,2721,True,False,False,False,True,True,True,True,True,6581030.0,-38.0091787783017,-59.2634988347821,6,Mediana
+292,BUENOS AIRES,Necochea,Necochea - Quequén,84784,True,True,True,True,True,True,True,True,True,6581040.0,-38.5711702285697,-58.7702419838751,9,Grande
+293,BUENOS AIRES,Necochea,Nicanor Olivera (Est. La Dulce),2131,True,False,True,False,False,True,True,True,False,6581050.0,-38.2846361959919,-59.202754253612,5,Mediana
+294,BUENOS AIRES,Necochea,Ramón Santamarina,430,False,False,False,False,False,False,True,True,True,6581060.0,-38.4503897333336,-59.3311154416146,3,Muy pequeña
+295,BUENOS AIRES,Olavarría,Blancagrande,65,False,False,False,False,False,False,False,False,False,6595010.0,-36.5328887082639,-60.8824549132602,0,Muy pequeña
+296,BUENOS AIRES,Olavarría,Colonia Hinojo,3841,False,False,False,False,False,True,False,False,True,6595070.0,-36.8800694499223,-60.1780552970612,2,Mediana
+297,BUENOS AIRES,Olavarría,Colonia Nievas,10,False,False,False,False,False,False,False,False,False,6595030.0,-36.8641370257955,-60.0816424704,0,Muy pequeña
+298,BUENOS AIRES,Olavarría,Colonia San Miguel,902,False,False,False,False,False,False,False,False,False,6595040.0,-36.9495659791886,-60.1108954083182,0,Pequeña
+299,BUENOS AIRES,Olavarría,Espigas,492,False,False,False,False,False,False,True,False,False,6595050.0,-36.4122732396335,-60.6730694647,1,Muy pequeña
+300,BUENOS AIRES,Olavarría,Hinojo,3841,True,False,False,True,True,False,True,True,True,6595060.0,-36.8805120719062,-60.1771940245473,6,Mediana
+301,BUENOS AIRES,Olavarría,Olavarría,89721,True,True,True,True,True,False,True,True,True,6595070.0,-36.8920935788859,-60.3180046559577,8,Grande
+302,BUENOS AIRES,Olavarría,Recalde,385,False,False,False,False,False,False,True,False,False,6595080.0,-36.6515016172821,-61.0845040269815,1,Muy pequeña
+303,BUENOS AIRES,Olavarría,Santa Luisa,40,False,False,False,False,False,False,False,True,False,6595090.0,-37.1256790161133,-60.4158706665039,1,Muy pequeña
+304,BUENOS AIRES,Tres De Febrero,Villa Bosch (Est. Juan Maria Bosch),24967,True,True,False,True,False,False,True,True,True,6840010.0,-34.5822981982887,-58.5802932642206,6,Grande
+305,BUENOS AIRES,Tres De Febrero,Villa Raffo,7948,True,True,False,True,False,False,True,True,True,6840010.0,-34.6083090753398,-58.5319718083201,6,Mediana
+306,BUENOS AIRES,Tres Lomas,Ingeniero Thompson,150,False,False,False,False,False,False,True,False,False,6847010.0,-36.6102541131892,-62.9109612139671,1,Muy pequeña
+307,BUENOS AIRES,Tres Lomas,Tres Lomas,8061,True,True,True,True,False,True,True,True,True,6847020.0,-36.458109497037,-62.8621355091327,8,Mediana
+308,BUENOS AIRES,Vicente López,Carapachay,14923,True,True,False,True,False,False,True,True,True,6861010.0,-34.5259149691463,-58.5357639427634,6,Grande
+309,BUENOS AIRES,Vicente López,Florida,47339,True,True,False,True,False,True,True,True,True,6861010.0,-34.5327432636609,-58.4910979599198,7,Grande
+310,BUENOS AIRES,Vicente López,Florida Oeste,27261,True,True,False,True,True,True,True,True,True,6861010.0,-34.5394223366496,-58.5148137943065,8,Grande
+311,BUENOS AIRES,Vicente López,La Lucila,12014,True,True,False,True,False,False,True,True,True,6861010.0,-34.4985433329471,-58.486582489457,6,Grande
+312,CABA,COMUNA 03,BALVANERA,138926,True,True,True,True,True,True,True,True,True,2000010.0,-34.6090997738407,-58.4030625195747,9,Grande
+313,CABA,COMUNA 13,BELGRANO,126831,True,True,True,True,True,True,True,True,True,2000010.0,-34.5548815240237,-58.4502890947349,9,Grande
+314,BUENOS AIRES,Olavarría,Sierra Chica,4812,False,True,False,False,False,False,False,True,True,6595100.0,-36.843238222524,-60.2234271381196,3,Mediana
+315,BUENOS AIRES,Olavarría,Sierras Bayas,3849,True,False,True,False,False,False,True,False,False,6595110.0,-36.9225238148372,-60.2157925414657,3,Mediana
+316,BUENOS AIRES,Olavarría,Villa Alfredo Fortabat,3451,True,False,False,False,False,False,True,True,True,6595120.0,-36.9802714637124,-60.2790828437139,4,Mediana
+317,BUENOS AIRES,Olavarría,Villa Arrieta,0,False,False,False,False,False,False,False,True,True,6595080.0,-36.9436605372421,-60.1578271825148,2,Muy pequeña
+318,BUENOS AIRES,Olavarría,Villa La Serranía,167,False,False,False,False,False,False,False,False,True,6595130.0,-36.9903632120511,-60.3108081181748,1,Muy pequeña
+319,BUENOS AIRES,Patagones,Bahía San Blas,611,False,False,True,False,False,True,True,True,True,6602010.0,-40.5602246137406,-62.2380643077459,5,Pequeña
+320,BUENOS AIRES,Patagones,Cardenal Cagliero,89,False,False,False,False,False,False,False,False,True,6602020.0,-40.6522000086693,-62.7575972084464,1,Muy pequeña
+321,BUENOS AIRES,Patagones,Carmen de Patagones,20533,True,False,True,True,True,True,True,True,True,6602030.0,-40.797298324401,-62.984754269904,8,Grande
+322,BUENOS AIRES,Patagones,José B. Casas,40,False,False,False,False,False,True,False,False,False,6602040.0,-40.4363643935514,-62.5449343513868,1,Muy pequeña
+323,BUENOS AIRES,Patagones,Juan A. Pradere,521,False,True,False,False,False,True,False,False,True,6602050.0,-39.5993801239416,-62.6510470779021,3,Pequeña
+324,BUENOS AIRES,Patagones,Stroeder,1998,False,False,True,True,False,True,True,True,True,6602060.0,-40.1854869993736,-62.6205163469862,6,Pequeña
+325,BUENOS AIRES,Patagones,Villalonga,4517,True,False,True,True,False,True,True,True,True,6602070.0,-39.9151387867695,-62.6188702678852,7,Mediana
+326,BUENOS AIRES,Pehuajó,Capitán Castro,49,False,False,False,False,False,True,False,False,False,6609010.0,-35.913692884071,-62.2240579143551,1,Muy pequeña
+327,BUENOS AIRES,Pehuajó,Chiclana,0,False,False,False,False,False,True,False,True,True,6609080.0,-35.7327373193414,-61.7439272931387,3,Muy pequeña
+328,BUENOS AIRES,Benito Juárez,Benito Juárez (Est. Juárez),14279,True,False,True,True,True,True,True,True,True,6084020.0,-37.6766410210105,-59.8057677109444,8,Grande
+329,BUENOS AIRES,Benito Juárez,López,138,False,False,False,True,False,True,False,False,False,6084030.0,-37.5545120854221,-59.6278461536299,2,Muy pequeña
+330,BUENOS AIRES,Benito Juárez,Tedín Uriburu,157,False,False,False,False,False,False,False,True,True,6084040.0,-37.3683686253208,-59.7630391604187,2,Muy pequeña
+331,BUENOS AIRES,Benito Juárez,Villa Cacique (Est. Alfredo Fortabat),2689,False,False,False,True,True,True,False,True,True,6084050.0,-37.6704778893557,-59.4003533386514,5,Mediana
+332,BUENOS AIRES,Berazategui,Berazategui,100855,True,True,True,True,True,True,True,True,True,6091010.0,-34.7597493264937,-58.2019645234278,9,Grande
+333,BUENOS AIRES,Berazategui,Berazategui Oeste,87792,True,True,False,True,False,False,True,True,True,6091010.0,-34.7804201858899,-58.2415010261207,6,Grande
+334,BUENOS AIRES,Berazategui,Carlos Tomás Sourigues,11695,True,True,False,True,False,False,True,True,True,6091010.0,-34.8021192214631,-58.2188212494897,6,Grande
+335,BUENOS AIRES,Berazategui,Centro Agrícola El Pato,7847,True,True,False,True,False,True,True,True,True,6091010.0,-34.9067557072114,-58.1966995021239,7,Mediana
+336,BUENOS AIRES,Lincoln,Arenaza,1328,False,False,False,True,False,False,True,True,True,6469010.0,-34.9846043002155,-61.7729116988591,4,Pequeña
+337,BUENOS AIRES,Lincoln,Bayauca,541,False,False,False,False,False,True,True,False,True,6469020.0,-34.8710511337121,-61.2895451446375,3,Pequeña
+338,BUENOS AIRES,Lincoln,Bermúdez,72,False,False,False,False,False,False,False,False,False,6469030.0,-34.6966047108596,-61.3250128810539,0,Muy pequeña
+339,BUENOS AIRES,Lincoln,Carlos Salas,234,False,False,False,False,False,True,False,False,False,6469040.0,-35.3913662871435,-61.9949102331933,1,Muy pequeña
+340,BUENOS AIRES,Lincoln,Coronel Martínez de Hoz (Ap. Kilómetro 322),1041,True,False,False,False,False,False,True,True,True,6469050.0,-35.3321817215807,-61.6140851684372,4,Pequeña
+341,BUENOS AIRES,Lincoln,El Triunfo,1543,False,False,True,True,False,False,True,True,True,6469060.0,-35.0882210775847,-61.5163333232822,5,Pequeña
+342,BUENOS AIRES,Lincoln,Las Toscas,485,True,False,False,False,False,False,True,False,False,6469070.0,-35.3627586364746,-61.8061599731445,2,Muy pequeña
+343,BUENOS AIRES,Lincoln,Lincoln,28051,True,True,True,True,False,False,True,True,True,6469080.0,-34.869042222818,-61.5291649669285,7,Grande
+344,BUENOS AIRES,Lincoln,Pasteur,1962,False,False,False,False,True,True,True,True,True,6469090.0,-35.1426386337075,-62.2439028944602,5,Pequeña
+345,BUENOS AIRES,Lincoln,Roberts,2982,False,False,True,True,False,False,True,True,True,6469100.0,-35.1440875676884,-61.9707859541264,5,Mediana
+346,BUENOS AIRES,Lincoln,Triunvirato,76,False,False,False,False,False,False,False,False,False,6469110.0,-34.6758379792473,-61.4657087059048,0,Muy pequeña
+347,BUENOS AIRES,Lobería,Arenas Verdes,12,False,False,False,False,False,False,False,True,True,6476010.0,-38.5463782386967,-58.557322112625,2,Muy pequeña
+348,BUENOS AIRES,Lobería,Licenciado Matienzo,76,False,False,False,False,False,True,False,False,False,6476020.0,-37.9097927118145,-58.9120965943062,1,Muy pequeña
+349,BUENOS AIRES,Lobería,Lobería,13005,True,False,True,True,True,True,True,True,True,6476030.0,-38.165273387122,-58.7822303314999,8,Grande
+350,BUENOS AIRES,Lobería,Pieres,36,False,False,False,False,False,True,True,False,True,6476040.0,-38.3962306181995,-58.670580006548,3,Muy pequeña
+351,BUENOS AIRES,Vicente López,Munro,35234,True,True,False,True,True,True,True,True,True,6861010.0,-34.5272623078248,-58.5255060588714,8,Grande
+352,BUENOS AIRES,Vicente López,Olivos,74242,True,True,True,True,True,False,True,True,True,6861010.0,-34.512161433984,-58.4985444232342,8,Grande
+353,BUENOS AIRES,Vicente López,Vicente López,23668,True,True,True,True,False,True,True,True,True,6861010.0,-34.525536745172,-58.4736495025234,8,Grande
+354,BUENOS AIRES,Vicente López,Villa Adelina,9122,False,True,False,True,False,False,False,True,True,6861010.0,-34.5287596487564,-58.5460242623901,4,Mediana
+355,BUENOS AIRES,Vicente López,Villa Martelli,25616,True,True,False,True,True,True,True,True,True,6861010.0,-34.5525979527695,-58.5091432644227,8,Grande
+356,BUENOS AIRES,Villa Gesell,Mar Azul,1797,False,False,False,False,False,False,True,True,True,6868010.0,-37.3366731576801,-57.032501468863,3,Pequeña
+357,BUENOS AIRES,Villa Gesell,Mar De Las Pampas,0,False,False,False,False,False,False,False,True,True,6868020.0,-37.3281312355181,-57.0399070097774,2,Muy pequeña
+358,CABA,COMUNA 03,SAN CRISTOBAL,48611,True,True,True,True,True,True,True,True,True,2000010.0,-34.623864473461,-58.4018857979853,9,Grande
+359,CABA,COMUNA 13,COLEGIALES,52551,True,True,True,True,True,True,True,True,True,2000010.0,-34.5746427442082,-58.4509682045183,9,Grande
+360,CABA,COMUNA 04,BARRACAS,89452,True,True,True,True,True,True,True,True,True,2000010.0,-34.6464135507847,-58.3842710319828,9,Grande
+361,CABA,COMUNA 13,NUÑEZ,51949,True,True,True,True,True,True,True,True,True,2000010.0,-34.5437376606688,-58.4628575470422,9,Grande
+362,SANTA FE,Constitución,Bombal,3137,True,True,False,True,False,True,True,True,True,82028040.0,-33.4600615218579,-61.3189324391797,7,Mediana
+363,SANTA FE,Constitución,Cañada Rica,641,False,False,False,False,False,False,True,False,True,82028050.0,-33.5174175561246,-60.6132968867711,2,Pequeña
+364,SANTA FE,Constitución,Cepeda,349,False,False,False,False,False,True,False,False,False,82028060.0,-33.3984208661427,-60.6241114199013,1,Muy pequeña
+365,SANTA FE,Constitución,Empalme Villa Constitución,6241,True,False,False,False,False,False,True,False,True,82028070.0,-33.2628625471248,-60.3804644639294,3,Mediana
+366,SANTA FE,Constitución,Firmat,28,False,False,False,False,False,False,False,False,False,82028080.0,-33.441023527734,-61.473143421839,0,Muy pequeña
+367,SANTA FE,Constitución,General Gelly,610,True,False,False,False,False,True,False,False,True,82028090.0,-33.6018434911159,-60.5989383522422,3,Pequeña
+368,SANTA FE,Constitución,Godoy,1189,False,False,False,False,False,True,True,True,True,82028100.0,-33.3697098731789,-60.5094130215383,4,Pequeña
+369,SANTA FE,Constitución,Juan B. Molina,1265,True,False,False,True,False,True,True,True,True,82028110.0,-33.496020689866,-60.5122133295946,6,Pequeña
+370,SANTA FE,Constitución,Juncal,941,True,False,False,True,False,True,True,False,False,82028120.0,-33.71761494002,-61.0500179215707,4,Pequeña
+371,SANTA FE,Constitución,La Vanguardia,385,False,False,False,True,False,False,True,False,False,82028130.0,-33.3596257970974,-60.6584568664422,2,Muy pequeña
+372,SANTA FE,Constitución,Máximo Paz (Est. Paz),3441,True,True,False,True,False,True,True,True,True,82028140.0,-33.4851439474937,-60.9567885809825,7,Mediana
+373,SANTA FE,Constitución,Pavón,876,True,False,False,False,False,False,True,True,True,82028150.0,-33.2430754805422,-60.4062757935089,4,Pequeña
+374,SANTA FE,Constitución,Pavón Arriba,1834,False,True,False,True,False,True,True,True,True,82028160.0,-33.3134173933438,-60.8249758944661,6,Pequeña
+375,SANTA FE,Constitución,Peyrano,2517,False,True,False,False,False,False,True,False,True,82028170.0,-33.5411378598405,-60.804329558703,3,Mediana
+376,BUENOS AIRES,Berazategui,Guillermo E. Hudson,49458,True,True,True,True,False,False,True,True,True,6091010.0,-34.7897594857633,-58.1439692638183,7,Grande
+377,BUENOS AIRES,Berazategui,Juan María Gutierrez,14868,True,True,True,True,False,True,True,True,True,6091010.0,-34.8348420760566,-58.1819061125702,8,Grande
+378,BUENOS AIRES,Berazategui,Pereyra,1291,True,True,True,True,False,False,True,False,True,6091010.0,-34.8471945391094,-58.1392765205344,6,Pequeña
+379,BUENOS AIRES,Berazategui,Plátanos,17961,False,True,False,True,False,False,True,True,True,6091010.0,-34.7674201820877,-58.1652686003148,5,Grande
+380,BUENOS AIRES,Berazategui,Ranelagh,17183,True,True,True,True,True,False,True,True,True,6091010.0,-34.7941468501172,-58.1989815634425,8,Grande
+381,BUENOS AIRES,Berazategui,Villa España,15205,True,True,False,True,False,False,True,True,True,6091010.0,-34.776063416904,-58.2002532983623,6,Grande
+382,BUENOS AIRES,Berisso,Barrio Banco Provincia,0,False,False,False,False,False,False,False,False,True,6098010.0,-34.8752589900973,-57.8550856662877,1,Muy pequeña
+383,BUENOS AIRES,Berisso,Barrio El Carmen (Este),0,False,False,False,True,False,True,False,True,True,6098010.0,-34.9293102150655,-57.8853552505795,4,Muy pequeña
+384,BUENOS AIRES,Berisso,Barrio Universitario,0,False,False,False,False,False,False,False,True,True,6098010.0,-34.9027528834433,-57.9270884333304,2,Muy pequeña
+385,BUENOS AIRES,Lobería,San Manuel,1126,False,False,False,True,False,True,True,True,True,6476050.0,-37.7892829007834,-58.8486476710495,5,Pequeña
+386,BUENOS AIRES,Lobería,Tamangueyú,438,False,False,False,False,False,False,False,False,False,6476060.0,-38.2010112434137,-58.7373143964601,0,Muy pequeña
+387,BUENOS AIRES,Lobos,Antonio Carboni,295,True,False,True,True,False,True,True,False,False,6483010.0,-35.2033088915799,-59.3449562581802,5,Muy pequeña
+388,BUENOS AIRES,Lobos,Elvira,133,False,False,False,True,False,True,True,False,False,6483020.0,-35.243272141682,-59.4860397931491,3,Muy pequeña
+389,BUENOS AIRES,Lobos,Laguna de Lobos,509,False,False,False,False,False,False,False,True,True,6483030.0,-35.2747624905943,-59.1339060011927,2,Pequeña
+390,BUENOS AIRES,Lobos,Lobos,29868,True,False,True,True,False,True,True,True,True,6483040.0,-35.1858677983922,-59.0957115706922,7,Grande
+391,BUENOS AIRES,Lobos,Salvador María,830,True,False,False,True,False,True,True,False,True,6483050.0,-35.3028071422894,-59.1696841440203,5,Pequeña
+392,BUENOS AIRES,Lomas De Zamora,Banfield,233339,True,True,True,True,True,False,True,True,True,6490010.0,-34.7379027155314,-58.440675368556,8,Grande
+393,BUENOS AIRES,Lomas De Zamora,Llavallol,43211,True,True,True,True,False,True,True,True,True,6490010.0,-34.7946182344111,-58.4320908524909,8,Grande
+394,BUENOS AIRES,Villa Gesell,Villa Gesell,29593,True,False,False,True,False,False,True,True,True,6868020.0,-37.2464704698501,-56.9707267624406,5,Grande
+395,BUENOS AIRES,Villarino,Argerich,80,False,False,False,False,False,True,True,False,False,6875010.0,-38.7686560837266,-62.6025276771033,2,Muy pequeña
+396,BUENOS AIRES,Villarino,Colonia San Adolfo,109,False,False,False,False,False,False,False,False,False,6875020.0,-39.3983952518232,-62.5711721088672,0,Muy pequeña
+397,BUENOS AIRES,Villarino,Country Los Medanos,61,False,False,False,False,False,True,False,False,False,6875025.0,-38.8468445915571,-62.738741885831,1,Muy pequeña
+398,BUENOS AIRES,Villarino,Hilario Ascasubi,3427,False,False,False,False,False,False,True,True,True,6875030.0,-39.3758602632663,-62.6477900877351,3,Mediana
+399,BUENOS AIRES,Villarino,Mayor Buratovich,5372,True,False,False,True,False,False,True,True,True,6875050.0,-39.2590946793617,-62.6157889589915,5,Mediana
+400,BUENOS AIRES,Villarino,Médanos,5245,True,True,True,False,False,True,True,True,True,6875060.0,-38.8293145512181,-62.6943321574343,7,Mediana
+401,BUENOS AIRES,Villarino,Pedro Luro,9494,True,True,False,True,False,True,True,True,True,6875070.0,-39.5007767274615,-62.6874317159849,7,Mediana
+402,BUENOS AIRES,Villarino,Teniente Origone,145,False,False,False,False,False,True,True,False,True,6875080.0,-39.0580586668564,-62.5697137402023,3,Muy pequeña
+403,BUENOS AIRES,Zárate,Barrio Saavedra,0,False,False,False,False,False,False,False,True,True,6882050.0,-34.1263843372848,-59.020156759664,2,Muy pequeña
+404,BUENOS AIRES,Zárate,Country Club El Casco,452,False,False,False,False,False,False,False,True,True,6882020.0,-34.1275885141615,-59.0834596008166,2,Muy pequeña
+405,BUENOS AIRES,Zárate,Escalada,213,False,False,False,False,False,False,False,False,False,6882030.0,-34.160933188334,-59.1125399836881,0,Muy pequeña
+406,BUENOS AIRES,Berisso,Berisso,87698,True,True,True,True,False,True,True,True,True,6098010.0,-34.8746353679645,-57.8947472316799,8,Grande
+407,BUENOS AIRES,Berisso,Los Talas,0,False,False,False,False,False,False,False,False,False,6098010.0,-34.9190209219847,-57.7909954962894,0,Muy pequeña
+408,BUENOS AIRES,Berisso,Villa Arguello,0,False,False,False,True,False,True,False,True,True,6098010.0,-34.9053981881099,-57.9180815078165,4,Muy pequeña
+409,BUENOS AIRES,Berisso,Villa Dolores,0,False,False,False,False,False,False,False,True,True,6098010.0,-34.8802085383888,-57.8663036732616,2,Muy pequeña
+410,BUENOS AIRES,Berisso,Villa Independencia,0,False,False,False,False,False,False,False,False,False,6098010.0,-34.8829519743895,-57.8614892695719,0,Muy pequeña
+411,BUENOS AIRES,Berisso,Villa Nueva,0,False,False,False,True,False,True,False,True,True,6098010.0,-34.8957079362353,-57.9108816644737,4,Muy pequeña
+412,BUENOS AIRES,Berisso,Villa Porteña,0,False,False,False,False,False,False,False,False,False,6098010.0,-34.891043310448,-57.8963773978494,0,Muy pequeña
+413,BUENOS AIRES,Berisso,Villa Progreso,0,False,False,False,True,False,True,False,False,False,6098010.0,-34.9308766123633,-57.8468799885622,2,Muy pequeña
+414,BUENOS AIRES,Berisso,Villa San Carlos,0,False,False,False,False,False,False,False,True,True,6098010.0,-34.8838130805,-57.87701595642,2,Muy pequeña
+415,BUENOS AIRES,Berisso,Villa Zula,0,False,False,False,False,False,False,False,False,False,6098010.0,-34.9221646298322,-57.8009664840662,0,Muy pequeña
+416,BUENOS AIRES,Bolívar,Hale,211,True,False,False,False,False,False,True,False,False,6105010.0,-36.0010429767568,-60.8534495072374,2,Muy pequeña
+417,BUENOS AIRES,Bolívar,Juan F. Ibarra,33,False,False,False,False,False,False,False,False,False,6105020.0,-36.3498770527922,-61.2552591224518,0,Muy pequeña
+418,BUENOS AIRES,Bolívar,Mariano Unzué,0,False,False,False,False,False,False,False,False,False,6105060.0,-36.1440485245343,-61.0116010100704,0,Muy pequeña
+419,BUENOS AIRES,Bolívar,Paula,40,False,False,False,False,False,False,False,False,False,6105040.0,-36.5053183545527,-61.0243287245345,0,Muy pequeña
+420,BUENOS AIRES,Bolívar,Pirovano,1551,False,False,False,False,False,True,True,True,False,6105050.0,-36.5109170215402,-61.5545516558692,3,Pequeña
+421,BUENOS AIRES,Bolívar,San Carlos de Bolívar (Est. Bolívar),26242,True,True,True,True,True,True,True,True,True,6105060.0,-36.2295602208798,-61.1131898679983,9,Grande
+422,BUENOS AIRES,Bolívar,Urdampilleta,2643,False,False,True,False,False,True,True,True,True,6105070.0,-36.4329292363695,-61.4191160192421,5,Mediana
+423,BUENOS AIRES,Bolívar,Villa Lynch Pueyrredón,62,False,False,False,False,False,False,False,False,False,6105080.0,-36.6025793254646,-61.3618625494725,0,Muy pequeña
+424,BUENOS AIRES,Bragado,Asamblea,7,False,False,False,False,False,False,False,False,False,6112005.0,-35.2267581272748,-60.4168952837295,0,Muy pequeña
+425,BUENOS AIRES,Luján,Cortines,0,True,False,False,True,False,True,True,True,True,6497060.0,-34.5590633814317,-59.2044266157478,6,Muy pequeña
+426,BUENOS AIRES,Luján,Country Club Las Praderas,0,False,False,False,False,False,False,False,False,True,6497070.0,-34.4902656696955,-59.1324863072423,1,Muy pequeña
+427,BUENOS AIRES,Luján,José María Jáuregui (Est. Jáuregui),0,True,True,False,True,False,True,True,True,True,6497060.0,-34.6028553295745,-59.1757529081248,7,Muy pequeña
+428,BUENOS AIRES,Luján,Lezica y Torrezuri,0,False,False,False,False,False,True,False,True,True,6497060.0,-34.5806997364467,-59.0582308683017,3,Muy pequeña
+429,BUENOS AIRES,Luján,Luján,97363,True,True,True,True,True,True,True,True,True,6497060.0,-34.5706550661632,-59.109540176033,9,Grande
+430,BUENOS AIRES,Luján,Olivera,1926,False,False,False,True,False,True,True,True,True,6497070.0,-34.6265041710141,-59.2533805145177,5,Pequeña
+431,BUENOS AIRES,Luján,Open Door (Est. Dr. Domingo Cabred),0,True,False,True,False,False,True,True,True,True,6497060.0,-34.4890162386569,-59.0617361279716,6,Muy pequeña
+432,BUENOS AIRES,Luján,Torres,2664,True,False,False,False,False,True,True,True,True,6497090.0,-34.4318215080317,-59.1287739002816,5,Mediana
+433,BUENOS AIRES,Magdalena,Atalaya,720,False,False,False,False,False,False,True,False,False,6505010.0,-35.0240363457416,-57.5340253600961,1,Pequeña
+434,BUENOS AIRES,Zárate,Lima,10219,True,False,False,True,True,False,True,True,True,6882040.0,-34.0436335939636,-59.1973339595539,6,Grande
+435,BUENOS AIRES,Zárate,Zárate,98522,True,True,False,True,True,True,True,True,True,6882050.0,-34.0998630672257,-59.024557255152,8,Grande
+436,CABA,COMUNA 01,CONSTITUCION,44107,True,True,True,True,True,True,True,True,True,2000010.0,-34.6250478642294,-58.384387226424,9,Grande
+437,CABA,COMUNA 04,BOCA,45113,True,True,True,True,True,True,True,True,True,2000010.0,-34.6310700719721,-58.3568304109892,9,Grande
+438,CABA,COMUNA 14,PALERMO,225970,True,True,True,True,True,True,True,True,True,2000010.0,-34.5738999836423,-58.4224364523189,9,Grande
+439,BUENOS AIRES,Bragado,Bragado,33222,True,True,True,True,False,True,True,True,True,6112010.0,-35.118942299763,-60.4879147568209,8,Grande
+440,BUENOS AIRES,Bragado,Comodoro Py,634,False,False,False,True,False,True,False,True,True,6112020.0,-35.3233100374631,-60.5217314911689,4,Pequeña
+441,BUENOS AIRES,Bragado,General O'Brien,2488,True,False,False,True,False,True,True,True,True,6112030.0,-34.9067979091956,-60.7597838238054,6,Mediana
+442,BUENOS AIRES,Bragado,Irala,400,False,True,False,False,False,True,True,False,True,6112040.0,-34.7718230311122,-60.6916912010278,4,Muy pequeña
+443,BUENOS AIRES,Bragado,La Limpia,38,False,False,False,False,False,False,False,False,False,6112050.0,-35.0797272650156,-60.5928546665185,0,Muy pequeña
+444,BUENOS AIRES,Bragado,Máximo Fernández (Est. Juan F. Salaberry),4,False,False,False,False,False,False,False,False,False,6112060.0,-35.0615246745825,-60.7060741424473,0,Muy pequeña
+445,BUENOS AIRES,Bragado,Mechita (Est. Mecha),1414,True,True,False,False,False,True,False,False,False,6112070.0,-35.0699378566803,-60.4084937925362,3,Pequeña
+446,BUENOS AIRES,Bragado,Olascoaga,127,False,False,False,False,False,True,False,False,False,6112080.0,-35.2375277927366,-60.6115341696178,1,Muy pequeña
+447,BUENOS AIRES,Bragado,Warnes,437,True,False,False,False,False,True,False,False,False,6112090.0,-34.9098734445057,-60.5381681629003,2,Muy pequeña
+448,BUENOS AIRES,Brandsen,Altamirano,215,False,False,False,False,False,False,True,False,True,6119010.0,-35.3615828022139,-58.1504868159157,2,Muy pequeña
+449,BUENOS AIRES,Brandsen,Barrio El Mirador,226,False,False,False,False,False,False,False,True,True,6119015.0,-35.3145370547125,-58.0484420796345,2,Muy pequeña
+450,BUENOS AIRES,Brandsen,Barrio Las Golondrinas,383,False,False,False,False,False,False,False,True,True,6119020.0,-35.0335777783556,-58.1935382681817,2,Muy pequeña
+451,BUENOS AIRES,Brandsen,Barrio Los Bosquecitos,124,False,False,False,False,False,False,False,False,False,6119030.0,-35.1050389949725,-58.1835007859607,0,Muy pequeña
+452,BUENOS AIRES,Brandsen,Barrio Parque Las Acacias,229,False,False,False,False,False,False,False,False,False,6119040.0,-35.1030329461442,-58.2730405375653,0,Muy pequeña
+453,BUENOS AIRES,Brandsen,Campos de Roca,234,False,False,False,False,False,False,False,True,True,6119045.0,-35.1149772603157,-58.0953896541907,2,Muy pequeña
+454,BUENOS AIRES,Brandsen,Club de Campo Las Malvinas,4,False,False,False,False,False,False,False,False,False,6119055.0,-35.2139978115731,-58.2433030920635,0,Muy pequeña
+455,BUENOS AIRES,Magdalena,General Mansilla (Est. Bartolomé Bavio),2022,False,True,False,True,False,True,True,False,True,6505020.0,-35.0816834306862,-57.7469762592144,5,Mediana
+456,BUENOS AIRES,Magdalena,Los Naranjos,115,False,False,False,False,False,False,False,False,False,6505030.0,-34.99655185849,-57.7036642458572,0,Muy pequeña
+457,BUENOS AIRES,Magdalena,Magdalena,11093,True,False,True,True,False,True,True,True,True,6505040.0,-35.0806853032506,-57.5172585839912,7,Grande
+458,BUENOS AIRES,Magdalena,Roberto J. Payró,65,False,False,False,False,False,False,False,False,False,6505050.0,-35.1799267057869,-57.651986019808,0,Muy pequeña
+459,BUENOS AIRES,Magdalena,Vieytes,287,False,False,False,True,False,True,True,False,False,6505060.0,-35.269568396303,-57.5757117447539,3,Muy pequeña
+460,BUENOS AIRES,Maipú,Las Armas,365,True,False,False,False,False,True,True,True,True,6511010.0,-37.0860540989,-57.8285752273883,5,Muy pequeña
+461,BUENOS AIRES,Maipú,Maipú,8883,True,False,True,False,False,True,True,True,True,6511020.0,-36.8648514645038,-57.8829166198472,6,Mediana
+462,BUENOS AIRES,Maipú,Santo Domingo,95,False,False,False,False,True,True,True,False,True,6511030.0,-36.7137597811284,-57.5860126519926,4,Muy pequeña
+463,BUENOS AIRES,Malvinas Argentinas,Area De Promocion El Triángulo,2877,True,False,False,True,False,False,False,True,True,6515010.0,-34.4544550576034,-58.7062417407487,4,Mediana
+464,BUENOS AIRES,Malvinas Argentinas,Grand Bourg,94441,True,True,False,True,False,False,True,True,True,6515010.0,-34.4869935800875,-58.7286750953502,6,Grande
+465,BUENOS AIRES,Malvinas Argentinas,Ingeniero Adolfo Sourdeaux,28780,True,True,False,True,False,True,True,True,True,6515010.0,-34.5004325972609,-58.6618050648717,7,Grande
+466,CABA,COMUNA 04,NUEVA POMPEYA,42695,True,True,True,True,True,True,True,True,True,2000010.0,-34.6505501963997,-58.4188550090093,9,Grande
+467,CABA,COMUNA 15,AGRONOMIA,13912,True,True,True,True,True,True,True,True,True,2000010.0,-34.5929442472726,-58.4886714155361,9,Grande
+468,BUENOS AIRES,Brandsen,Coronel Brandsen,19877,True,True,False,True,False,True,True,True,True,6119050.0,-35.1690983002919,-58.2373529446643,7,Grande
+469,BUENOS AIRES,Brandsen,Gómez,362,False,False,False,False,False,False,True,False,True,6119060.0,-35.0693655332834,-58.1656899882306,2,Muy pequeña
+470,BUENOS AIRES,Brandsen,Jeppener,2496,True,False,False,True,False,False,True,True,True,6119070.0,-35.2802043920968,-58.1996649431989,5,Mediana
+471,BUENOS AIRES,Brandsen,Oliden,183,False,False,False,False,False,False,True,False,True,6119080.0,-35.1842584334678,-57.9479623248001,2,Muy pequeña
+472,BUENOS AIRES,Brandsen,Posada de los Lagos,15,False,False,False,False,False,False,False,True,True,6119085.0,-35.1499383981993,-58.0504528667351,2,Muy pequeña
+473,BUENOS AIRES,Brandsen,Samborombón,6,False,False,False,False,False,False,False,False,False,6119090.0,-35.2206242719966,-58.2805297949826,0,Muy pequeña
+474,BUENOS AIRES,Campana,Alto Los Cardales,1983,False,False,False,True,False,True,False,True,True,6126010.0,-34.3160243688815,-58.9784574815339,4,Pequeña
+475,BUENOS AIRES,Campana,Barrio Los Pioneros,1823,False,False,False,False,False,True,False,True,True,6126020.0,-34.2530406367633,-58.9584400368589,3,Pequeña
+476,BUENOS AIRES,Campana,Campana,86860,True,True,True,True,True,True,True,True,True,6126030.0,-34.1639618118269,-58.9588741035355,9,Grande
+477,BUENOS AIRES,Campana,Chacras del Río Luján,1621,False,False,False,False,False,True,False,True,True,6126035.0,-34.2934153226239,-58.921199044246,3,Pequeña
+478,BUENOS AIRES,Campana,Lomas del Río Luján (Est. Río Luján),261,False,True,False,False,False,False,False,True,True,6126040.0,-34.2816770641806,-58.8911906524052,3,Muy pequeña
+479,BUENOS AIRES,Malvinas Argentinas,Ingeniero Pablo Nogués,42663,True,True,True,True,False,True,True,True,True,6515010.0,-34.4790933125467,-58.6989741628196,8,Grande
+480,BUENOS AIRES,Malvinas Argentinas,Los Polvorines,59169,True,True,True,True,True,True,True,True,True,6515010.0,-34.5078746726212,-58.7013439131882,9,Grande
+481,BUENOS AIRES,Malvinas Argentinas,Malvinas Argentinas,408,False,True,False,True,True,True,False,False,False,6515010.0,-34.5078746726212,-58.7013439131882,4,Muy pequeña
+482,BUENOS AIRES,Malvinas Argentinas,Tortuguitas,45901,True,True,False,True,False,False,True,True,True,6515010.0,-34.4746661471823,-58.7513344097631,6,Grande
+483,BUENOS AIRES,Malvinas Argentinas,Villa De Mayo,48136,True,True,True,True,False,True,True,True,True,6515010.0,-34.5061507591135,-58.6793063506777,8,Grande
+484,BUENOS AIRES,Mar Chiquita,Atlantida,0,False,False,False,False,False,False,False,True,True,6518020.0,-37.8505519250944,-57.5134595632837,2,Muy pequeña
+485,BUENOS AIRES,Mar Chiquita,Camet Norte,0,False,False,False,False,False,False,False,True,True,6518020.0,-37.8224325083139,-57.4974692762018,2,Muy pequeña
+486,BUENOS AIRES,Mar Chiquita,Coronel Vidal,6611,True,True,False,True,False,True,True,True,True,6518010.0,-37.452214188593,-57.7299500229319,7,Mediana
+487,BUENOS AIRES,Mar Chiquita,Frente Mar,0,False,False,False,False,False,False,False,True,True,6518020.0,-37.857770246553,-57.5154242437478,2,Muy pequeña
+488,CABA,COMUNA 04,PARQUE PATRICIOS,40985,True,True,True,True,True,True,True,True,True,2000010.0,-34.6375496406835,-58.4016756206755,9,Grande
+489,CABA,COMUNA 15,CHACARITA,27761,True,True,True,True,True,True,True,True,True,2000010.0,-34.5883730730472,-58.4541748568778,9,Grande
+490,BUENOS AIRES,Cañuelas,Alejandro Petión,2759,True,True,True,False,False,True,True,True,True,6134010.0,-34.9793768508134,-58.6749430768989,7,Mediana
+491,BUENOS AIRES,Cañuelas,Barrio Belgrano-Máximo Paz,7165,False,False,False,False,False,True,False,True,True,6134030.0,-34.9364563092157,-58.6143957995956,3,Mediana
+492,BUENOS AIRES,Cañuelas,Barrio El Taladro,155,False,False,False,True,False,False,False,False,True,6134020.0,-35.0742486164225,-58.8632420603475,2,Muy pequeña
+493,BUENOS AIRES,Cañuelas,Cañuelas,29974,True,True,True,True,True,True,True,True,True,6134030.0,-35.0527140350539,-58.7583856965375,9,Grande
+494,BUENOS AIRES,Cañuelas,Gobernador Udaondo,330,False,False,False,True,False,True,False,False,True,6134040.0,-35.3003271130454,-58.5943053657455,3,Muy pequeña
+495,BUENOS AIRES,Cañuelas,Máximo Paz,7165,False,True,False,False,False,True,False,False,False,6134050.0,-34.9364563092157,-58.6143957995956,2,Mediana
+496,BUENOS AIRES,Cañuelas,Santa Rosa,5297,False,False,False,False,True,True,False,True,True,6134060.0,-34.9611839371811,-58.7308918275978,4,Mediana
+497,BUENOS AIRES,Cañuelas,Uribelarrea,1282,True,False,False,True,False,True,True,True,True,6134070.0,-35.1227364407356,-58.8904871463421,6,Pequeña
+498,BUENOS AIRES,Cañuelas,Vicente Casares,787,True,False,True,False,False,True,True,True,True,6134080.0,-34.9653526702416,-58.6504979594296,6,Pequeña
+499,BUENOS AIRES,Capitán Sarmiento,Capitán Sarmiento,13088,True,True,False,True,False,True,True,True,True,6140010.0,-34.1723674255219,-59.789349139091,7,Grande
+500,BUENOS AIRES,Capitán Sarmiento,La Luisa,230,False,False,False,False,False,True,False,False,False,6140020.0,-34.1285572110784,-59.9240058312679,1,Muy pequeña
+501,BUENOS AIRES,Carlos Casares,Bellocq,542,False,False,True,False,False,False,True,False,False,6147010.0,-35.9189705554631,-61.5312630222769,2,Pequeña
+502,BUENOS AIRES,Mar Chiquita,General Pirán,2934,False,False,True,True,False,True,True,True,True,6518020.0,-37.2778606745914,-57.7740148170475,6,Mediana
+503,BUENOS AIRES,Mar Chiquita,La Armonía,172,False,False,False,False,False,True,False,True,True,6518030.0,-37.774854850113,-57.6351210747907,3,Muy pequeña
+504,BUENOS AIRES,Mar Chiquita,La Baliza,0,False,False,False,False,False,False,False,True,True,6518020.0,-37.7697388275396,-57.450820092514,2,Muy pequeña
+505,BUENOS AIRES,Mar Chiquita,La Caleta,0,False,False,False,False,False,True,False,False,False,6518020.0,-37.7834384978567,-57.4647863685704,1,Muy pequeña
+506,BUENOS AIRES,Mar Chiquita,Mar Chiquita,487,False,False,False,False,False,False,True,True,True,6518040.0,-37.7462581727647,-57.4274479339348,3,Muy pequeña
+507,BUENOS AIRES,Mar Chiquita,Mar de Cobo,760,True,False,True,True,False,False,True,False,False,6518050.0,-37.7768000427976,-57.455658983424,4,Pequeña
+508,BUENOS AIRES,Mar Chiquita,Playa Dorada,0,False,False,False,False,False,False,False,True,True,6518020.0,-37.8730952780707,-57.5218898754931,2,Muy pequeña
+509,BUENOS AIRES,Mar Chiquita,Santa Clara del Mar,7713,True,True,False,True,False,True,False,True,True,6518060.0,-37.834833606977,-57.5079487213859,6,Mediana
+510,BUENOS AIRES,Mar Chiquita,Santa Elena,0,False,False,False,False,False,False,False,False,False,6518020.0,-37.8649003626945,-57.5169016362882,0,Muy pequeña
+511,BUENOS AIRES,Mar Chiquita,Vivoratá,956,False,False,False,True,True,True,True,True,True,6518070.0,-37.6627994476991,-57.6670967441538,6,Pequeña
+512,BUENOS AIRES,Marcos Paz,Barrio Santa Rosa,109,False,False,False,False,False,False,False,False,True,6525010.0,-34.953080822173,-58.78292863718,1,Muy pequeña
+513,BUENOS AIRES,Marcos Paz,Marcos Paz,50460,True,True,True,True,True,True,True,True,True,6525020.0,-34.7965436888808,-58.8778211205753,9,Grande
+514,CABA,COMUNA 05,ALMAGRO,131699,True,True,True,True,True,True,True,True,True,2000010.0,-34.6092276891202,-58.4217452253939,9,Grande
+515,CABA,COMUNA 15,PARQUE CHAS,17489,True,True,True,True,True,True,True,True,True,2000010.0,-34.5855218978064,-58.4791226108546,9,Grande
+516,CORDOBA,Unión,Aldea Santa María,201,False,False,False,False,False,False,False,False,False,14182010.0,-33.6948816087071,-62.9114758842793,0,Muy pequeña
+517,SANTA FE,General López,Sancti Spiritu,3433,True,False,False,True,True,True,True,True,True,82042260.0,-34.0095285599362,-62.2424503438155,7,Mediana
+518,SANTA FE,General López,Santa Isabel,4266,True,False,False,True,True,False,True,True,True,82042270.0,-33.8894892658382,-61.6965906556385,6,Mediana
+519,SANTA FE,General López,Teodelina,5933,False,True,False,False,False,True,True,True,True,82042280.0,-34.1916130913817,-61.5272264570788,5,Mediana
+520,SANTA FE,General López,Venado Tuerto,75437,True,True,False,True,False,True,True,True,True,82042290.0,-33.747315292187,-61.9695358692001,7,Grande
+521,SANTA FE,General López,Villa Cañás,8821,True,True,False,True,False,True,True,True,True,82042300.0,-34.0061339956012,-61.6063880455097,7,Mediana
+522,SANTA FE,General López,Wheelwright,5733,False,True,False,True,True,True,True,True,True,82042310.0,-33.7942942799185,-61.2114409469748,7,Mediana
+523,BUENOS AIRES,Carmen de Areco,Carmen de Areco,12775,True,True,True,True,False,True,True,True,True,6161010.0,-34.3776987251735,-59.8229019801033,8,Grande
+524,BUENOS AIRES,Carmen de Areco,Pueblo Gouin,122,False,False,False,False,False,True,False,False,False,6161020.0,-34.4951191416005,-59.8029737383366,1,Muy pequeña
+525,BUENOS AIRES,Carmen de Areco,Tres Sargentos,391,False,False,False,False,False,True,True,False,True,6161030.0,-34.4664778301466,-60.0008697422009,3,Muy pequeña
+526,BUENOS AIRES,Castelli,Castelli,6859,True,True,False,True,True,True,True,True,True,6168010.0,-36.091694119436,-57.8071801619355,8,Mediana
+527,BUENOS AIRES,Castelli,Centro Guerrero,114,False,False,False,True,False,True,False,False,False,6168020.0,-36.0570621940227,-57.8235422591576,2,Muy pequeña
+528,BUENOS AIRES,Castelli,Cerro de la Gloria,107,False,False,False,True,False,False,False,True,False,6168030.0,-35.9760530599951,-57.4487354447874,2,Muy pequeña
+529,BUENOS AIRES,Chacabuco,Castilla,689,False,False,False,False,False,True,True,False,False,6210010.0,-34.6131247014799,-59.9005194580559,2,Pequeña
+530,BUENOS AIRES,Chacabuco,Chacabuco,38418,True,True,True,True,False,True,True,True,True,6210020.0,-34.6429843999409,-60.4701843504346,8,Grande
+531,BUENOS AIRES,Chacabuco,Los Angeles,54,False,False,False,False,False,False,False,True,True,6210030.0,-34.4575064000002,-60.1801845132051,2,Muy pequeña
+532,BUENOS AIRES,Chacabuco,O'Higgins,1206,True,False,False,True,False,True,True,True,True,6210040.0,-34.5854707868254,-60.6986325840689,6,Pequeña
+533,BUENOS AIRES,Merlo,San Antonio De Padua,42377,True,True,True,True,False,True,True,True,True,6539010.0,-34.6698581359268,-58.697930436646,8,Grande
+534,BUENOS AIRES,Monte,Abbott,603,False,False,False,True,False,True,True,True,True,6547010.0,-35.2825062106661,-58.8042619084922,5,Pequeña
+535,BUENOS AIRES,Monte,San Miguel del Monte (Est. Monte),17005,True,True,True,True,False,True,True,True,True,6547020.0,-35.4391643240479,-58.8094598355672,8,Grande
+536,BUENOS AIRES,Monte,Zenón Videla Dorna,76,False,False,False,False,False,False,False,False,True,6547030.0,-35.5447734044526,-58.8855911917932,1,Muy pequeña
+537,BUENOS AIRES,Monte Hermoso,Balneario Sauce Grande,118,False,False,False,True,False,False,True,True,True,6553010.0,-38.995357691335,-61.2152015930805,4,Muy pequeña
+538,BUENOS AIRES,Monte Hermoso,Monte Hermoso,6351,True,False,False,True,False,False,True,True,True,6553020.0,-38.9815065384254,-61.3005457486605,5,Mediana
+539,BUENOS AIRES,Moreno,Cuartel V,45231,False,True,True,True,False,True,True,True,True,6560010.0,-34.5586595722532,-58.8163010886698,7,Grande
+540,BUENOS AIRES,Moreno,Francisco Alvarez,27954,True,True,True,True,False,True,True,True,True,6560010.0,-34.6073137077479,-58.859942785434,8,Grande
+541,CABA,COMUNA 05,BOEDO,47306,True,True,True,True,True,True,True,True,True,2000010.0,-34.6299600080664,-58.4188403738383,9,Grande
+542,CABA,COMUNA 15,PATERNAL,19717,True,True,True,True,True,True,True,True,True,2000010.0,-34.5974220425569,-58.4686652940674,9,Grande
+543,CORDOBA,Unión,Benjamín Gould,699,False,False,False,False,False,True,True,False,True,14182070.0,-33.5901195408333,-62.7303890735446,3,Pequeña
+544,BUENOS AIRES,Chacabuco,Rawson,2123,True,False,False,True,False,True,True,True,True,6210050.0,-34.6086374337309,-60.0677106761007,6,Mediana
+545,BUENOS AIRES,Chascomús,Barrio Lomas Altas,61,False,False,False,False,False,False,False,False,False,6217003.0,-35.5739889229165,-58.0680436475186,0,Muy pequeña
+546,BUENOS AIRES,Chascomús,Barrio San Cayetano,0,False,False,False,True,False,False,False,True,True,6217020.0,-35.5466815668936,-58.0013258753826,3,Muy pequeña
+547,BUENOS AIRES,Chascomús,Chascomús,33607,True,True,True,True,True,False,True,True,True,6217010.0,-35.5743009068199,-58.0005532563664,8,Grande
+548,BUENOS AIRES,Chascomús,Laguna Vitel,41,False,False,False,False,False,True,False,True,True,6217015.0,-35.5404169288645,-58.1349194201315,3,Muy pequeña
+549,BUENOS AIRES,Chascomús,Manuel J. Cobo (Est. Lezama),4647,True,True,False,False,False,True,True,True,True,6217020.0,-35.8748248734085,-57.8964226760932,6,Mediana
+550,BUENOS AIRES,Chascomús,Villa Parque Girado,93,False,False,False,False,False,False,False,True,True,6217030.0,-35.6282696386352,-58.0145524400059,2,Muy pequeña
+551,BUENOS AIRES,Chivilcoy,Benitez,68,False,False,False,False,False,True,False,False,False,6224005.0,-34.9660329017519,-60.1236385563996,1,Muy pequeña
+552,BUENOS AIRES,Chivilcoy,Chivilcoy,58152,True,True,True,True,True,True,True,True,True,6224010.0,-34.8980163772726,-60.0188841030321,9,Grande
+553,BUENOS AIRES,Chivilcoy,Emilio Ayarza,87,False,False,False,False,False,True,False,False,False,6224020.0,-34.746060108407,-60.0392314192743,1,Muy pequeña
+554,BUENOS AIRES,Chivilcoy,Gorostiaga,324,True,False,False,False,False,True,False,False,False,6224030.0,-34.839127302807,-59.8646671984292,2,Muy pequeña
+555,BUENOS AIRES,Chivilcoy,La Rica,118,True,False,False,False,False,True,True,False,False,6224040.0,-34.9739189538858,-59.8639302070489,3,Muy pequeña
+556,BUENOS AIRES,Moreno,La Reja,39685,True,True,True,True,True,True,True,True,True,6560010.0,-34.6452391234366,-58.8380252692761,9,Grande
+557,BUENOS AIRES,Moreno,Moreno,177572,True,True,True,True,True,True,True,True,True,6560010.0,-34.637632238148,-58.7921362740593,9,Grande
+558,BUENOS AIRES,Moreno,Paso Del Rey,49553,False,True,False,True,True,True,True,True,True,6560010.0,-34.6353876829627,-58.7503180890016,7,Grande
+559,BUENOS AIRES,Moreno,Trujui,112511,True,True,True,True,False,True,True,True,True,6560010.0,-34.5941439978594,-58.7557346559769,8,Grande
+560,BUENOS AIRES,Morón,Castelar,107962,True,True,False,True,False,True,True,True,True,6568010.0,-34.6644131034283,-58.6456427123911,7,Grande
+561,BUENOS AIRES,Morón,El Palomar,59312,True,True,True,True,True,True,True,True,True,6568010.0,-34.617707172718,-58.601533043415,9,Grande
+562,CABA,COMUNA 06,CABALLITO,176076,True,True,True,True,True,True,True,True,True,2000010.0,-34.6168254996915,-58.443603110353,9,Grande
+563,CABA,COMUNA 15,VILLA CRESPO,81959,True,True,True,True,True,True,True,True,True,2000010.0,-34.5988344062647,-58.4427221412974,9,Grande
+564,CORDOBA,Unión,Canals,8645,True,False,False,True,False,True,True,True,True,14182080.0,-33.562382718352,-62.8855974037259,6,Mediana
+565,CORDOBA,Unión,Colonia Bismarck,373,False,True,False,False,False,True,True,False,False,14182110.0,-33.3003017093034,-62.7132986409449,3,Muy pequeña
+566,CORDOBA,Unión,Colonia Bremen,117,False,False,False,False,False,False,False,False,False,14182120.0,-33.4634972191589,-62.7323851196295,0,Muy pequeña
+567,CORDOBA,Unión,Laborde,5943,True,False,False,False,False,False,True,True,True,14182150.0,-33.1529891830182,-62.8560737781526,4,Mediana
+568,CORDOBA,Unión,Monte Maíz,7325,True,True,False,True,False,False,True,True,True,14182170.0,-33.2045620901114,-62.601248151355,6,Mediana
+569,CORDOBA,Unión,Pueblo Italiano,1654,False,True,False,False,True,False,True,False,True,14182220.0,-33.880722767451,-62.8407250305139,4,Pequeña
+570,CORDOBA,Unión,Wenceslao Escalante,1504,True,True,False,False,True,True,True,True,True,14182290.0,-33.1720228484368,-62.7700003268955,7,Pequeña
+571,BUENOS AIRES,Chivilcoy,Moquehuá,2130,False,True,False,True,False,True,True,False,True,6224050.0,-35.0926582854313,-59.7745302971612,5,Mediana
+572,BUENOS AIRES,Chivilcoy,Ramón Biaus,179,True,False,False,False,False,True,True,False,False,6224060.0,-35.0858455213162,-59.9236682591744,3,Muy pequeña
+573,BUENOS AIRES,Chivilcoy,San Sebastián,166,True,False,False,False,False,True,True,False,False,6224070.0,-34.9443783815263,-59.7018597369347,3,Muy pequeña
+574,BUENOS AIRES,Colón,Colón,23206,True,True,False,True,False,True,True,True,True,6175010.0,-33.8978633606345,-61.099560506382,7,Grande
+575,BUENOS AIRES,Colón,El Arbolito,0,False,False,False,False,False,False,True,False,False,6175010.0,-33.9147838019682,-60.9438081845998,1,Muy pequeña
+576,BUENOS AIRES,Colón,Pearson,257,False,False,False,False,False,False,True,False,False,6175030.0,-33.6518963027432,-60.8922239880462,1,Muy pequeña
+577,BUENOS AIRES,Colón,Sarasa,71,False,False,False,False,False,True,False,False,False,6175040.0,-34.0523353092344,-61.2019040914739,1,Muy pequeña
+578,BUENOS AIRES,Colón,Villa Manuel Pomar,199,False,False,False,False,False,False,False,False,False,6175020.0,-33.91478,-60.94381,0,Muy pequeña
+579,BUENOS AIRES,Coronel de Marina L. Rosales,Bajo Hondo,164,False,False,False,True,False,True,True,True,True,6182010.0,-38.7647705078125,-61.9209671020508,5,Muy pequeña
+580,BUENOS AIRES,Coronel de Marina L. Rosales,Balneario Pehuen Co,681,False,False,False,False,True,False,True,True,True,6182020.0,-38.9961963948629,-61.5471990087107,4,Pequeña
+581,BUENOS AIRES,Coronel de Marina L. Rosales,Pago Chico,327,False,False,False,False,False,True,False,True,True,6182025.0,-38.7839402799391,-62.1195194756714,3,Muy pequeña
+582,BUENOS AIRES,Coronel de Marina L. Rosales,Punta Alta (Est Almirante Solier),58315,True,True,True,True,True,False,True,True,True,6182030.0,-38.8813527346955,-62.0749536088688,8,Grande
+583,BUENOS AIRES,Coronel de Marina L. Rosales,Villa del Mar,0,False,False,False,True,False,False,False,True,True,6182030.0,-38.8532242630709,-62.1164752039925,3,Muy pequeña
+584,BUENOS AIRES,Coronel de Marina L. Rosales,Villa General Arias (Est. Kilómetro 638),1845,False,False,False,True,False,False,True,False,True,6182050.0,-38.8069001411051,-62.09498539538,3,Pequeña
+585,BUENOS AIRES,Coronel Dorrego,Aparicio,80,False,False,False,False,False,False,True,True,True,6189010.0,-38.6204949120776,-60.8809603426407,3,Muy pequeña
+586,BUENOS AIRES,Coronel Dorrego,Balneario Marisol,158,False,False,False,True,False,False,True,False,False,6189020.0,-38.9224906889726,-60.5329774471942,2,Muy pequeña
+587,BUENOS AIRES,Coronel Dorrego,Coronel Dorrego,11510,True,True,True,True,False,True,True,True,True,6189030.0,-38.7166239148323,-61.2884948879698,8,Grande
+588,BUENOS AIRES,Coronel Dorrego,El Perdido (Est. José A. Guisasola),919,False,False,False,True,False,True,True,True,True,6189040.0,-38.6757752787604,-61.0884421797928,5,Pequeña
+589,BUENOS AIRES,Coronel Dorrego,Faro,20,False,False,False,False,False,False,False,False,False,6189050.0,-38.7966781095909,-61.0688772134763,0,Muy pequeña
+590,BUENOS AIRES,Coronel Dorrego,Irene,13,False,False,False,False,False,False,False,True,True,6189060.0,-38.5543426342658,-60.6954938748393,2,Muy pequeña
+591,BUENOS AIRES,Coronel Dorrego,Oriente,1778,False,False,False,True,False,True,True,False,True,6189070.0,-38.7388491145692,-60.6092238150829,4,Pequeña
+592,BUENOS AIRES,Coronel Dorrego,Paraje La Ruta,10,False,False,False,False,False,False,False,False,True,6189075.0,-38.6534164106777,-60.8608557685895,1,Muy pequeña
+593,BUENOS AIRES,Coronel Dorrego,San Román,38,False,False,False,False,False,False,False,True,True,6189080.0,-38.7415550885108,-61.5377200112301,2,Muy pequeña
+594,BUENOS AIRES,Coronel Pringles,Coronel Pringles (Est. Pringles),20263,True,True,True,True,False,True,True,True,True,6196010.0,-37.9865210556901,-61.3540715661069,8,Grande
+595,BUENOS AIRES,Coronel Pringles,El Divisorio,46,False,False,False,False,False,False,False,False,True,6196020.0,-38.3235636030787,-61.4450578127822,1,Muy pequeña
+596,BUENOS AIRES,Coronel Pringles,El Pensamiento,12,False,False,False,False,False,False,False,False,False,6196030.0,-38.2154094275446,-61.3145847771452,0,Muy pequeña
+597,BUENOS AIRES,Morón,Haedo,39511,True,True,True,True,False,True,True,True,True,6568010.0,-34.6440661183216,-58.5978176171897,8,Grande
+598,BUENOS AIRES,Morón,Moron,96240,True,True,True,True,True,True,True,True,True,6568010.0,-34.6652227151167,-58.6190557007973,9,Grande
+599,BUENOS AIRES,Morón,Villa Sarmiento,18082,True,True,True,True,True,True,True,True,True,6568010.0,-34.6346596523214,-58.5715757135423,9,Grande
+600,BUENOS AIRES,Navarro,José Juan Almeyra,207,False,False,False,False,False,True,False,False,False,6574010.0,-34.9232643360691,-59.5422519447044,1,Muy pequeña
+601,BUENOS AIRES,Navarro,Las Marianas,485,False,False,False,False,False,True,False,False,False,6574020.0,-35.053926378156,-59.5131011825281,1,Muy pequeña
+602,BUENOS AIRES,Navarro,Navarro,13224,True,True,True,True,True,True,True,True,True,6574030.0,-35.0036066018879,-59.2774163163898,9,Grande
+603,BUENOS AIRES,Navarro,Villa Moll (Est. Moll),592,False,False,False,True,False,True,True,False,False,6574040.0,-35.0782490606759,-59.651945539681,3,Pequeña
+604,BUENOS AIRES,Necochea,Claraz,639,False,False,False,False,False,True,True,False,False,6581010.0,-37.8918269607856,-59.2866977775565,2,Pequeña
+605,BUENOS AIRES,Necochea,Costa Bonita,0,False,False,False,False,False,False,False,True,True,6581040.0,-38.559592,-58.6306517,2,Muy pequeña
+606,CABA,COMUNA 07,FLORES,164310,True,True,True,True,True,True,True,True,True,2000010.0,-34.6368070795903,-58.4582698515258,9,Grande
+607,CABA,COMUNA 15,VILLA ORTUZAR,21736,True,True,True,True,True,True,True,True,True,2000010.0,-34.5809741138535,-58.4676516664339,9,Grande
+608,CABA,COMUNA 07,PARQUE CHACABUCO,56281,True,True,True,True,True,True,True,True,True,2000010.0,-34.6359392274734,-58.4376956019926,9,Grande
+609,BUENOS AIRES,Coronel Pringles,Indio Rico,1054,False,False,True,True,False,True,True,True,True,6196040.0,-38.3293770967784,-60.8866340266383,6,Pequeña
+610,BUENOS AIRES,Coronel Pringles,Lartigau,22,False,False,False,False,False,False,False,False,False,6196050.0,-38.44591903663,-61.566096860456,0,Muy pequeña
+611,BUENOS AIRES,Coronel Suárez,Cascadas,11,False,False,False,False,False,False,False,False,False,6203010.0,-37.2899615825436,-62.2971682457111,0,Muy pequeña
+612,BUENOS AIRES,Coronel Suárez,Coronel Suárez,23621,True,True,True,True,False,True,True,True,True,6203020.0,-37.4596224938744,-61.9317530113989,8,Grande
+613,BUENOS AIRES,Coronel Suárez,Cura Malal,95,False,False,False,False,False,False,False,False,False,6203030.0,-37.4843018699441,-62.10361959864,0,Muy pequeña
+614,BUENOS AIRES,Coronel Suárez,D'Orbigny,20,False,False,False,False,False,False,False,False,False,6203040.0,-37.6772293087783,-61.7052608546557,0,Muy pequeña
+615,BUENOS AIRES,Coronel Suárez,Huanguelén,5020,False,False,True,True,False,True,True,True,True,6203050.0,-37.0622288209544,-61.9297529087938,6,Mediana
+616,BUENOS AIRES,Coronel Suárez,Pasman,165,False,False,False,False,False,True,False,False,False,6203060.0,-37.2234351404125,-62.1602259170472,1,Muy pequeña
+617,BUENOS AIRES,Coronel Suárez,San José,2234,False,True,False,True,False,False,True,False,True,6203070.0,-37.5077480260109,-61.9211473085303,4,Mediana
+618,BUENOS AIRES,Coronel Suárez,Santa María,1832,False,True,False,True,False,False,True,False,True,6203080.0,-37.5565856774998,-61.872634363442,4,Pequeña
+619,BUENOS AIRES,Coronel Suárez,Santa Trinidad,1474,False,True,False,True,False,False,True,True,True,6203090.0,-37.4891036510029,-61.9252761219778,5,Pequeña
+620,BUENOS AIRES,Coronel Suárez,Villa La Arcadia,434,False,True,False,True,False,False,False,False,False,6203100.0,-38.1345025284944,-61.7885553500206,2,Muy pequeña
+621,BUENOS AIRES,Daireaux,Andant,42,False,False,False,False,False,False,False,False,False,6231010.0,-36.5584907531738,-62.1372261047363,0,Muy pequeña
+622,BUENOS AIRES,Daireaux,Arboledas,632,False,False,False,False,False,False,True,False,True,6231020.0,-36.8827708539235,-61.4878179060517,2,Pequeña
+623,BUENOS AIRES,Daireaux,Daireaux,12122,True,False,False,False,True,True,True,True,True,6231030.0,-36.6001749213746,-61.7450132654369,6,Grande
+624,BUENOS AIRES,Pehuajó,Francisco Madero,1389,False,False,True,False,False,True,True,True,True,6609030.0,-35.8483065194137,-62.0693918423117,5,Pequeña
+625,BUENOS AIRES,Pehuajó,Inocencio Sosa,31,False,False,False,False,False,True,False,False,False,6609035.0,-35.7184196474894,-62.1142777365421,1,Muy pequeña
+626,BUENOS AIRES,Pehuajó,Juan José Paso,2176,False,False,False,True,False,True,True,True,True,6609040.0,-35.8524740557321,-62.2962123802194,5,Mediana
+627,BUENOS AIRES,Pehuajó,Magdala,195,False,False,False,False,False,True,True,False,False,6609050.0,-36.0846707903374,-61.7254747841859,2,Muy pequeña
+628,BUENOS AIRES,Pehuajó,Mones Cazón,1764,False,False,False,False,False,True,True,True,True,6609060.0,-36.2301776476091,-62.0069944091925,4,Pequeña
+629,BUENOS AIRES,Pehuajó,Nueva Plata,206,False,False,False,False,False,True,True,False,False,6609070.0,-35.9199117438484,-61.8133995164977,2,Muy pequeña
+630,BUENOS AIRES,Pehuajó,Pehuajó,31533,True,True,True,True,False,True,True,True,True,6609080.0,-35.8123030689596,-61.8988207561037,8,Grande
+631,BUENOS AIRES,Pehuajó,San Bernardo (Est. Guanaco),282,False,False,False,False,False,True,True,False,False,6609090.0,-35.7137365347985,-61.6477830181101,2,Muy pequeña
+632,BUENOS AIRES,Pehuajó,San Esteban,92,False,False,False,False,False,True,False,False,False,6609020.0,-35.73274,-61.74393,1,Muy pequeña
+633,BUENOS AIRES,Pergamino,Acevedo,1499,True,True,False,False,False,True,True,True,True,6623010.0,-33.755665348987,-60.4408373865386,6,Pequeña
+634,BUENOS AIRES,Pergamino,Fontezuela,365,True,False,False,True,False,True,True,False,False,6623020.0,-33.9138392371386,-60.4628650932084,4,Muy pequeña
+635,BUENOS AIRES,Pergamino,Guerrico,774,False,True,False,False,True,True,False,True,True,6623030.0,-33.6745849638169,-60.4006865938611,5,Pequeña
+636,CABA,COMUNA 08,VILLA LUGANO,126374,True,True,True,True,True,True,True,True,True,2000010.0,-34.6749935792889,-58.4761629844706,9,Grande
+637,SANTA FE,Constitución,Rueda,471,False,False,False,False,False,True,True,False,False,82028180.0,-33.335855095367,-60.4608740548372,2,Muy pequeña
+638,SANTA FE,Constitución,Santa Teresa,3039,True,True,False,True,False,True,True,True,True,82028190.0,-33.4385471621789,-60.7911542772276,7,Mediana
+639,SANTA FE,Constitución,Sargento Cabral,1007,False,False,False,True,False,True,True,False,True,82028200.0,-33.4330128597835,-60.6301906902003,4,Pequeña
+640,SANTA FE,Constitución,Stephenson,54,False,False,False,True,False,False,False,False,True,82028210.0,-33.4178567628002,-60.5572137324943,2,Muy pequeña
+641,SANTA FE,Constitución,Theobald,421,False,False,False,False,False,False,True,False,True,82028220.0,-33.3122172562755,-60.3120513587534,2,Muy pequeña
+642,SANTA FE,Constitución,Villa Constitución,47374,True,True,False,True,False,True,True,True,True,82028230.0,-33.2324133911798,-60.3324988273466,7,Grande
+643,SANTA FE,General López,Aarón Castellanos (Est. Castellanos),236,False,False,False,False,False,True,True,False,True,82042010.0,-34.3345323396045,-62.3748007656351,3,Muy pequeña
+644,SANTA FE,General López,Amenábar,1605,True,False,False,False,False,True,True,True,True,82042020.0,-34.136118440775,-62.4229084851079,5,Pequeña
+645,SANTA FE,General López,Cafferata,1449,True,False,False,True,False,False,False,True,True,82042030.0,-33.4414158758935,-62.0868714692657,4,Pequeña
+646,BUENOS AIRES,Daireaux,La Larga,53,False,False,False,False,False,False,False,False,False,6231040.0,-36.706298828126,-61.9231071472267,0,Muy pequeña
+647,BUENOS AIRES,Daireaux,La Manuela,0,False,False,False,False,False,False,False,False,False,6231030.0,-36.7451930590319,-62.0699673803373,0,Muy pequeña
+648,BUENOS AIRES,Daireaux,Salazar,1924,False,False,False,False,False,True,True,True,True,6231060.0,-36.307117163487,-62.2003365899,4,Pequeña
+649,BUENOS AIRES,Dolores,Dolores,25940,True,True,True,True,False,True,True,True,True,6238010.0,-36.3161215739926,-57.6752657333964,8,Grande
+650,BUENOS AIRES,Dolores,Sevigne,286,False,False,False,False,False,True,True,True,True,6238020.0,-36.2067284269712,-57.7413707296745,4,Muy pequeña
+651,BUENOS AIRES,Ensenada,Dique Nº 1,0,False,False,False,False,False,False,False,True,True,6245010.0,-34.8758485548313,-57.9336298993983,2,Muy pequeña
+652,BUENOS AIRES,Ensenada,Ensenada,56463,True,True,True,True,False,True,True,True,True,6245010.0,-34.8679770208454,-57.9214379246659,8,Grande
+653,BUENOS AIRES,Ensenada,Isla Santiago (Oeste),0,False,False,False,False,False,False,False,False,True,6245010.0,-34.8370461990756,-57.8999620408998,1,Muy pequeña
+654,BUENOS AIRES,Ensenada,Punta Lara,0,False,False,False,False,False,False,False,True,True,6245010.0,-34.8346689394776,-58.0010481870988,2,Muy pequeña
+655,BUENOS AIRES,Ensenada,Villa Catela,0,False,False,False,False,False,True,False,True,True,6245010.0,-34.884600148052,-57.9511290255284,3,Muy pequeña
+656,BUENOS AIRES,Escobar,Belen de Escobar,64544,True,True,False,True,True,True,True,True,True,6252010.0,-34.3516704130246,-58.7832526742638,8,Grande
+657,BUENOS AIRES,Esteban Echeverría,9 De Abril,50116,True,True,True,True,False,True,True,True,True,6260010.0,-34.7565075768115,-58.4902923509723,8,Grande
+658,BUENOS AIRES,Esteban Echeverría,Canning,7941,True,True,False,True,False,True,True,True,True,6260010.0,-34.8849791351051,-58.4778099372334,7,Mediana
+659,BUENOS AIRES,Esteban Echeverría,El Jagüel,60132,False,True,False,True,True,True,True,True,True,6260010.0,-34.8304505041023,-58.494869419897,7,Grande
+660,BUENOS AIRES,Esteban Echeverría,Luis Guillón,46649,True,True,True,True,False,True,True,True,True,6260010.0,-34.800196435999,-58.4530964052639,8,Grande
+661,BUENOS AIRES,Esteban Echeverría,Monte Grande,135893,True,True,True,True,True,True,True,True,True,6260010.0,-34.8191368630736,-58.4726947603508,9,Grande
+662,BUENOS AIRES,Esteban Echeverría,Zona Aeropuerto Internacional Ezeiza,14,True,False,False,False,False,True,True,False,False,6260010.0,-34.8128216283518,-58.5521650062885,3,Muy pequeña
+663,BUENOS AIRES,Exaltación de la Cruz,Arroyo de la Cruz,243,False,False,False,False,False,True,False,True,True,6266010.0,-34.3363786908945,-59.1094149717708,3,Muy pequeña
+664,BUENOS AIRES,Exaltación de la Cruz,Capilla del Señor (Est. Capilla),9244,True,False,True,True,False,False,True,True,True,6266020.0,-34.2912108668035,-59.1015232724441,6,Mediana
+665,BUENOS AIRES,Pergamino,Juan A. de la Peña,211,False,False,False,False,False,True,False,False,False,6623040.0,-33.8322767381074,-60.4864895356947,1,Muy pequeña
+666,BUENOS AIRES,Pergamino,Juan Anchorena (Est. Urquiza),976,True,False,False,True,False,True,True,True,True,6623050.0,-33.9263378592898,-60.3829034809436,6,Pequeña
+667,BUENOS AIRES,Pergamino,La Violeta,1041,True,False,False,False,False,False,True,True,True,6623060.0,-33.7347851403163,-60.1701773086428,4,Pequeña
+668,BUENOS AIRES,Pergamino,Manuel Ocampo,1078,False,False,False,True,False,True,True,True,True,6623070.0,-33.7647232673599,-60.6492429333859,5,Pequeña
+669,BUENOS AIRES,Pergamino,Mariano Benítez,168,False,False,False,False,False,False,True,False,False,6623080.0,-33.7090270411103,-60.5842599045876,1,Muy pequeña
+670,BUENOS AIRES,Pergamino,Mariano H. Alfonzo (Est. San Patricio),993,False,False,False,True,True,False,True,True,True,6623090.0,-33.9149979004605,-60.8383550657724,5,Pequeña
+671,BUENOS AIRES,Pergamino,Pergamino,91399,True,True,True,True,True,True,True,True,True,6623100.0,-33.8949900563191,-60.5716400794952,9,Grande
+672,BUENOS AIRES,Pergamino,Pinzón,393,False,False,False,False,False,True,False,False,False,6623110.0,-33.9947211174052,-60.7316480040989,1,Muy pequeña
+673,BUENOS AIRES,Pergamino,Rancagua,695,True,False,False,True,False,False,True,False,True,6623120.0,-34.0303722475767,-60.5042327001336,4,Pequeña
+674,BUENOS AIRES,Pergamino,Villa Angélica (Est. El Socorro),1144,False,True,False,False,False,False,False,True,True,6623130.0,-33.6647037443081,-60.7084372635626,3,Pequeña
+675,BUENOS AIRES,Pergamino,Villa San José,145,False,False,False,True,False,False,True,False,False,6623140.0,-34.0906695795004,-60.4162716627136,2,Muy pequeña
+676,BUENOS AIRES,Pila,Casalins,66,False,False,False,False,False,True,False,True,False,6630010.0,-36.3181419923689,-58.5525025522873,2,Muy pequeña
+677,BUENOS AIRES,Pilar,Maquinista F. Savio (oeste),12240,False,False,False,False,False,True,False,True,True,6638040.0,-34.4106172547359,-58.7821701089412,3,Grande
+678,BUENOS AIRES,Pilar,Pilar,86158,True,True,True,True,True,True,True,True,True,6638040.0,-34.4663318396358,-58.9227197887079,9,Grande
+679,BUENOS AIRES,Pilar,Presidente Derqui,50783,True,True,False,True,False,True,True,True,True,6638040.0,-34.4928616935261,-58.8416985218723,7,Grande
+680,BUENOS AIRES,Pilar,Roberto De Vicenzo,0,False,False,False,False,False,False,False,True,True,6638040.0,-34.4369652784326,-58.7669941785147,2,Muy pequeña
+681,BUENOS AIRES,Pilar,Santa Teresa,5324,False,False,False,False,True,False,False,True,True,6638040.0,-34.4366914158447,-58.7573470164393,3,Mediana
+682,BUENOS AIRES,Pilar,Tortuguitas,26024,False,False,False,True,True,True,False,True,True,6638040.0,-34.4578061717121,-58.76209072062,5,Grande
+683,BUENOS AIRES,Pilar,Villa Astolfi,6735,False,True,False,True,False,True,False,True,True,6638040.0,-34.4858983446269,-58.8768335703823,5,Mediana
+684,BUENOS AIRES,Escobar,El cazador,4722,False,True,False,True,False,False,True,True,True,6252010.0,-34.3034904902207,-58.7811274560113,5,Mediana
+685,BUENOS AIRES,Escobar,Garín,70042,True,True,False,True,True,True,True,True,True,6252010.0,-34.428785229178,-58.7361732596546,8,Grande
+686,BUENOS AIRES,Escobar,Ingeniero Maschwitz,14734,True,True,False,True,False,True,True,True,True,6252010.0,-34.3790006332322,-58.7303342412363,7,Grande
+687,BUENOS AIRES,Escobar,Loma Verde,3783,False,False,False,True,False,False,False,True,True,6252010.0,-34.3285234890863,-58.8506997728362,3,Mediana
+688,BUENOS AIRES,Escobar,Maquinista F. Savio (este),37480,True,True,False,True,False,True,True,True,True,6252010.0,-34.3964888336318,-58.7629458829717,7,Grande
+689,BUENOS AIRES,Escobar,Matheu,16903,True,True,False,True,True,True,True,True,True,6252010.0,-34.3688779666182,-58.8402291878847,8,Grande
+690,BUENOS AIRES,Escobar,Puerto Paraná,0,False,False,False,False,False,False,False,True,True,6252010.0,-34.2467,-58.7308,2,Muy pequeña
+691,BUENOS AIRES,Pila,Pila,2502,False,False,True,True,False,True,True,True,True,6630020.0,-36.0014746137723,-58.1427778873885,6,Mediana
+692,BUENOS AIRES,Pilar,Barrio Parque Almirante Irizar (Ap. Kilómetro 61),0,False,False,False,False,False,False,False,True,True,6638040.0,-34.4220055807037,-58.9528378824193,2,Muy pequeña
+693,BUENOS AIRES,Pilar,Club de Campo Larena - Los Quinchos,0,False,False,False,False,False,False,False,False,True,6638040.0,-34.3911412682883,-59.0007332098308,1,Muy pequeña
+694,BUENOS AIRES,Pilar,Country Club El Jagüel,0,False,False,False,False,False,False,False,True,True,6638040.0,-34.4,-59.0219,2,Muy pequeña
+695,BUENOS AIRES,Pilar,Del Viso,41437,True,True,False,True,False,True,True,True,True,6638040.0,-34.4494009456502,-58.8009119728306,7,Grande
+696,BUENOS AIRES,Pilar,Fátima,4923,True,True,False,True,False,True,True,True,True,6638040.0,-34.4072575836787,-58.974691291144,7,Mediana
+697,BUENOS AIRES,Pilar,La Lonja,12451,True,True,False,True,False,True,True,True,True,6638040.0,-34.4448149403448,-58.8393730861805,7,Grande
+698,BUENOS AIRES,Pilar,Los Cachorros,9009,False,True,False,False,False,False,False,True,True,6638040.0,-34.4250028270043,-58.7950003996087,3,Mediana
+699,BUENOS AIRES,Pilar,Manzanares,4379,False,True,False,True,False,True,False,True,True,6638040.0,-34.452630932571,-59.0136606624887,5,Mediana
+700,BUENOS AIRES,Pilar,Manzone,1970,False,False,False,False,False,False,False,True,True,6638040.0,-34.5287308766458,-58.8775995091498,2,Pequeña
+701,CABA,COMUNA 08,VILLA RIACHUELO,14084,True,True,True,True,True,True,True,True,True,2000010.0,-34.6918955269685,-58.4632519393435,9,Grande
+702,CABA,COMUNA 08,VILLA SOLDATI,46779,True,True,True,True,True,True,True,True,True,2000010.0,-34.6654688444976,-58.4465225253229,9,Grande
+703,BUENOS AIRES,Ezeiza,José Maria Ezeiza,56219,True,True,True,True,True,True,True,True,True,6270010.0,-34.8536100103068,-58.5195521653909,9,Grande
+704,BUENOS AIRES,Ezeiza,La Unión,33227,True,True,False,True,True,False,True,True,True,6270010.0,-34.8503859677023,-58.5558695462288,7,Grande
+705,BUENOS AIRES,Ezeiza,Tristán Suarez,37944,True,True,True,True,True,True,True,True,True,6270010.0,-34.8851527149847,-58.5700335845498,9,Grande
+706,BUENOS AIRES,Florencio Varela,Bosques,64077,True,True,True,True,False,True,True,True,True,6274010.0,-34.827580702831,-58.2229120039488,8,Grande
+707,BUENOS AIRES,Florencio Varela,El Tropezon,0,False,False,False,False,False,False,False,True,True,6274010.0,-34.9564048574127,-58.2787454299742,2,Muy pequeña
+708,BUENOS AIRES,Florencio Varela,Estanislao Severo Zeballos,26005,True,True,True,True,False,False,True,True,True,6274010.0,-34.812285887223,-58.2426532633495,7,Grande
+709,BUENOS AIRES,Florencio Varela,Florencio Varela,149676,True,True,True,True,True,True,True,True,True,6274010.0,-34.7960544308506,-58.2748588953342,9,Grande
+710,BUENOS AIRES,Pilar,Villa Rosa,23865,True,True,True,True,False,True,True,True,True,6638040.0,-34.4077327133185,-58.8539345779841,8,Grande
+711,BUENOS AIRES,Pilar,Zelaya,3461,True,True,False,False,False,True,True,True,True,6638040.0,-34.3657182841794,-58.893696088678,6,Mediana
+712,BUENOS AIRES,Pinamar,Carilo,0,False,False,False,False,False,False,False,True,True,6644010.0,-37.1641593745618,-56.9027914378095,2,Muy pequeña
+713,BUENOS AIRES,Pinamar,Ostende,0,False,False,False,False,False,False,False,True,True,6644010.0,-37.1300477581888,-56.8833984697828,2,Muy pequeña
+714,BUENOS AIRES,Pinamar,Pinamar,25397,True,True,False,True,True,False,True,True,True,6644010.0,-37.0777448860202,-56.8437227435213,7,Grande
+715,BUENOS AIRES,Pinamar,Valeria Del Mar,0,False,False,False,False,False,False,False,True,True,6644010.0,-37.1445557771803,-56.890291998877,2,Muy pequeña
+716,BUENOS AIRES,Presidente Perón,Barrio America Unida,0,False,False,False,False,False,False,False,True,True,6648010.0,-34.886197581853,-58.41733483734,2,Muy pequeña
+717,BUENOS AIRES,Presidente Perón,Guernica,80824,True,True,True,True,False,True,True,True,True,6648010.0,-34.9230592108536,-58.3650272662643,8,Grande
+718,BUENOS AIRES,Puán,17 de Agosto,319,False,False,False,False,False,False,True,False,False,6651040.0,-37.9086924428976,-62.9360284730803,1,Muy pequeña
+719,BUENOS AIRES,Puán,Azopardo,95,False,False,False,False,False,False,False,False,False,6651010.0,-37.7017920523646,-62.9006764415683,0,Muy pequeña
+720,CABA,COMUNA 09,LINIERS,44132,True,True,True,True,True,True,True,True,True,2000010.0,-34.6437960835294,-58.5191298958228,9,Grande
+721,BUENOS AIRES,Florencio Varela,Gobernador Julio A. Costa,61135,True,True,True,True,False,False,True,True,True,6274010.0,-34.8152397261388,-58.3082334245906,7,Grande
+722,BUENOS AIRES,Florencio Varela,Ingeniero Juan Allan,32994,True,True,False,True,False,False,True,True,True,6274010.0,-34.8648075260046,-58.2110437322304,6,Grande
+723,BUENOS AIRES,Florencio Varela,La Capilla,0,False,False,False,True,False,False,True,True,True,6274010.0,-34.9437330109546,-58.2632550914349,4,Muy pequeña
+724,BUENOS AIRES,Florencio Varela,Villa Brown,7484,False,True,False,True,False,False,False,True,True,6274010.0,-34.8790424725562,-58.2898092496787,4,Mediana
+725,BUENOS AIRES,Florencio Varela,Villa San Luis,12693,False,True,False,True,False,False,False,True,True,6274010.0,-34.8627929258513,-58.2553232274346,4,Grande
+726,BUENOS AIRES,Florencio Varela,Villa Santa Rosa,27308,True,True,True,True,False,False,True,True,True,6274010.0,-34.8380276482598,-58.2888899071764,7,Grande
+727,BUENOS AIRES,Florencio Varela,Villa Vatteone,44632,True,True,True,True,False,False,True,True,True,6274010.0,-34.8303193176345,-58.2635239901185,7,Grande
+728,BUENOS AIRES,Florentino Ameghino,Blaquier,676,False,False,False,False,True,True,True,True,True,6277010.0,-34.6356616332748,-62.4786821321875,5,Pequeña
+729,BUENOS AIRES,Florentino Ameghino,Florentino Ameghino,7225,True,False,False,True,False,False,True,True,True,6277020.0,-34.846677699169,-62.4671575805384,5,Mediana
+730,BUENOS AIRES,Florentino Ameghino,Porvenir,156,False,False,False,False,False,True,False,False,False,6277030.0,-34.9522292183733,-62.2174229886622,1,Muy pequeña
+731,BUENOS AIRES,General Alvarado,Centinela del Mar,1,False,False,False,False,False,True,False,False,False,6280005.0,-38.4348806367321,-58.216863731472,1,Muy pequeña
+732,BUENOS AIRES,Puán,Estela,2,False,False,False,False,False,False,False,False,True,6651050.0,-38.1080950084855,-62.9129041375994,1,Muy pequeña
+733,BUENOS AIRES,Puán,Felipe Solá,626,False,False,False,False,False,False,True,False,True,6651060.0,-38.005992834739,-62.8186936682637,2,Pequeña
+734,BUENOS AIRES,Puán,López Lecube,32,False,False,False,False,False,False,False,False,False,6651070.0,-38.1171190117962,-62.7254849373447,0,Muy pequeña
+735,BUENOS AIRES,Puán,Puán,4743,False,True,False,True,True,True,True,True,True,6651080.0,-37.542613502113,-62.7652275731166,7,Mediana
+736,BUENOS AIRES,Puán,San Germán,152,False,False,False,False,False,True,True,False,False,6651090.0,-38.2995183581309,-62.9821877089624,2,Muy pequeña
+737,BUENOS AIRES,Puán,Villa Castelar (Est. Erize),31,False,False,False,False,False,False,True,False,False,6651100.0,-37.3905464925651,-62.8051325654187,1,Muy pequeña
+738,BUENOS AIRES,Punta Indio,Alvarez Jonte,38,False,False,False,False,False,False,False,False,False,6655010.0,-35.3227800092544,-57.4490768504218,0,Muy pequeña
+739,BUENOS AIRES,Punta Indio,Las Tahonas,0,False,False,False,False,False,False,False,False,False,6655040.0,-35.3548754574502,-57.3822045685313,0,Muy pequeña
+740,BUENOS AIRES,Punta Indio,Pipinas,954,False,True,False,False,False,False,True,True,True,6655030.0,-35.53126706917,-57.3285887617048,4,Pequeña
+741,BUENOS AIRES,Punta Indio,Punta Indio,569,False,False,False,False,False,True,True,False,False,6655040.0,-35.2808352898089,-57.2360072391524,2,Pequeña
+742,BUENOS AIRES,Punta Indio,Verónica,6546,True,True,False,True,False,False,True,True,True,6655050.0,-35.3881552142501,-57.3371601623743,6,Mediana
+743,CABA,COMUNA 09,MATADEROS,64436,True,True,True,True,True,True,True,True,True,46042090.0,-34.6583682885816,-58.5017319521438,9,Grande
+744,BUENOS AIRES,General Alvarado,Comandante Nicanor Otamendi,6623,False,False,True,True,True,True,True,True,True,86175030.0,-38.1119335118514,-57.8415353121543,7,Mediana
+745,BUENOS AIRES,General Alvarado,Mar del Sur,453,False,False,True,False,False,True,True,True,True,86175040.0,-38.3446881533109,-57.9920393065731,5,Muy pequeña
+746,BUENOS AIRES,General Alvarado,Mechongué,1307,True,False,False,False,False,True,True,True,True,86182010.0,-38.1486545138318,-58.2230121065801,5,Pequeña
+747,BUENOS AIRES,General Alvarado,Miramar,29433,True,True,True,True,True,True,True,True,True,86189010.0,-38.2707429318083,-57.8404714577536,9,Grande
+748,BUENOS AIRES,General Alvear,General Alvear,9812,False,False,False,False,False,False,True,True,True,90084010.0,-36.0229384341367,-60.0147935726886,3,Mediana
+749,BUENOS AIRES,General Arenales,Arribeños,2910,True,True,True,True,False,True,True,True,True,90021010.0,-34.2101542565966,-61.3548577979495,8,Mediana
+750,BUENOS AIRES,General Arenales,Ascensión,4179,True,True,False,False,False,True,True,True,True,90021020.0,-34.2368758979793,-61.103613881133,6,Mediana
+751,BUENOS AIRES,General Arenales,Estación Arenales,90,False,False,False,False,False,False,False,False,False,90021030.0,-34.2698455922697,-61.2926718130401,0,Muy pequeña
+752,BUENOS AIRES,General Arenales,Ferré,2004,False,True,False,True,False,True,True,True,True,90021050.0,-34.1250383813873,-61.132654886464,6,Mediana
+753,BUENOS AIRES,General Arenales,General Arenales,4321,False,True,True,True,False,True,True,True,True,6266030.0,-34.3044679711077,-61.3056277788216,7,Mediana
+754,BUENOS AIRES,General Arenales,La Angelita,265,True,False,False,False,False,True,True,False,False,30105040.0,-34.2608740726731,-60.9685988224111,3,Muy pequeña
+755,BUENOS AIRES,General Arenales,La Trinidad,308,False,True,False,True,False,True,False,False,False,30105040.0,-34.1068549430168,-61.1317020714357,3,Muy pequeña
+756,BUENOS AIRES,General Belgrano,General Belgrano,15394,True,True,True,True,True,True,True,True,True,74063020.0,-35.7694577358026,-58.4944615102033,9,Grande
+757,BUENOS AIRES,General Belgrano,Gorchs,338,False,False,False,False,True,True,True,True,True,6518020.0,-35.6733729629116,-58.9582999568816,5,Muy pequeña
+758,BUENOS AIRES,General Guido,General Guido,1291,False,False,True,True,False,True,True,True,True,6518010.0,-36.6431651777017,-57.7905019037041,6,Pequeña
+759,BUENOS AIRES,General Guido,Labarden,799,False,False,False,False,False,True,True,True,True,6518020.0,-36.9489668508723,-58.1035671819428,4,Pequeña
+760,BUENOS AIRES,General Juan Madariaga,Barrio Kennedy,0,False,False,False,False,False,False,False,True,True,6518020.0,-37.0062217702401,-57.1417255856769,2,Muy pequeña
+761,BUENOS AIRES,General Juan Madariaga,General Juan Madariaga,18089,True,True,True,True,True,False,True,True,True,6518030.0,-36.9967730012079,-57.1374769071298,8,Grande
+762,BUENOS AIRES,General La Madrid,General La Madrid,8073,True,False,True,True,False,True,True,True,True,6518020.0,-37.2503992475804,-61.2595794125711,7,Mediana
+763,BUENOS AIRES,Quilmes,Bernal,37547,True,True,True,True,True,False,True,True,True,6518020.0,-34.700378406023,-58.2766427817003,8,Grande
+764,BUENOS AIRES,Quilmes,Bernal Oeste,85959,True,True,True,True,False,False,True,True,True,6518040.0,-34.7269644246033,-58.3182795621594,7,Grande
+765,BUENOS AIRES,Quilmes,Don Bosco,23458,False,True,False,True,False,False,True,True,True,6518050.0,-34.7032130159372,-58.2984533178872,5,Grande
+766,BUENOS AIRES,Quilmes,Ezpeleta,55274,True,True,True,True,False,True,True,True,True,6518020.0,-34.7435644425127,-58.2281408361207,8,Grande
+767,BUENOS AIRES,Quilmes,Ezpeleta Oeste,26256,True,True,True,True,False,False,True,True,True,6518060.0,-34.7634442077448,-58.2638314351646,7,Grande
+768,BUENOS AIRES,Quilmes,Quilmes,125373,True,True,True,True,True,True,True,True,True,6518020.0,-34.7241344748224,-58.2492205541766,9,Grande
+769,CABA,COMUNA 09,PARQUE AVELLANEDA,53229,True,True,True,True,True,True,True,True,True,6840010.0,-34.64864128675,-58.47645640345,9,Grande
+770,BUENOS AIRES,General Pueyrredón,Camet,0,True,False,False,True,True,True,True,True,True,50021010.0,-37.9130763908367,-57.552463851894,7,Muy pequeña
+771,BUENOS AIRES,General Pueyrredón,Chapadmalal,4112,True,False,False,True,True,True,True,True,True,50021010.0,-38.1757779275595,-57.6513390003209,7,Mediana
+772,BUENOS AIRES,General Pueyrredón,El Marquesado,196,False,False,False,False,False,True,True,False,False,74063040.0,-38.2369312519788,-57.763418077922,2,Muy pequeña
+773,BUENOS AIRES,General Pueyrredón,Estacion Camet,0,False,False,False,False,False,False,False,True,True,62042010.0,-37.888665236683,-57.6000121501773,2,Muy pequeña
+774,BUENOS AIRES,General Pueyrredón,Estación Chapadmalal,1633,True,False,False,True,False,True,False,True,True,62042020.0,-38.036727731373,-57.7129897398616,5,Pequeña
+775,BUENOS AIRES,General Pueyrredón,Mar del Plata,560913,True,True,True,True,True,True,True,True,True,62042030.0,-38.0120914785136,-57.6064947153173,9,Grande
+776,BUENOS AIRES,General Pueyrredón,Punta Mogotes,0,False,False,False,False,False,False,False,True,True,62042040.0,-38.0833774287933,-57.5859350936487,2,Muy pequeña
+777,BUENOS AIRES,General Pueyrredón,Sierra de los Padres,4249,True,False,False,True,False,True,True,True,True,62042050.0,-37.954166706805,-57.7715971022228,6,Mediana
+778,BUENOS AIRES,Quilmes,Quilmes Oeste,133980,True,True,True,True,False,True,True,True,True,62042060.0,-34.7477989892391,-58.2999440151876,8,Grande
+779,BUENOS AIRES,Quilmes,San Francisco Solano,59962,True,True,False,True,False,True,True,True,True,62042070.0,-34.7777730726874,-58.3101561253692,7,Grande
+780,BUENOS AIRES,Quilmes,Villa La Florida,35135,True,True,True,True,False,True,True,True,True,62042080.0,-34.7688841339243,-58.2957092489115,8,Grande
+781,BUENOS AIRES,Ramallo,El Paraíso,423,True,False,False,True,False,True,True,False,False,62042090.0,-33.5679152654445,-59.9791123483107,4,Muy pequeña
+782,BUENOS AIRES,Ramallo,Las Bahamas,31,False,False,False,False,False,False,False,True,True,62042100.0,-33.6366100825527,-59.9895563465816,2,Muy pequeña
+783,BUENOS AIRES,Ramallo,Pérez Millán,4570,False,False,False,True,False,False,True,True,True,62042110.0,-33.7674497804832,-60.0927343667154,4,Mediana
+784,BUENOS AIRES,Ramallo,Ramallo,13319,True,True,False,True,True,True,True,True,True,62042115.0,-33.4877021169888,-60.0072209741607,8,Grande
+785,BUENOS AIRES,Ramallo,Villa General Savio (Est. Sánchez),1511,False,False,False,False,False,False,False,True,True,62042120.0,-33.4352672179447,-60.1451316522293,2,Pequeña
+786,BUENOS AIRES,Ramallo,Villa Ramallo,11280,True,True,False,True,False,True,True,True,True,62042130.0,-33.502293213764,-60.0650138035308,7,Grande
+787,CABA,COMUNA 10,FLORESTA,37575,True,True,True,True,True,True,True,True,True,62042140.0,-34.6276862905939,-58.4835872783595,9,Grande
+788,SANTA FE,Rosario,Albarellos,253,False,False,False,False,False,True,True,False,False,94007010.0,-33.2413031665306,-60.6365751407418,2,Muy pequeña
+789,SANTA FE,Rosario,Álvarez,5417,True,True,False,True,False,False,True,True,True,94007020.0,-33.1306253585247,-60.8039626859935,6,Mediana
+790,SANTA FE,Rosario,Alvear,2402,True,True,False,True,False,True,True,False,True,94014010.0,-33.0614584695641,-60.6159765613734,6,Mediana
+791,SANTA FE,Rosario,Arbilla,427,True,False,False,False,False,False,False,False,False,34021030.0,-33.0919516648506,-60.6993159324653,1,Muy pequeña
+792,SANTA FE,Rosario,Arminda,288,False,True,False,False,False,False,True,False,False,34021040.0,-33.2658615254501,-60.9669188397385,2,Muy pequeña
+793,SANTA FE,Rosario,Arroyo Seco,20620,True,True,False,True,False,True,True,True,True,34021050.0,-33.1560225761175,-60.5101308080247,7,Grande
+794,SANTA FE,Rosario,Carmen del Sauce,531,False,True,False,True,False,True,False,False,True,34021060.0,-33.2376879120566,-60.8118679160701,4,Pequeña
+795,SANTA FE,Rosario,Coronel Bogado,2204,True,False,False,True,False,False,True,False,True,34028010.0,-33.3175115859048,-60.6036347878573,4,Mediana
+796,SANTA FE,Rosario,Coronel Rodolfo S. Domínguez,796,False,True,False,False,False,False,True,True,True,34035010.0,-33.1854760061025,-60.7228633313771,4,Pequeña
+797,SANTA FE,Rosario,Cuatro Esquinas,174,False,False,False,True,False,False,False,False,False,34035020.0,-33.2466228889596,-60.7649740219949,1,Muy pequeña
+798,BUENOS AIRES,General Rodríguez,Barrio Ruta 24 Kilómetro 10,0,False,False,False,True,False,False,False,True,True,14091270.0,-34.6882159472973,-58.9574297137089,3,Muy pequeña
+799,BUENOS AIRES,General Rodríguez,Country Club Bosque Real - Barrio Morabo,0,False,False,False,False,False,False,False,True,True,14091280.0,-34.555,-58.935,2,Muy pequeña
+800,BUENOS AIRES,General Rodríguez,General Rodríguez,85315,True,True,True,True,True,True,True,True,True,14091290.0,-34.6079239021063,-58.950282039134,9,Grande
+801,BUENOS AIRES,General San Martín,Barrio Parque General San Martin,421,False,False,True,True,False,True,True,False,True,14091300.0,-34.5673433766504,-58.5843112459936,5,Muy pequeña
+802,BUENOS AIRES,General San Martín,Billinghurst,19664,False,True,False,True,False,False,True,True,True,14091310.0,-34.5751071711249,-58.5745828938046,5,Grande
+803,BUENOS AIRES,General San Martín,Ciudad Del Libertador General San Martin,29180,True,True,False,True,True,True,True,True,True,14091320.0,-34.5796986848297,-58.5420144816587,8,Grande
+804,BUENOS AIRES,General San Martín,Ciudad Jardin El Libertador,63479,False,True,False,False,False,False,False,True,True,14098010.0,-34.5416520781805,-58.5959093634496,3,Grande
+805,BUENOS AIRES,General San Martín,Va Ma Irene De Los Remedios De Escalada,1265,False,True,False,False,False,False,False,True,True,14098020.0,-34.5646397095177,-58.5922548425316,3,Pequeña
+806,BUENOS AIRES,General San Martín,Villa Ayacucho,3939,False,True,False,True,False,False,False,True,True,14098030.0,-34.5904132636755,-58.5530430923958,4,Mediana
+807,BUENOS AIRES,Rauch,Rauch,12705,True,False,True,True,True,True,True,True,True,14098060.0,-36.7755035485732,-59.0871114029954,8,Grande
+808,BUENOS AIRES,Rivadavia,América,11685,True,True,False,True,True,True,True,True,True,74063020.0,-35.4903412429492,-62.9763759840765,8,Grande
+809,BUENOS AIRES,Rojas,Barrio Las Margaritas,0,False,False,False,False,False,False,False,False,False,30056080.0,-34.1932374145653,-60.6820264999894,0,Muy pequeña
+810,BUENOS AIRES,Rojas,La Beba,37,False,False,False,False,False,False,False,False,False,30056090.0,-34.1555633544922,-61.0121421813965,0,Muy pequeña
+811,BUENOS AIRES,Rojas,Las Carabelas,1107,False,False,False,True,True,True,True,False,True,30056095.0,-34.0381002651925,-60.8685264174218,5,Pequeña
+812,BUENOS AIRES,Rojas,Los Indios,66,False,False,False,False,False,False,False,False,False,30056100.0,-34.3735696107802,-60.6523710265627,0,Muy pequeña
+813,BUENOS AIRES,Rojas,Rafael Obligado,901,False,False,False,False,False,True,False,False,True,30056110.0,-34.3588132488617,-60.7845693256007,2,Pequeña
+814,BUENOS AIRES,Rojas,Roberto Cano,23,False,False,False,False,False,False,False,False,False,30063030.0,-34.0861129760742,-60.6667747497559,0,Muy pequeña
+815,CABA,COMUNA 10,MONTE CASTRO,33623,True,True,True,True,True,True,True,True,True,30063020.0,-34.6192974826904,-58.5065803391285,9,Grande
+816,ENTRE RIOS,Gualeguay,Gualeguay,40507,True,True,False,True,True,True,True,True,True,50028030.0,-33.1485556234267,-59.3150160418816,8,Grande
+817,ENTRE RIOS,Gualeguay,Puerto Ruiz,347,False,False,False,False,False,False,True,False,False,50028030.0,-33.2198401773573,-59.3630338659967,1,Muy pequeña
+818,ENTRE RIOS,Gualeguaychú,Enrique Carbó,750,False,False,False,False,False,True,True,False,True,50028020.0,-33.1478483564668,-59.2089401138297,3,Pequeña
+819,RIO NEGRO,Adolfo Alsina,Loteo Costa de Río,665,False,False,False,False,False,False,False,False,False,74042120.0,-40.8722977227525,-62.9146635826372,0,Pequeña
+820,RIO NEGRO,Adolfo Alsina,Viedma,52789,True,True,True,True,True,True,True,True,True,74056070.0,-40.8093232712389,-62.9853203682712,9,Grande
+821,SANTA FE,Rosario,El Caramelo,155,True,False,False,True,False,False,True,False,False,82049150.0,-33.1288733975401,-60.7130394393533,3,Muy pequeña
+822,SANTA FE,Rosario,Fighiera,4034,True,False,False,False,False,True,True,True,True,82049160.0,-33.1950187794417,-60.4706038463519,5,Mediana
+823,SANTA FE,Rosario,General Lagos,3419,True,False,False,True,True,True,True,True,True,82126150.0,-33.1121588884353,-60.5665737837063,7,Mediana
+824,SANTA FE,Rosario,Kilómetro 101,36,True,False,False,False,True,False,False,True,True,82126180.0,-33.060584803082,-60.6856440118334,4,Muy pequeña
+825,SANTA FE,Rosario,Los Muchachos - La Alborada,129,False,False,False,False,False,False,False,False,False,82133010.0,-33.0915734104105,-60.7354254261055,0,Muy pequeña
+826,SANTA FE,Rosario,Monte Flores,166,True,False,False,False,False,False,False,True,True,82133020.0,-33.0800073993365,-60.6355226681116,3,Muy pequeña
+827,BUENOS AIRES,General San Martín,Villa Ballester,36272,True,True,True,True,False,True,True,True,True,6280005.0,-34.5422846822324,-58.5583177179822,8,Grande
+828,BUENOS AIRES,General San Martín,Villa Bernardo Monteagudo,8519,False,True,False,True,False,False,False,True,True,6280010.0,-34.5905899097986,-58.5396606594168,4,Mediana
+829,BUENOS AIRES,General San Martín,Villa Chacabuco,5179,False,True,False,True,False,False,False,True,True,6560010.0,-34.5796744853293,-58.523036970803,4,Mediana
+830,BUENOS AIRES,General San Martín,Villa Coronel Jose M. Zapiola,22369,False,True,False,True,False,False,False,True,True,6560010.0,-34.5595169115142,-58.5772769308184,4,Grande
+831,BUENOS AIRES,General San Martín,Villa General Antonio J. De Sucre,6311,False,True,False,True,False,False,False,True,True,6560010.0,-34.5470506011052,-58.5694391894093,4,Mediana
+832,BUENOS AIRES,General San Martín,Villa General Eugenio Necochea,29982,False,True,False,True,False,False,False,True,True,6560010.0,-34.51253320696,-58.5801478288493,4,Grande
+833,BUENOS AIRES,General San Martín,Villa General Jose Tomas Guido,18828,False,True,False,True,False,False,False,True,True,6560010.0,-34.553116323608,-58.5669976603922,4,Grande
+834,BUENOS AIRES,General San Martín,Villa General Juan G. Las Heras,11866,False,True,False,True,False,False,False,True,True,6560010.0,-34.5612567076697,-58.5553936643491,4,Grande
+835,BUENOS AIRES,General San Martín,Villa Godoy Cruz,6116,False,True,False,True,False,False,False,True,True,38063160.0,-34.5433989252454,-58.5755928423118,4,Mediana
+836,BUENOS AIRES,General San Martín,Villa Granaderos De San Martín,21113,False,True,False,True,False,True,False,True,True,82063070.0,-34.5507646909435,-58.5284854572959,5,Grande
+837,BUENOS AIRES,General San Martín,Villa Gregoria Matorras,16376,False,True,False,True,False,False,False,True,True,82063150.0,-34.5383846467918,-58.5491721010066,4,Grande
+838,BUENOS AIRES,Rojas,Rojas,19766,True,True,True,True,False,True,True,True,True,6882050.0,-34.1961600446015,-60.7332636467146,8,Grande
+839,BUENOS AIRES,Rojas,Sol de Mayo,20,False,False,False,False,False,False,False,False,False,2000010.0,-34.2689448512236,-60.8717773420981,0,Muy pequeña
+840,BUENOS AIRES,Rojas,Villa Manuel Pomar,52,False,False,False,False,False,False,False,False,False,14098070.0,-33.9159508805463,-60.9379380238883,0,Muy pequeña
+841,BUENOS AIRES,Rojas,Villa Parque Cecir,0,False,False,False,False,False,False,False,False,False,14098080.0,-34.1707175989305,-60.7438336816558,0,Muy pequeña
+842,BUENOS AIRES,Roque Pérez,Carlos Beguerie,399,False,False,False,True,False,True,True,False,False,14098090.0,-35.4854690457283,-59.1017155978911,3,Muy pequeña
+843,BUENOS AIRES,Roque Pérez,Roque Pérez,10358,True,True,True,True,False,True,True,True,True,2000010.0,-35.4016375824204,-59.3346857845207,8,Grande
+844,BUENOS AIRES,Saavedra,Arroyo Corto,514,False,False,False,True,False,False,True,False,False,30063040.0,-37.512917973477,-62.3116837747426,2,Pequeña
+845,BUENOS AIRES,Saavedra,Colonia San Martín,92,False,False,False,False,False,False,False,False,False,30063030.0,-37.9769152091143,-62.3326095560459,0,Muy pequeña
+846,BUENOS AIRES,Saavedra,Dufaur,182,False,False,False,False,False,False,True,False,False,30063060.0,-37.9428223013646,-62.284864272698,1,Muy pequeña
+847,BUENOS AIRES,Saavedra,Espartillar,785,False,False,False,True,False,True,True,False,True,30070010.0,-37.3604343942367,-62.4297386825705,4,Pequeña
+848,BUENOS AIRES,Saavedra,Goyena,516,False,False,False,True,False,False,False,False,False,30070020.0,-37.7192518502325,-62.6071296330023,1,Pequeña
+849,BUENOS AIRES,Saavedra,Las Encadenadas,9,False,False,False,False,False,False,False,False,False,30070030.0,-38.0361082716296,-62.4704140736323,0,Muy pequeña
+850,BUENOS AIRES,Saavedra,Pigüé,14383,False,False,False,True,False,False,True,True,True,2000010.0,-37.6063896033626,-62.4057728759143,4,Grande
+851,BUENOS AIRES,Saavedra,Saavedra,2276,False,False,False,True,False,True,True,True,True,50028030.0,-37.7636402199499,-62.3506328041255,5,Mediana
+852,CABA,COMUNA 10,VELEZ SARSFIELD,35081,True,True,True,True,True,True,True,True,True,50028050.0,-34.6313610222,-58.493276996941,9,Grande
+853,ENTRE RIOS,Gualeguaychú,Gualeguaychú,80614,True,True,True,True,True,True,True,True,True,74049010.0,-33.0100328267382,-58.5164257946352,9,Grande
+854,ENTRE RIOS,Gualeguaychú,Larroque,6180,True,False,False,True,False,True,True,True,True,74049020.0,-33.0354242763647,-59.001853656082,6,Mediana
+855,ENTRE RIOS,Gualeguaychú,Pueblo General Belgrano,2030,False,True,False,True,False,False,True,True,True,74049040.0,-33.0162888459347,-58.476043760345,5,Mediana
+856,ENTRE RIOS,Islas del Ibicuy,Arroyo Martínez,0,False,False,False,False,False,False,False,True,True,82049180.0,-33.6387532,-58.82767479,2,Muy pequeña
+857,ENTRE RIOS,Islas del Ibicuy,Ceibas,1730,False,False,False,False,False,True,True,True,True,82049190.0,-33.4994124052794,-58.8003541709834,4,Pequeña
+858,ENTRE RIOS,Islas del Ibicuy,Ibicuy,4520,False,True,False,True,False,True,True,True,True,82049200.0,-33.7437863303553,-59.1550366922315,6,Mediana
+859,ENTRE RIOS,Islas del Ibicuy,Médanos,574,False,False,False,False,False,True,False,False,True,82049210.0,-33.4360995740998,-59.0675952112197,2,Pequeña
+860,ENTRE RIOS,Islas del Ibicuy,Ñancay,0,False,False,False,False,False,False,False,False,False,2000010.0,-33.4486459401767,-58.6696419201236,0,Muy pequeña
+861,ENTRE RIOS,Islas del Ibicuy,Villa Paranacito,1940,False,True,False,False,False,False,True,True,True,82133110.0,-33.7156244223002,-58.6597631447303,4,Pequeña
+862,SANTA FE,Caseros,Arequito,6533,True,True,False,False,False,True,True,True,True,90077050.0,-33.1483008378636,-61.4713349349693,6,Mediana
+863,SANTA FE,Caseros,Arteaga,3089,True,True,False,False,False,True,True,True,True,90091010.0,-33.0911311154911,-61.7917113876172,6,Mediana
+864,SANTA FE,Caseros,Beravebú,2225,False,False,False,False,False,True,True,True,True,2000010.0,-33.3414152210784,-61.8622809808056,4,Mediana
+865,SANTA FE,Caseros,Bigand,4939,True,True,False,False,False,True,True,True,True,86007010.0,-33.3761183026397,-61.185501310201,6,Mediana
+866,SANTA FE,Caseros,Casilda,34703,True,True,False,True,False,True,True,True,True,86007020.0,-33.0424955546762,-61.1693311184421,7,Grande
+867,SANTA FE,Caseros,Chabás,6871,True,False,False,True,False,True,True,True,True,86007030.0,-33.2470674643201,-61.3575935561826,6,Mediana
+868,SANTA FE,Caseros,Chañar Ladeado,5415,True,True,False,True,False,False,True,True,True,86007040.0,-33.3258409849243,-62.0386496702618,6,Mediana
+869,SANTA FE,Rosario,Piñero (Est. Erasto),1146,False,True,False,True,False,False,False,False,True,86014010.0,-33.1112071010784,-60.7964961630631,3,Pequeña
+870,SANTA FE,Rosario,Pueblo Esther,6789,True,False,False,True,True,False,True,True,True,86014020.0,-33.0730969403696,-60.5789195429283,6,Mediana
+871,SANTA FE,Rosario,Pueblo Muñoz (Est. Bernard),497,False,True,False,False,False,False,True,False,True,2000010.0,-33.1744833504332,-60.8971398400989,3,Muy pequeña
+872,SANTA FE,Rosario,Pueblo Uranga,856,True,False,False,True,False,True,True,False,True,82063160.0,-33.2645299958204,-60.7083345859989,5,Pequeña
+873,SANTA FE,Rosario,Puerto Arroyo Seco,413,False,False,False,False,False,False,False,False,True,82063170.0,-33.1315113496399,-60.5078884705177,1,Muy pequeña
+874,SANTA FE,Rosario,Soldini,2577,True,True,False,False,False,False,True,True,True,82063180.0,-33.0239868445344,-60.7561883192345,5,Mediana
+875,SANTA FE,Rosario,Villa Amelia,835,True,True,False,True,False,True,True,False,False,82063190.0,-33.1771929125315,-60.6677297311463,5,Pequeña
+876,SANTA FE,Rosario,Villa del Plata,259,False,False,False,True,False,False,True,False,False,82063070.0,-33.1271769621356,-60.7090282248961,2,Muy pequeña
+877,SANTA FE,Rosario,Villa Gobernador Gálvez,80769,False,True,False,True,False,True,True,True,True,82063200.0,-33.0224078611601,-60.6336422555152,6,Grande
+878,BUENOS AIRES,General San Martín,Villa José León Suarez,16173,True,True,False,True,False,True,True,True,True,2000010.0,-34.5253711653351,-58.5802550661988,7,Grande
+879,BUENOS AIRES,General San Martín,Villa Juan Martín De Pueyrredon,18082,False,True,False,True,False,False,False,True,True,62042530.0,-34.5474839124216,-58.5750972559389,4,Grande
+880,BUENOS AIRES,General San Martín,Villa Libertad,14404,False,True,False,True,False,False,False,True,True,62042540.0,-34.5846960052521,-58.5623334028073,4,Grande
+881,BUENOS AIRES,General San Martín,Villa Lynch,4097,True,True,False,True,False,False,True,True,True,62042550.0,-34.590146441043,-58.5234377223288,6,Mediana
+882,BUENOS AIRES,General San Martín,Villa Maipu,25120,False,True,False,True,False,True,True,True,True,62042560.0,-34.5682131696117,-58.5245451491949,6,Grande
+883,BUENOS AIRES,General San Martín,Villa Marqués Alejandro María De Aguado,13440,False,True,False,True,False,False,False,True,True,62042570.0,-34.5551356608044,-58.5383771255925,4,Grande
+884,BUENOS AIRES,General San Martín,Villa Parque Pres Figueroa Alcorta,3762,False,True,False,True,False,False,False,True,True,62056010.0,-34.5939487574993,-58.5321739553925,4,Mediana
+885,BUENOS AIRES,General San Martín,Villa Parque San Lorenzo,4567,False,True,False,True,False,False,False,True,True,62056020.0,-34.5618730613851,-58.5336624494541,4,Mediana
+886,BUENOS AIRES,General San Martín,Villa San Andrés,10018,True,True,False,True,False,True,True,True,True,62056030.0,-34.5659932905453,-58.5448069225448,7,Grande
+887,BUENOS AIRES,General San Martín,Villa Yapeyú,3654,False,True,False,True,False,False,False,True,True,2000010.0,-34.5716953020123,-58.5491073994839,4,Mediana
+888,BUENOS AIRES,Saladillo,Alvarez de Toledo,213,False,False,False,True,False,False,True,True,False,50035010.0,-35.6391609182127,-59.6292383440582,3,Muy pequeña
+889,BUENOS AIRES,Saladillo,Blaquier,0,False,False,False,False,False,False,False,False,False,50035020.0,-35.767700734608,-59.3038642874232,0,Muy pequeña
+890,BUENOS AIRES,Saladillo,Cazón,209,False,False,False,True,False,False,True,False,False,50035030.0,-35.576803202395,-59.6645037628687,2,Muy pequeña
+891,BUENOS AIRES,Saladillo,Del Carril,1270,False,False,False,False,False,True,True,False,True,50035040.0,-35.5127172285926,-59.5158202035334,3,Pequeña
+892,BUENOS AIRES,Saladillo,Polvaredas,392,False,False,False,False,False,False,False,False,False,50035050.0,-35.593907231155,-59.5079734849201,0,Muy pequeña
+893,BUENOS AIRES,Saladillo,Saladillo,26763,True,True,False,True,False,True,True,True,True,50035060.0,-35.6404298805989,-59.7790589845354,7,Grande
+894,BUENOS AIRES,Salliqueló,Salliqueló,7617,True,False,True,False,True,False,True,True,True,38063170.0,-36.7511653813281,-62.9599573443115,6,Mediana
+895,BUENOS AIRES,Salto,Arroyo Dulce,1715,True,False,False,True,False,True,True,True,True,38063180.0,-34.1024332833136,-60.4061551794069,6,Pequeña
+896,BUENOS AIRES,Salto,Berdier,177,False,False,False,False,False,False,False,False,False,38063190.0,-34.3987726587976,-60.2605725409335,0,Muy pequeña
+897,BUENOS AIRES,Salto,Gahan,648,False,False,False,False,False,True,True,True,False,38070010.0,-34.3380744009945,-60.0992736191527,3,Pequeña
+898,BUENOS AIRES,Salto,Inés Indart,911,False,False,False,True,True,True,True,False,True,38070020.0,-34.3994163305262,-60.5436825925267,5,Pequeña
+899,BUENOS AIRES,Salto,La Invencible,77,False,False,False,False,False,True,False,False,True,38070030.0,-34.2687422037239,-60.3853645216588,2,Muy pequeña
+900,CABA,COMUNA 10,VERSALLES,13822,True,True,True,True,True,True,True,True,True,30070005.0,-34.6301234618064,-58.5224017483433,9,Grande
+901,SANTA FE,Caseros,Gödeken,1652,False,True,False,True,False,False,True,False,True,42049010.0,-33.402405547162,-61.8449306727075,4,Pequeña
+902,SANTA FE,Caseros,Los Molinos,1832,True,True,False,False,False,True,True,True,True,42056010.0,-33.1054899954916,-61.3265015329286,6,Pequeña
+903,SANTA FE,Caseros,Los Nogales,152,False,True,False,False,False,False,True,False,False,42056020.0,-33.1430061971604,-61.6066128669784,2,Muy pequeña
+904,SANTA FE,Caseros,Los Quirquinchos,2462,False,False,False,False,False,True,True,True,True,86049120.0,-33.3769918276119,-61.7121943064881,4,Mediana
+905,SANTA FE,Caseros,San José de la Esquina,6775,True,True,False,False,False,True,True,True,True,50035070.0,-33.1140485294151,-61.703312346428,6,Mediana
+906,SANTA FE,Caseros,Sanford,1810,True,False,False,True,False,False,True,True,True,50042010.0,-33.1477729818051,-61.2778572887319,5,Pequeña
+907,SANTA FE,Caseros,Villada,1213,True,True,False,False,False,True,True,False,True,50042020.0,-33.3503085722913,-61.4460374000461,5,Pequeña
+908,SANTA FE,Rosario,Zavalla,4966,True,True,False,False,False,True,True,True,True,50049040.0,-33.0215698285974,-60.879303488531,6,Mediana
+909,BUENOS AIRES,General Viamonte,Baigorrita,1848,True,False,False,False,False,True,True,False,True,90042010.0,-34.7472686783062,-60.9889526585307,4,Pequeña
+910,BUENOS AIRES,General Viamonte,La Delfina,26,False,False,False,False,False,False,False,False,False,90042020.0,-34.9420471191406,-61.1595687866211,0,Muy pequeña
+911,BUENOS AIRES,General Viamonte,Los Toldos,14496,True,False,True,True,False,True,True,True,True,90049010.0,-35.0010365651503,-61.0381497866181,7,Grande
+912,BUENOS AIRES,General Viamonte,San Emilio,142,False,False,False,False,False,False,False,False,False,90049020.0,-35.0319914044113,-60.8647685857183,0,Muy pequeña
+913,BUENOS AIRES,General Viamonte,Zavalía,327,False,False,False,False,False,True,True,False,False,82084210.0,-34.8949208760254,-61.0044538243489,2,Muy pequeña
+914,BUENOS AIRES,General Villegas,Cañada Seca,718,False,False,False,False,False,False,False,False,True,82084230.0,-34.4155054560621,-62.9618553806295,1,Pequeña
+915,BUENOS AIRES,General Villegas,Pichincha,18,False,False,False,False,True,False,False,False,False,82084280.0,-34.5804516676438,-62.3516395240412,1,Muy pequeña
+916,BUENOS AIRES,General Villegas,Piedritas,2160,True,False,False,True,True,True,True,True,True,82084290.0,-34.771104540922,-62.9846965760316,7,Mediana
+917,BUENOS AIRES,Salto,Salto,27466,True,True,True,True,False,True,True,True,True,82084300.0,-34.2921598652878,-60.2546244496406,8,Grande
+918,BUENOS AIRES,San Andrés de Giles,Azcuénaga,312,False,False,False,True,False,True,True,False,False,82084310.0,-34.3637910907784,-59.3745991110996,3,Muy pequeña
+919,BUENOS AIRES,San Andrés de Giles,Cucullú,551,False,False,False,False,False,True,True,False,False,82084320.0,-34.4460870677999,-59.3622553297801,2,Pequeña
+920,BUENOS AIRES,San Andrés de Giles,Franklin,87,False,False,False,False,False,False,False,False,False,82091010.0,-34.6103908719397,-59.6301795182439,0,Muy pequeña
+921,BUENOS AIRES,San Andrés de Giles,San Andrés de Giles,16243,True,True,True,True,True,False,True,True,True,82091020.0,-34.4459080814748,-59.4451673563949,8,Grande
+922,BUENOS AIRES,San Andrés de Giles,Solís,1001,True,False,False,True,True,True,True,False,False,82091030.0,-34.2989712949513,-59.3250547278241,5,Pequeña
+923,BUENOS AIRES,San Andrés de Giles,Villa Espil,157,False,False,False,False,False,True,False,False,False,82091040.0,-34.5066814044811,-59.3372661316763,1,Muy pequeña
+924,BUENOS AIRES,San Andrés de Giles,Villa Ruiz,477,False,False,False,True,False,True,True,False,False,82091050.0,-34.4352021828488,-59.260395880426,3,Muy pequeña
+925,BUENOS AIRES,San Antonio de Areco,Duggan,573,False,False,False,True,False,True,True,False,False,82091060.0,-34.2071973030208,-59.6357055338083,3,Pequeña
+926,BUENOS AIRES,San Antonio de Areco,San Antonio de Areco,19768,True,True,True,True,True,True,True,True,True,82091070.0,-34.2503763113877,-59.4708634797005,9,Grande
+927,BUENOS AIRES,San Antonio de Areco,Villa Lía,1182,True,False,False,True,False,True,True,False,True,82091080.0,-34.1237740718192,-59.4313725724126,5,Pequeña
+928,CABA,COMUNA 10,VILLA LURO,32502,True,True,True,True,True,True,True,True,True,82021200.0,-34.6364127783977,-58.5027288050931,9,Grande
+929,BUENOS AIRES,General Villegas,Santa Eleodora,293,False,False,False,False,False,False,True,False,True,14105190.0,-34.6921180067125,-62.6957932681386,2,Muy pequeña
+930,BUENOS AIRES,General Villegas,Villa Saboya,331,False,False,False,False,False,False,True,False,True,14105210.0,-34.4607916334895,-62.649344456796,2,Muy pequeña
+931,BUENOS AIRES,Guaminí,Arroyo Venado,56,False,False,False,False,False,True,False,False,False,14105230.0,-37.0864662845331,-62.5391482291111,1,Muy pequeña
+932,BUENOS AIRES,Guaminí,Casbas,4450,False,False,True,False,False,True,True,True,True,14105240.0,-36.7580953396186,-62.5017754084549,5,Mediana
+933,BUENOS AIRES,Guaminí,Garré,1036,False,False,False,True,False,False,True,False,True,14105250.0,-36.5604378772819,-62.5981120377825,3,Pequeña
+934,BUENOS AIRES,Guaminí,Guaminí,2845,False,False,False,True,False,True,True,True,True,14105260.0,-37.0120881308673,-62.4166857296556,5,Mediana
+935,BUENOS AIRES,Guaminí,Laguna Alsina (Est. Bonifacio),1677,True,False,False,True,False,True,True,False,False,14105270.0,-36.80905243808,-62.2451480754422,4,Pequeña
+936,BUENOS AIRES,Hipólito Yrigoyen,Henderson,8645,True,False,True,False,False,True,True,True,True,30084060.0,-36.2994630370091,-61.7178401805261,6,Mediana
+937,BUENOS AIRES,Hipólito Yrigoyen,Herrera Vegas,115,False,False,False,False,False,False,False,False,False,30084065.0,-36.0883254041477,-61.4112500767203,0,Muy pequeña
+938,BUENOS AIRES,Hurlingham,Hurlingham,63307,True,True,True,True,True,True,True,True,True,30084110.0,-34.5930931356257,-58.6357209509749,9,Grande
+939,BUENOS AIRES,San Cayetano,Balneario San Cayetano,46,False,False,False,True,False,True,True,False,True,30084070.0,-38.7481815016452,-59.429204589717,4,Muy pequeña
+940,BUENOS AIRES,San Cayetano,Ochandío,51,False,False,False,False,False,True,False,False,False,30084095.0,-38.3598244506044,-59.7935349347064,1,Muy pequeña
+941,BUENOS AIRES,San Cayetano,San Cayetano,7354,True,True,False,True,False,True,True,True,True,30084080.0,-38.346970946847,-59.6063826058006,7,Mediana
+942,BUENOS AIRES,San Fernando,San Fernando,74814,True,True,True,True,False,True,True,True,True,30084090.0,-34.4473601745411,-58.5690015916776,8,Grande
+943,BUENOS AIRES,San Fernando,Victoria,42703,True,True,False,True,True,True,True,True,True,30084095.0,-34.4619820050413,-58.5595970877081,8,Grande
+944,BUENOS AIRES,San Fernando,Virreyes,42768,True,True,False,True,False,False,True,True,True,30084095.0,-34.4636240092728,-58.5761941633194,6,Grande
+945,BUENOS AIRES,San Isidro,Acassuso,12902,True,True,True,True,True,False,True,True,True,30084100.0,-34.4794018120083,-58.5074043996961,8,Grande
+946,CABA,COMUNA 10,VILLA REAL,13419,True,True,True,True,True,True,True,True,True,30084120.0,-34.6194831337073,-58.5259860729102,9,Grande
+947,CORDOBA,Marcos Juárez,Alejo Ledesma,3299,False,False,False,True,True,True,True,True,True,38112010.0,-33.6076125942499,-62.6261405718946,6,Mediana
+948,CORDOBA,Marcos Juárez,Arias,7075,True,False,False,False,False,False,True,True,True,38112020.0,-33.6411632781096,-62.402789011452,4,Mediana
+949,CORDOBA,Marcos Juárez,Camilo Aldao,5197,True,False,False,True,True,False,True,True,True,38112030.0,-33.123740825534,-62.0965954602144,6,Mediana
+950,CORDOBA,Marcos Juárez,Capitán General Bernardo O'Higgins,483,True,False,False,False,False,True,True,False,False,38112040.0,-33.247202805036,-62.269738358968,3,Muy pequeña
+951,CORDOBA,Marcos Juárez,Cavanagh,1202,False,False,False,False,False,True,True,False,True,38112050.0,-33.478334898944,-62.3393464555145,3,Pequeña
+952,CORDOBA,Marcos Juárez,Colonia Barge,153,False,False,False,False,False,False,False,False,False,38112060.0,-33.2585411549016,-62.6081628269792,0,Muy pequeña
+953,CORDOBA,Marcos Juárez,Colonia Italiana,738,False,True,False,False,False,True,False,True,False,38112070.0,-33.3119180942558,-62.1807987939012,3,Pequeña
+954,CORDOBA,Marcos Juárez,Corral de Bustos,10407,True,True,False,True,False,True,True,True,True,38112080.0,-33.2816219895104,-62.1854508942409,7,Grande
+955,CORDOBA,Marcos Juárez,Cruz Alta,7200,True,False,False,False,True,True,True,True,True,38112090.0,-33.0069947278727,-61.8109726038419,6,Mediana
+956,CORDOBA,Marcos Juárez,General Baldissera,2387,True,False,False,False,True,False,True,True,True,42007010.0,-33.1220171765357,-62.3037212558104,5,Mediana
+957,CORDOBA,Marcos Juárez,Guatimozín,2428,True,False,False,False,True,True,False,True,True,42007030.0,-33.4617411292085,-62.4391434502619,5,Mediana
+958,SANTA FE,General López,Labordeboy,928,True,False,False,False,False,False,True,False,True,46021060.0,-33.7196527453715,-61.3149208168028,3,Pequeña
+959,SANTA FE,General López,Lazzarino,350,False,False,False,False,False,False,False,False,True,46021070.0,-34.1663295663381,-62.428038027595,1,Muy pequeña
+960,SANTA FE,General López,Maggiolo,1701,True,False,False,False,False,True,True,True,True,46021080.0,-33.7244236308417,-62.2478391856324,5,Pequeña
+961,SANTA FE,General López,María Teresa,3523,True,True,False,False,False,True,True,True,True,46035010.0,-34.0062849828557,-61.900439675435,6,Mediana
+962,SANTA FE,General López,Melincué (Est. San Urbano),2139,False,False,False,False,False,True,True,True,True,46035020.0,-33.6619144262235,-61.4576887408087,4,Mediana
+963,SANTA FE,General López,Miguel Torres,373,False,True,False,False,False,False,False,False,False,46042030.0,-33.5299502620402,-61.4662068731284,1,Muy pequeña
+964,SANTA FE,General López,Murphy,3630,False,False,False,True,False,False,True,True,True,46042010.0,-33.6428623685969,-61.8577974691015,4,Mediana
+965,SANTA FE,General López,Rufino,18727,True,True,False,True,False,False,True,True,True,50070090.0,-34.2636098414032,-62.7117038844931,6,Grande
+966,SANTA FE,General López,San Eduardo,928,True,False,False,True,False,False,True,False,True,50070030.0,-33.8723970130663,-62.0917158307714,4,Pequeña
+967,SANTA FE,General López,San Francisco de Santa Fe,279,False,False,False,True,True,False,True,False,True,50070040.0,-33.5905400040189,-62.1244693933144,4,Muy pequeña
+968,SANTA FE,General López,San Gregorio,4291,True,False,False,True,False,True,True,True,True,50070050.0,-34.3265186547551,-62.0379529693876,6,Mediana
+969,SANTA FE,General López,Cañada del Ucle,698,True,False,False,False,False,False,True,False,False,50070040.0,-33.4103440716357,-61.6070433975613,2,Pequeña
+970,SANTA FE,General López,Carmen,1611,False,False,False,False,False,True,True,True,True,50070090.0,-33.7327788629688,-61.7609271479419,4,Pequeña
+971,SANTA FE,General López,Carreras,1906,False,True,False,False,False,True,True,True,True,50070060.0,-33.5982834566103,-61.3117684362059,5,Pequeña
+972,SANTA FE,General López,Chapuy,571,False,True,False,False,False,False,True,True,True,50070070.0,-33.8005299368969,-61.7440181936851,4,Pequeña
+973,SANTA FE,General López,Chovet,2101,False,True,False,False,True,False,True,True,True,50070080.0,-33.6007825133126,-61.6046646604986,5,Mediana
+974,SANTA FE,General López,Christophersen,499,False,False,False,True,False,True,True,False,True,50070090.0,-34.1846191181657,-62.0235323680591,4,Muy pequeña
+975,SANTA FE,General López,Diego de Alvear,1855,True,False,False,True,False,True,True,True,True,50070100.0,-34.3743429234538,-62.1289273623308,6,Pequeña
+976,SANTA FE,General López,Elortondo,5632,True,True,False,False,False,True,True,True,True,50077010.0,-33.7016560168056,-61.6163727056605,6,Mediana
+977,SANTA FE,General López,Firmat,19757,True,True,False,True,False,True,True,True,True,66035010.0,-33.4580496833225,-61.4914525089409,7,Grande
+978,SANTA FE,General López,Hughes,4598,False,False,False,True,False,True,True,True,True,66035020.0,-33.8028556653324,-61.3358033222625,5,Mediana
+979,SANTA FE,General López,La Chispa,352,False,False,False,False,False,True,True,False,False,66035030.0,-33.5446704008322,-61.9736324283312,2,Muy pequeña
+980,BUENOS AIRES,Hurlingham,Villa Santos Tesei,66463,True,True,True,True,False,True,True,True,True,6351020.0,-34.6123944448227,-58.6538103691925,8,Grande
+981,BUENOS AIRES,Hurlingham,William C. Morris,51471,False,True,False,True,False,True,False,True,True,6357020.0,-34.5815622830288,-58.6583005365543,5,Grande
+982,BUENOS AIRES,Ituzaingó,Ituzaingó Centro,111138,True,True,True,True,True,True,True,True,True,6357110.0,-34.6440551161203,-58.688489332955,9,Grande
+983,BUENOS AIRES,Ituzaingó,Ituzaingó Sur,23264,False,False,False,False,False,True,False,True,True,6357110.0,-34.6699430265699,-58.6733044157835,3,Grande
+984,BUENOS AIRES,Ituzaingó,Villa Gobernador Udaondo,33422,True,True,True,True,False,True,True,True,True,6357050.0,-34.6168695808944,-58.693287500009,8,Grande
+985,BUENOS AIRES,José C. Paz,Del Viso,6873,False,True,False,False,False,False,False,True,True,6357060.0,-34.480495794913,-58.8042588983994,3,Mediana
+986,BUENOS AIRES,José C. Paz,José C Paz,250301,True,True,True,True,True,True,True,True,True,6357070.0,-34.5211611965464,-58.770881112578,9,Grande
+987,BUENOS AIRES,San Isidro,Beccar,59088,True,True,False,True,False,True,True,True,True,6609080.0,-34.4674159462571,-58.5400343502635,7,Grande
+988,BUENOS AIRES,San Isidro,Boulogne Sur Mer,73842,True,True,False,True,True,True,True,True,True,6609090.0,-34.4983312888498,-58.5700137209729,8,Grande
+989,BUENOS AIRES,San Isidro,Martínez,66169,True,True,True,True,True,False,True,True,True,6609020.0,-34.4944230772436,-58.5105732755943,8,Grande
+990,BUENOS AIRES,San Isidro,San Isidro,45403,True,True,True,True,True,True,True,True,True,6616010.0,-34.4770412162141,-58.52719519996,9,Grande
+991,BUENOS AIRES,San Isidro,Villa Adelina,35473,True,True,False,True,False,False,True,True,True,6616020.0,-34.5151197673508,-58.5457579220177,6,Grande
+992,CABA,COMUNA 11,VILLA DEL PARQUE,55273,True,True,True,True,True,True,True,True,True,14126150.0,-34.6042463004493,-58.4906764324396,9,Grande
+993,CORDOBA,Marcos Juárez,Isla Verde,4361,True,True,False,True,False,False,True,True,True,14126160.0,-33.2401071501959,-62.404426547367,6,Mediana
+994,BUENOS AIRES,José C. Paz,Tortuguitas,8806,False,True,False,False,False,False,False,True,True,50084040.0,-34.4918483987206,-58.7863780316191,3,Mediana
+995,BUENOS AIRES,Junín,Agustín Roca,331,False,False,False,True,False,True,True,False,True,50084050.0,-34.508084406003,-60.8648956546314,4,Muy pequeña
+996,BUENOS AIRES,Junín,Agustina,155,False,False,False,True,False,False,True,True,True,50084060.0,-34.4607068571169,-61.067072329925,4,Muy pequeña
+997,BUENOS AIRES,Junín,Balneario Laguna de Gómez,230,False,False,False,False,False,True,False,True,True,50084070.0,-34.6606435780718,-61.0183645929666,3,Muy pequeña
+998,BUENOS AIRES,Junín,Fortín Tiburcio,257,False,False,False,False,False,True,True,False,False,50084080.0,-34.3467322372427,-61.1310781728463,2,Muy pequeña
+999,BUENOS AIRES,Junín,Junín,87509,True,True,True,True,True,True,True,True,True,50084090.0,-34.5838316271397,-60.9472651715327,9,Grande
+1000,BUENOS AIRES,Junín,Laplacette,22,False,False,False,True,False,True,False,False,False,50084100.0,-34.7245238530675,-61.1553171474145,2,Muy pequeña
+1001,BUENOS AIRES,Junín,Morse,563,False,True,False,True,False,True,True,False,True,50084110.0,-34.7608898130707,-60.8419122487126,5,Pequeña
+1002,BUENOS AIRES,Junín,Paraje La Agraria,40,False,False,False,False,False,False,False,False,False,50084120.0,-34.6564145153102,-60.8466681579607,0,Muy pequeña
+1003,BUENOS AIRES,Junín,Saforcada,431,False,False,False,False,False,True,True,True,True,50084130.0,-34.5752591285936,-61.0747308195452,4,Muy pequeña
+1004,BUENOS AIRES,La Costa,Aguas Verdes,0,True,False,False,True,False,True,False,True,True,50098077.0,-36.6552111489067,-56.6949520678334,5,Muy pequeña
+1005,BUENOS AIRES,San Miguel,Bella Vista,74138,True,True,True,True,True,True,True,True,True,46070020.0,-34.5751401519414,-58.6960409885544,9,Grande
+1006,BUENOS AIRES,San Miguel,Campo De Mayo,1525,False,False,False,False,True,False,False,True,True,46070030.0,-34.5346818189868,-58.6513860167431,3,Pequeña
+1007,BUENOS AIRES,San Miguel,Muñiz,28615,True,True,True,True,False,False,True,True,True,46070040.0,-34.5557351629874,-58.7080227572424,7,Grande
+1008,BUENOS AIRES,San Miguel,San Miguel,171913,True,True,True,True,True,True,True,True,True,46077010.0,-34.5536228677773,-58.7347875195953,9,Grande
+1009,BUENOS AIRES,San Nicolás,Campos Salles,0,False,False,False,False,False,False,False,False,False,46084010.0,-33.4010837029564,-60.2846972878391,0,Muy pequeña
+1010,BUENOS AIRES,San Nicolás,Conesa,2066,True,False,False,True,True,True,True,True,True,46084020.0,-33.5962124822607,-60.3541264450858,7,Mediana
+1011,BUENOS AIRES,San Nicolás,Erézcano,434,False,False,False,False,False,True,False,False,False,46084030.0,-33.5232449410318,-60.3174454958625,1,Muy pequeña
+1012,BUENOS AIRES,San Nicolás,General Rojo,2464,False,False,False,True,True,False,True,True,True,46084040.0,-33.4758683523604,-60.2874270636731,5,Mediana
+1013,BUENOS AIRES,San Nicolás,La Emilia,5325,False,False,False,False,False,False,False,True,True,46084050.0,-33.3514852802661,-60.3139573529074,2,Mediana
+1014,CABA,COMUNA 11,VILLA DEVOTO,66521,True,True,True,True,True,True,True,True,True,46091010.0,-34.6023803136553,-58.5142437101484,9,Grande
+1015,CORDOBA,Presidente Roque Sáenz Peña,La Cesira,1318,True,False,False,True,True,True,True,True,True,50098100.0,-33.9518611160055,-62.9744894136507,7,Pequeña
+1016,CORDOBA,Presidente Roque Sáenz Peña,Leguizamón,53,False,False,False,True,False,False,False,False,False,50105220.0,-34.2040788458157,-62.9768889543714,1,Muy pequeña
+1017,BUENOS AIRES,25 de Mayo,25 de Mayo,23408,True,True,False,True,True,True,True,True,True,82070150.0,-35.4339385892588,-60.1731209454056,8,Grande
+1018,BUENOS AIRES,25 de Mayo,Agustín Mosconi,280,False,False,False,False,False,False,True,False,False,82070290.0,-35.7392169542026,-60.5590634621789,1,Muy pequeña
+1019,BUENOS AIRES,25 de Mayo,Del Valle,899,True,False,False,False,True,False,False,True,True,82070300.0,-35.8973453887603,-60.7316089512944,4,Pequeña
+1020,BUENOS AIRES,25 de Mayo,Ernestina,145,True,False,False,False,False,False,True,False,False,82070310.0,-35.2702340519789,-59.5575034078873,2,Muy pequeña
+1021,BUENOS AIRES,25 de Mayo,Gobernador Ugarte,547,False,False,False,False,False,True,False,False,False,82084010.0,-35.1643973648093,-60.0813577815069,1,Pequeña
+1022,BUENOS AIRES,25 de Mayo,Lucas Monteverde,63,False,False,False,False,False,True,False,False,False,82084020.0,-35.4838272164734,-59.9880647932831,1,Muy pequeña
+1023,BUENOS AIRES,25 de Mayo,Norberto de la Riestra,4524,False,True,False,True,False,True,True,True,True,82084030.0,-35.2727788695321,-59.7719327250509,6,Mediana
+1024,BUENOS AIRES,25 de Mayo,Pedernales,1432,True,False,False,True,False,True,True,False,True,82084040.0,-35.2666085074294,-59.6306574695384,5,Pequeña
+1025,BUENOS AIRES,25 de Mayo,San Enrique,279,False,False,False,False,False,False,True,False,False,82084050.0,-35.7785028686085,-60.3546454811901,1,Muy pequeña
+1026,BUENOS AIRES,25 de Mayo,Valdés,579,False,False,False,False,False,False,True,False,True,82084060.0,-35.6488128268597,-60.4672591673156,2,Pequeña
+1027,BUENOS AIRES,9 de Julio,12 de Octubre,219,False,False,False,False,False,True,True,False,False,82084070.0,-35.607730780146,-60.9182929927645,2,Muy pequeña
+1028,BUENOS AIRES,9 de Julio,9 de Julio,36494,True,True,True,True,True,True,True,True,True,82084080.0,-35.4447435053964,-60.8843433362719,9,Grande
+1029,BUENOS AIRES,La Costa,Las Toninas,5278,True,True,True,True,False,True,True,True,True,86049020.0,-36.4883976285615,-56.7004352579533,8,Mediana
+1030,BUENOS AIRES,La Costa,Lucila Del Mar,0,True,True,False,True,False,True,False,True,True,86049030.0,-36.6627491358367,-56.6817136067571,6,Muy pequeña
+1031,BUENOS AIRES,La Costa,Mar de Ajó - San Bernardo,28466,True,True,True,True,False,True,True,True,True,86049040.0,-36.6874110140403,-56.6841400639982,8,Grande
+1032,BUENOS AIRES,La Costa,San Clemente del Tuyú,12126,True,True,True,True,False,True,True,True,True,86049050.0,-36.3532388310754,-56.723944139417,8,Grande
+1033,BUENOS AIRES,La Costa,Santa Teresita - Mar del Tuyú,23581,True,True,True,True,False,True,True,True,True,86049060.0,-36.5409111808415,-56.705867443875,8,Grande
+1034,BUENOS AIRES,La Matanza,20 De Junio,1171,True,True,True,False,False,True,True,True,True,86049070.0,-34.7855336508384,-58.7171850019077,7,Pequeña
+1035,BUENOS AIRES,La Matanza,Aldo Bonzi,18965,True,True,False,False,False,True,True,True,True,86049080.0,-34.7141728890679,-58.5089043765674,6,Grande
+1036,BUENOS AIRES,San Nicolás,San Nicolás de los Arroyos,133602,True,True,True,True,True,True,True,True,True,86063020.0,-33.3487082868277,-60.231333927581,9,Grande
+1037,BUENOS AIRES,San Nicolás,Villa Campi,0,False,False,False,False,False,False,False,True,False,86063030.0,-33.3599587304228,-60.3000892882903,1,Muy pequeña
+1038,BUENOS AIRES,San Nicolás,Villa Canto,0,False,False,False,False,False,False,False,True,True,86063040.0,-33.3708479748,-60.2954116362263,2,Muy pequeña
+1039,BUENOS AIRES,San Nicolás,Villa Esperanza,386,False,False,False,False,False,False,False,False,False,86063050.0,-33.422326147095,-60.2605874904382,0,Muy pequeña
+1040,BUENOS AIRES,San Nicolás,Villa Riccio,0,False,False,False,False,False,False,False,False,False,86063070.0,-33.3630498059477,-60.2953990898749,0,Muy pequeña
+1041,BUENOS AIRES,San Pedro,Gobernador Castro,2607,False,False,False,False,False,False,False,True,True,86063080.0,-33.6605787290919,-59.8663408291494,2,Mediana
+1042,BUENOS AIRES,San Pedro,Ingeniero Moneta,20,False,False,False,False,False,False,False,False,False,86063090.0,-33.9314631330704,-59.7482330053997,0,Muy pequeña
+1043,BUENOS AIRES,San Pedro,Obligado,261,False,False,False,False,False,False,False,False,True,86056010.0,-33.5965558617631,-59.8199792397796,1,Muy pequeña
+1044,BUENOS AIRES,San Pedro,Pueblo Doyle,528,False,False,False,False,False,True,False,False,False,86056020.0,-33.9050057189811,-59.8187532271261,1,Pequeña
+1045,BUENOS AIRES,San Pedro,Río Tala,1814,False,False,False,True,False,False,False,True,True,86056030.0,-33.769589927701,-59.6383708591324,3,Pequeña
+1046,BUENOS AIRES,San Pedro,San Pedro,47452,True,True,False,True,True,True,True,True,True,86056040.0,-33.6791252253366,-59.6668951027895,8,Grande
+1047,BUENOS AIRES,San Pedro,Santa Lucía,2360,False,False,False,True,True,False,True,True,True,86056050.0,-33.8794559527188,-59.8753284459435,5,Mediana
+1048,BUENOS AIRES,San Vicente,Alejandro Korn,34760,True,True,True,True,False,True,True,True,True,86056060.0,-35.0135125285778,-58.3865346894091,8,Grande
+1049,CABA,COMUNA 11,VILLA GENERAL MITRE,34713,True,True,True,True,True,True,True,True,True,86056070.0,-34.6100289507588,-58.4689425541216,9,Grande
+1050,SANTA FE,Constitución,Alcorta,7450,True,True,False,True,False,True,True,True,True,6638040.0,-33.5401979791092,-61.1246337163915,7,Mediana
+1051,SANTA FE,Constitución,Barrio Arroyo del Medio,310,False,False,False,False,False,False,False,False,False,6638040.0,-33.2860666179194,-60.2720977056001,0,Muy pequeña
+1052,SANTA FE,Constitución,Barrio Mitre,816,False,False,False,False,False,False,False,True,True,6638040.0,-33.255594638469,-60.3897758707887,2,Pequeña
