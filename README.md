@@ -1,5 +1,5 @@
 # Análisis de Telecomunicaciones en Argentina
-![Portada](./assets/portada.png)
+![Portada](./Assets/portada.png)
 
 ## Índice
 - [Introducción](#introducción)
@@ -40,7 +40,7 @@ Se realizó un análisis exhaustivo de los datos utilizando Python y las librer�
 
 El análisis exploratorio de datos se encuentra en el archivo [`EDA.ipynb`](./EDA.ipynb).
 
-![Análisis Exploratorio de Datos](./assets/EDA.png)
+![Análisis Exploratorio de Datos](./Assets/EDA.png)
 
 ### Definición y Seguimiento de KPIs
 Antes de desarrollar el dashboard, se establecieron tres Key Performance Indicators (KPIs) para medir el progreso en la reducción de víctimas fatales en siniestros viales:
@@ -52,7 +52,7 @@ En este análisis, evaluaremos la disponibilidad y penetración de la fibra ópt
 -KPI de Proporción de Población con Acceso a Fibra Óptica por Provincia>
 Evaluaremos la disponibilidad y penetración de la fibra óptica en diferentes localidades utilizando datos combinados de el data set 2. Este KPI nos ayudará a medir la extensión de la cobertura y la intensidad de uso de este servicio crucial de comunicaciones.. El archivo relacionado a este KPI se encuentra en [`kpi3.csv`](./assets/kpi3.csv).
 
-![KPIs](./assets/KPIs.png)
+![KPIs](./Assets/KPIs.png)
 
 ### Desarrollo de Dashboard
 Se creó un dashboard interactivo utilizando la herramienta Power BI para presentar los principales insights de forma clara y accesible. Los KPIs definidos anteriormente se implementaron en el dashboard para su seguimiento. Además, el dashboard incluye:
