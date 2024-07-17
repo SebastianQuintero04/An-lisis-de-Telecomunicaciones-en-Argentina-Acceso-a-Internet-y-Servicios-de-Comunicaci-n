@@ -43,7 +43,7 @@ El análisis exploratorio de datos se encuentra en el archivo [`EDA.ipynb`](./ED
 ![Análisis Exploratorio de Datos](./Assets/EDA.png)
 
 ### Definición y Seguimiento de KPIs
-Antes de desarrollar el dashboard, se establecieron tres Key Performance Indicators (KPIs) para medir el progreso en la reducción de víctimas fatales en siniestros viales:
+Antes de desarrollar el dashboard, se establecieron tres Key Performance Indicators (KPIs) 
 - 
 KPI de Mejora Necesaria en Acceso a Internet:
 Este indicador nos permitirá entender cuánto necesita mejorar cada provincia para alcanzar un objetivo de tasa de cambio del 2% en el acceso a Internet. Calcularemos este KPI trimestralmente utilizando datos del dataset 1, comparando la tasa de cambio actual con el objetivo establecido. se encuentra en [`kpi1.csv`](./assets/kpi1.csv).
@@ -56,7 +56,7 @@ Evaluaremos la disponibilidad y penetración de la fibra óptica en diferentes l
 
 ### Desarrollo de Dashboard
 Se creó un dashboard interactivo utilizando la herramienta Power BI para presentar los principales insights de forma clara y accesible. Los KPIs definidos anteriormente se implementaron en el dashboard para su seguimiento. Además, el dashboard incluye:
-- Filtros para explorar los datos según diferentes criterios (fecha, tipo de siniestro, características de las víctimas, etc.).
+- Filtros para explorar los datos según diferentes criterios .
 - Gráficos y visualizaciones que facilitan la interpretación de la información.
 - Un diseño intuitivo y estéticamente agradable para mejorar la experiencia del usuario.
 
